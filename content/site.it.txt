@@ -87,6 +87,10 @@ Footer: [{"attrs":{"custom_css":"align-items: flex-start;\npadding: 15px;\nmax-w
 
 ----
 
+Mapbox-token: pk.eyJ1IjoiZmYzMzAwIiwiYSI6ImNsdWFhdzJqeTBmaTEya21tdXJ2bmJhaTMifQ.kOq0BAo-oKwgv2Do0rgG7A
+
+----
+
 Alt-name: 
 
 ----
