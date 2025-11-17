@@ -1,0 +1,117 @@
+Title: Il caro-bollette rischia di colpire gli anziani fragili e non autosufficienti
+
+----
+
+Descrizione: Il caro-bollette rischia di colpire pesantemente gli anziani fragili e non autosufficienti e portare a un aumento esponenziale del costo delle rette delle strutture residenziali.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://hDgIVBfELXLBzCai
+
+----
+
+Thumbnail: - file://hDgIVBfELXLBzCai
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario, Dipartimento Contrattazione Sociale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2022-10-11
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: cgil, spi cgil, non autosufficienza, anziani, governo, bollette
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il <strong>caro-bollette</strong> rischia di <strong>colpire pesantemente gli anziani fragili e non autosufficienti</strong> e portare a un aumento esponenziale del costo delle rette delle strutture residenziali.</p><p>Uno scenario, determinato dall’aumento dei prezzi dell’energia, che può produrre un <strong>impatto molto forte sia sul reddito</strong> di milioni di famiglie italiane che, in prospettiva, anche sulla qualità dei servizi socio-assistenziali offerti ai pazienti.</p><p>Si tratta quindi di una questione di estrema rilevanza per la particolare condizione di fragilità delle persone coinvolte e a cui il prossimo governo dovrà quindi rispondere con assoluta urgenza e tempestività. Allo stesso tempo <strong>occorre che Regioni e Comuni intervengano nei confronti dei gestori delle strutture assistenziali</strong>, sia pubbliche che private, per evitare immediate ripercussioni sugli ospiti.</p><p>Anche questa vicenda dimostra che si rende necessaria una <strong>calendarizzazione immediata dell’approvazione della </strong><a href=\"/it/@/page/oEGVgNnSTccx2vHX\"><strong>legge delega sulla non autosufficienza degli anziani</strong></a>, che ridisegna il nostro sistema di welfare e l’approccio complessivo all’invecchiamento della popolazione nel nostro paese.</p><p></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Socio-sanitario, Dipartimento Contrattazione Sociale
+
+----
+
+Deadline: 
+
+----
+
+Uuid: zYImQSmEO3dUyfdO

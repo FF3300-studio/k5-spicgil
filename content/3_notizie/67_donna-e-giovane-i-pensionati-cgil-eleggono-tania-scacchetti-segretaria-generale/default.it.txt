@@ -1,0 +1,117 @@
+Title: Donna e giovane: i pensionati Cgil eleggono Tania Scacchetti segretaria generale
+
+----
+
+Descrizione: Tania Scacchetti non è la prima donna a guidare i pensionati della Cgil, ma di sicuro è la più giovane segretaria generale che lo Spi abbia avuto nella sua storia.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://eo2GSSTC7x3dBj1p
+
+----
+
+Thumbnail: - file://eo2GSSTC7x3dBj1p
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-03-14
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, segretaria generale, tania scacchetti
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Tania Scacchetti</strong> non è la prima donna a guidare i pensionati della Cgil, ma di sicuro è la più giovane segretaria generale che lo Spi abbia avuto nella sua storia.</p><p>Nata a Modena nel 1973, è stata eletta oggi alla guida di <strong>un’organizzazione sindacale che conta 2 milioni e mezzo di iscritti e iscritte</strong> e rappresenta, grazie alle sue 1500 leghe diffuse su tutto il territorio nazionale, i diritti e i bisogni di pensionati e persone anziane.</p><p>“Sono una donna chiamata alla guida di una grande struttura della Cgil – ha dichiarato Scacchetti intervenendo in assemblea - Ne sento la responsabilità perché credo che le donne debbano spendere il proprio impegno per le altre donne, per dare un senso alle lotte, faticose, pazienti e tenaci, come diceva Nilde Iotti, con cui si sono aperte le strade per la loro emancipazione”.</p><p>Con la scelta di Tania Scacchetti, lo Spi Cgil conferma l’impegno a ringiovanire il gruppo dirigente, una direzione intrapresa soprattutto negli ultimi anni sotto la guida del segretario generale uscente Ivan Pedretti, giunto al termine del suo secondo mandato.</p><p>Scacchetti è arrivata al sindacato dei pensionati nel 2023 dopo essere stata segretaria nazionale della Cgil occupandosi per la confederazione di mercato del lavoro, contrattazione e immigrazione. “Quando si arriva allo Spi – ha dichiarato oggi - si scopre <strong>un mondo fatto di militanza, passione e di tantissime attività e azioni</strong>. Dare forze e spinta a queste azioni, alle nuove che ci inventeremo, affinché i diritti, le aspirazioni, i sogni delle pensionate e dei pensionati trovino realizzazione è la ragione del nostro fare sindacato. Quei diritti, quei sogni e quelle aspirazioni si sostanziano nella costruzione di una società migliore per tutti, a partire dai giovani. Le scelte politiche con cui ci stiamo misurando, invece, da quelle fiscali a quelle sociali fino a quelle di riforma istituzionale, non possono essere il nostro orizzonte. La destra è arrivata al governo dopo che abbiamo visto sdoganare la violenza, il razzismo, l’emarginazione. Serpeggia la sfiducia verso le classi dirigenti, un’indifferenza e un’apatia che rischiano di diventare fatalismo. <strong>Sono quindi importanti e significative tutte le iniziative che vanno nella direzione opposta</strong>, che ricostruiscono legami, che affermano il diritto ad avere dei diritti e a esercitare il dissenso”.</p><p>Prima ancora di approdare alla Cgil nazionale e allo Spi nazionale, Tania Scacchetti aveva guidato la segreteria della Cgil di Modena (2012-2016) ed era stata nella segreteria provinciale della Filcams Cgil (2005-2007). È proprio nella categoria del commercio, infatti, che ha mosso i primi passi da sindacalista, come delegata nel gruppo Cir, società cooperativa italiana di ristorazione.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: o7FjLNschz533pEg

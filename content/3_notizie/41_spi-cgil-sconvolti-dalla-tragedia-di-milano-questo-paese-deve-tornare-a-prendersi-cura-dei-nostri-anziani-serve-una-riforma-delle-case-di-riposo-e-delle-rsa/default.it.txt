@@ -1,0 +1,117 @@
+Title: Spi Cgil: Sconvolti dalla tragedia di Milano. Questo Paese deve tornare a prendersi cura dei nostri anziani. Serve una riforma delle case di riposo e delle Rsa
+
+----
+
+Descrizione: L'incendio è costato la vita a sei persone provocando altri 81 feriti nella Residenza per anziani “Casa dei Coniugi”.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://qxkYMYyw2lyIfYbM
+
+----
+
+Thumbnail: - file://qxkYMYyw2lyIfYbM
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-07-07
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, rsa, sanità, non autosufficienza
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“La tragedia della <strong>Rsa di Milano</strong> ci lascia sconvolti”. <a href=\"https://www.facebook.com/ivan.pedretti?eav=AfbUtyWwQdfhG73dyW5V78gTEjVM_UaT89-RnfWaKBmZA05yK5HxH4Fh6Qdjt4SPhDo&amp;paipv=0\">Ivan Pedretti</a>, segretario generale del sindacato dei pensionati della Cgil, commenta così le notizie che arrivano dal capoluogo lombardo, dove un incendio scoppiato nella notte tra giovedì e venerdì, è costato la vita a sei persone provocando altri 81 feriti nella Residenza per anziani “Casa dei Coniugi”.</p><p>“Siamo <strong>vicini alle famiglie delle vittime</strong>, a chi sta lottando per la vita, ai feriti, a lavoratori e ospiti, donne e uomini, coinvolti nel rogo. Sarà la magistratura ad accertare eventuali responsabilità ma non possiamo dimenticare che nelle residenze per anziani troppo spesso la sicurezza è drammaticamente carente. – prosegue il sindacalista dello Spi Cgil - Lo abbiamo vissuto sulla nostra pelle durante il periodo della pandemia: le strutture dove risiedono persone già fragili risultano frequentemente inadeguate a garantire loro diritti e benessere, a volte persino la sopravvivenza. Morire così come sono morti Nadia, Laura, Mikhail, Anna, Loredana e Paola la scorsa notte è inaccettabile”.</p><p>“Il tema della cura delle persone anziane, in un Paese che invecchia come il nostro, conclude - è cruciale e ormai da tempo chiediamo che la legge sulla non autosufficienza riceva finanziamenti che consentano di renderla effettiva e attuata. Il sistema va ripensato mettendo al centro i diritti delle persone, bisogna pensare a una <strong>riforma delle case di riposo e delle Rsa</strong> di cui è comunque necessario anche un censimento perché spesso è proprio nell’assenza di conoscenza che si annidano le insidie peggiori”.</p><p></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: htpMZLUIeJwJIJZn

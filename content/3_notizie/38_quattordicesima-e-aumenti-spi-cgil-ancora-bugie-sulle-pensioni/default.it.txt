@@ -1,0 +1,117 @@
+Title: Quattordicesima e aumenti: Spi Cgil, ancora bugie sulle pensioni
+
+----
+
+Descrizione: I pensionati italiani hanno bisogno di sostegno concreto al loro reddito, non delle ennesime bugie
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://qu360ycSXf5D3nRB
+
+----
+
+Thumbnail: - file://qu360ycSXf5D3nRB
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-06-29
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, pensioni, quattordicesima
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Dalla verifica effettuata su alcuni cedolini delle pensioni del mese di luglio si evince che l’erogazione della <a href=\"https://www.pensionati.it/blog/quattordicesima\">quattordicesima mensilità</a>, frutto di un’importante conquista del sindacato risalente ormai al 2007 e ulteriormente allargata nel 2016, viene indicata sotto la voce “<strong>aumento pensioni basse 2023</strong>”.</p><p>Passerebbe così il messaggio che dietro quelle somme ci sia una decisione del governo in favore delle pensionate e dei pensionati italiani e che possa trattarsi di un aumento che verrà garantito mensilmente.</p><p>“<strong>Nulla di tutto ciò è vero</strong>. – commentano Ivan Pedretti, segretario generale dei pensionati della Cgil e Tania Scacchetti, segretaria nazionale con delega alla previdenza - L’aumento previsto per le pensioni basse e definito in legge di bilancio ammonterà, infatti, a meno di una decina di euro, cifre decisamente inferiori a quelle della quattordicesima mensilità. Se siamo di fronte a un errore grave dell’istituto di previdenza – incalzano dallo Spi Cgil - ci aspettiamo un chiarimento immediato. Se invece fosse un fatto voluto, con l’intento di distorcere la realtà, allora si tratterebbe di un <strong>atto politicamente inaccettabile</strong>. Ricordiamo che <strong>il nostro sindacato chiede a questo governo di aumentare la platea dei destinatari della quattordicesima</strong>. I pensionati italiani hanno bisogno di sostegno concreto al loro reddito, non delle ennesime bugie”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 6o79SAFhw4rQWCja

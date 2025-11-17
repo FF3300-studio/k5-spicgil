@@ -1,0 +1,121 @@
+Title: A Milano in ricordo di Guglielmo Epifani e per la dignità del lavoro
+
+----
+
+Descrizione: A un mese dal voto referendario che intende restituire alla cittadinanza diritti che le sono stati sottratti nel tempo, lo Spi Cgil organizza a Milano un’iniziativa che mette al centro “La dignità del lavoro”, tema essenziale in quattro dei cinque quesiti sui quali saremo chiamati alle urne l’8 e il 9 giugno.
+
+----
+
+Dove: Milano - Camera del Lavoro
+
+----
+
+Immagine: - file://SV8IVsxnsSsWnmaH
+
+----
+
+Thumbnail: - file://SV8IVsxnsSsWnmaH
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-05-08
+  orario_inizio: 09:30:00
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: 
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>A un mese dal <a href=\"https://www.referendum2025.it/\">voto referendario</a> che intende restituire alla cittadinanza diritti che le sono stati sottratti nel tempo, lo Spi Cgil organizza a Milano un’iniziativa che mette al centro “La dignità del lavoro”, tema essenziale in quattro dei cinque quesiti sui quali saremo chiamati alle urne l’8 e il 9 giugno.</p><p>A offrire l’occasione di confronto è il ricordo di <strong>Guglielmo Epifani</strong>, primo socialista a guidare la Cgil, vice di Bruno Trentin e poi di Sergio Cofferati. Eletto segretario generale della confederazione nel 2002, Epifani ricoprì l’incarico fino al 2010.</p><p>Fu sotto la sua guida che il sindacato di Corso d’Italia celebrò il proprio centenario. Rispetto a quell’appuntamento e alle sfide che oggi ci troviamo ad affrontare vale la pena ricordare le parole dello stesso Epifani che non voleva mancare l’occasione “per tirare fuori dagli archivi la memoria di persone e generazioni che con il loro impegno e la loro scelta di vita hanno contribuito al processo di emancipazione del lavoro, hanno dato senso a parole come diritti e dignità, hanno liberato il lavoro dalla schiavitù, dall’oppressione, hanno fatto crescere partecipazione e democrazia, coscienza di sé e delle proprie ragioni. Ci hanno fatti diventare tutti un po’ più diversi, e un po’ più uguali, un po’ più meticci”.</p><p>Epifani portò con sé questa consapevolezza anche negli anni successivi che lo videro in Parlamento, segretario del Pd nel 2013 e poi, a causa di disaccordi interni per la linea adottata dal successore proprio sui temi del lavoro, Matteo Renzi, esponente di Articolo 1 e, infine, Liberi e Uguali.</p><p>Del suo impegno e della sua lezione discuteranno l’<strong>8 maggio a Milano</strong>, presso la sede della Camera del lavoro, Stefano Landini, segretario organizzativo Spi Cgil nazionale, Francesco Palaia, responsabile politiche della memoria Spi Cgil nazionale, Luca Stanzione, Segretario generale della Camera del lavoro di Milano, Pier Virgilio Dastoli, presidente del Movimento Europeo, Sergio Cofferati, già segretario generale della Cgil e Roberto Speranza, deputato del Partito Democratico. I saluti saranno affidati a Massimo Bonini, segretario generale dello Spi Cgil di Milano e a Maria Giuseppina Epifani, presidente dell’Associazione Guglielmo Epifani. Concluderà l’iniziativa la segretaria generale dello Spi Cgil nazionale <strong>Tania Scacchetti</strong>.</p>"},"id":"2e4361ed-592d-415e-8c2d-80d8d8adb96e","isHidden":false,"type":"text"}],"id":"eb20b15a-9c5e-4407-a038-9e3765225710","width":"1/1"}],"id":"fbc7c566-44cf-449e-939d-da4b17e42a1e"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Dipartimenti: 
+
+----
+
+Deadline: 
+
+----
+
+Uuid: HWTPNsp3osB1M4hp

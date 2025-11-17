@@ -1,0 +1,117 @@
+Title: Ci avete rotto le tasche: manifestazione nazionale a Roma
+
+----
+
+Descrizione: Venerdì 15 dicembre a Roma a piazza Santi Apostoli per bocciare le politiche messe in campo dal governo Meloni e rilanciare le richieste del sindacato.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://JxuurX52xjHUM7LR
+
+----
+
+Thumbnail: - file://JxuurX52xjHUM7LR
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-11-30
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, pensioni, fisco, sanità, pnrr
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Venerdì 15 dicembre i pensionati della Cgil scenderanno in piazza Santi Apostoli a Roma</strong>. Una manifestazione nazionale <strong>per bocciare le politiche messe in campo dal governo Meloni</strong> e rilanciare le richieste del sindacato.</p><p>L’appuntamento prenderà il via alle 9.30 con i dialoghi di Gabriele Coen e Ziad Trabelsi, un incontro di musica ebraica e araba all’insegna della pace. Seguiranno le testimonianze di delegati e delegate su pensioni, sanità, assistenza sociale e non autosufficienza. Sul palco anche la voce di una giovane donna contro la violenza di genere.</p><p>A concludere la manifestazione saranno gli interventi di <strong>Ivan Pedretti</strong>, segretario generale dello Spi Cgil e di <strong>Maurizio Landini</strong>, segretario generale della confederazione.</p><p>• <a href=\"/it/@/page/asYreBphCf7H6QuU\"><strong>Manovra di Bilancio 2024: i conti non tornano</strong></a></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: fJl6v8tr4HPM9kKJ

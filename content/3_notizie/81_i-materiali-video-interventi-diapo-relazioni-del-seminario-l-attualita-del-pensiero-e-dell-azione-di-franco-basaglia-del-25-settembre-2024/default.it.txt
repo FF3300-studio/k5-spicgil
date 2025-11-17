@@ -1,0 +1,117 @@
+Title: I materiali (video interventi, diapo, relazioni) del seminario “L’attualità del pensiero e dell’azione di Franco Basaglia” del 25 settembre 2024
+
+----
+
+Descrizione: I materiali (video interventi, diapo, relazioni) del seminario del 25 settembre 2024
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://1ODD6j0PZjbBSVu3
+
+----
+
+Thumbnail: - file://1ODD6j0PZjbBSVu3
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-10-15
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, basaglia, salute, sanità
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>1. VIDEO <a href=\"https://www.youtube.com/watch?v=vGTRwHYnAuY\"><strong>Fulvio Fammoni: “La presentazione del seminario”</strong></a> (coordinatore Alta Scuola SPI CGIL “Luciano Lama”)</p><p>2. VIDEO e RELAZIONE <a href=\"https://youtu.be/xnrgN7Gehmw\"><strong>Cristiano Zagatti: “I Saluti (e gli impegni) della CGIL”</strong></a> (responsabile Area Stato Sociale CGIL nazionale)</p><p>3. VIDEO e RELAZIONE <a href=\"https://www.youtube.com/watch?v=q6T3NUCQSx4\"><strong>Stefano Cecconi “Attualità, Pensiero, Azione di Basaglia”</strong></a> (segretario nazionale SPI CGIL)</p><p>4. VIDEO <a href=\"https://www.youtube.com/watch?v=AkcR_YcjRiA\"><strong>Dévora Kestel “Persiste l’influenza di Basaglia nel mondo”</strong></a> (Direttrice dipartimento Salute Mentale Organizzazione Mondiale Sanità OMS)</p><p>5. VIDEO e DIAPO <a href=\"https://www.youtube.com/watch?v=OJdIzDE6GUE\"><strong>Fabrizio Starace “La Salute Mentale nell’Italia del regionalismo”</strong></a> (presidente Società Italiana di Epidemiologia Psichiatrica)</p><p>6. VIDEO e RELAZIONE <a href=\"https://www.youtube.com/watch?v=UBpeZHbTJIk\"><strong>Gisella Trincas “Salute mentale, le storie e le lotte dei malati e dei loro familiari”</strong></a> (presidente UNASAM Unione nazionale delle Associazioni per la Salute Mentale)</p><p>7. VIDEO e RELAZIONE <a href=\"https://www.youtube.com/watch?v=GixsqgZrz7I\"><strong>Benedetto Saraceno: “Basaglia: continuare un’opera e un pensiero vivi e viventi”</strong></a> (Archivio Basaglia e presidente Lisbon Institute of Global Mental Health)</p><p>8. VIDEO e RELAZIONE <a href=\"https://www.youtube.com/watch?v=rU5o1-uKb90\"><strong>Monica Ghiretti: “Dopo Basaglia, “la città che cura” di Rotelli. La rivoluzione continua, le microaree…”</strong></a> (già referente di “Microarea Azienda Sanitaria di Trieste”)</p><p>9. VIDEO e ABSTRACT <a href=\"https://www.youtube.com/watch?v=QwvtoET8W34\"><strong>Emanuele Sirolli: “Produrre salute mentale agendo su contesti collettivi e sociali”</strong></a> (presidente Coop. Sociale “Basagliando Simpara”)</p><p>10. VIDEO e DIAPO <a href=\"https://www.youtube.com/watch?v=i-XHsVylfS8\"><strong>Emmanuele Pavolini “Le Leghe dello Spi con Basaglia: una agenda di lavoro per la salute mentale degli anziani”</strong></a> (direttore Alta Scuola Spi Cgil “Luciano Lama”)</p><p>11. VIDEO <a href=\"https://www.youtube.com/watch?v=cJakc4AIwv4\"><strong>Maria Grazia Giannichedda: “Uno sguardo strabico, per rendere possibile l’impossibile, oggi”</strong></a> (presidente associazione Franca e Franco Basaglia)</p><p>12. VIDEO <a href=\"https://www.youtube.com/watch?v=dQ1AaDoNCxU\"><strong>Tania Scacchetti: “Le conclusioni. Noi nella rivoluzione di Basaglia: un impegno che continua”</strong></a> (segretaria generale SPI CGIL)</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: u4gcBJWQGoewPDvO

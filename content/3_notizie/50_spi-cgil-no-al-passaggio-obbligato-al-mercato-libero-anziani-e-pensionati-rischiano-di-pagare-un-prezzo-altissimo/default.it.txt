@@ -1,0 +1,117 @@
+Title: Spi Cgil, no al passaggio obbligato al mercato libero. Anziani e pensionati rischiano di pagare un prezzo altissimo.
+
+----
+
+Descrizione: Il sindacato dei pensionati della Cgil chiede la proroga del mercato tutelato e il rinvio del passaggio al mercato libero
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://wMvqRaw4qOd8LJVM
+
+----
+
+Thumbnail: - file://wMvqRaw4qOd8LJVM
+
+----
+
+Child-category-selector: Dipartimento Contrattazione Sociale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-09-27
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, bollette, mercato, tutelato
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>In questi giorni il governo sta discutendo del passaggio dal <strong>mercato tutelato</strong> a quello <strong>libero</strong> nei settori del gas e dell’energia elettrica. Ciò comporterà per i cittadini l’<strong>obbligo di scegliere il proprio fornitore</strong> con il rischio, per oltre 10 milioni di utenze domestiche, di incorrere in un ulteriore <strong>aumento dei prezzi</strong>, già gravati dall’inflazione.</p><p>A essere maggiormente esposta sarà la parte più debole della popolazione e, in particolare, saranno le pensionate e i pensionati: le modalità spesso scorrette adottate dalle aziende per catturare clienti, infatti, disorientano e spaventano le persone più anziane e più fragili.</p><p>Il <strong>sindacato dei pensionati della Cgil</strong> chiede la proroga del mercato tutelato e il <strong>rinvio del passaggio</strong> al mercato libero nonché una campagna di informazione trasparente che consenta ai cittadini scelte consapevoli. Per lo Spi Cgil è anche necessario allargare la platea di utenti considerati vulnerabili ai cittadini over 70.</p><p>“Abbiamo avuto un anno di turbolenze dei prezzi dell’energia che hanno contribuito all’impoverimento delle famiglie spesso composte da pensionati soli; a questo si aggiunge l’aumento dell’inflazione e una povertà sempre più dilagante. – <a href=\"https://www.federconsumatori.it/test-energetico/\">spiega la segretaria nazionale <strong>Carla Mastrantonio</strong></a> - Inoltre, la scelta del fornitore, meccanismo complesso e poco chiaro, lascia i nostri pensionati in balia di operatori pressanti che disorientano. Non possiamo permettere di lasciare queste persone da sole nella scelta e chiediamo <strong>più garanzie per i cittadini</strong>”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: RUcbhoTPNwHMN4FP

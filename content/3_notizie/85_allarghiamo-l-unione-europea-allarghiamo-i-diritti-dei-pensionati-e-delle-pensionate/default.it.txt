@@ -1,0 +1,117 @@
+Title: Allarghiamo l’Unione Europea, allarghiamo i diritti dei pensionati e delle pensionate.
+
+----
+
+Descrizione: Nella giornata di oggi, 4 dicembre, a Belgrado lo Spi-Cgil ha promosso insieme ai due maggiori sindacati dei pensionati serbi Spr-Nezavisnost e Aptus Catus una conferenza per allargare l’Unione Europea e con essa i diritti delle persone.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://ZFQrgiXpoH0dkQad
+
+----
+
+Thumbnail: - file://ZFQrgiXpoH0dkQad
+
+----
+
+Child-category-selector: Dipartimento Internazionale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-12-04
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, cura, diritti
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Nella giornata di oggi, 4 dicembre, a Belgrado lo Spi-Cgil ha promosso insieme ai due maggiori sindacati dei pensionati serbi Spr-Nezavisnost e Aptus Catus una conferenza per allargare l’Unione Europea e con essa i diritti delle persone.</p><p>A partecipare i principali sindacati dei pensionati e delle pensionate dei Paesi dei Balcani occidentali: la Slovenia, la Croazia, il Montenegro, la Macedonia del Nord, il Kosovo, la Bosnia-Erzegovina.</p><p>Un incontro che rinnova l’importante e storico rapporto che lega i pensionati Cgil e i sindacati in questione, uniti da uno spirito di solidarietà e unione delle forze in uno scenario europeo e globale incerto e complesso.</p><p>Siamo convinti che l’unione tra le forze sindacali dei lavoratori e dei pensionati possa restituire dignità e diritti alle persone, opponendoci alle guerre e dando risposte strutturali alle crisi economiche. Per fare ciò, è necessario l’allargamento dell’Ue ai Paesi ancora non membri e il nostro impegno in tal senso è stato e sarà massimo.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: Hhaw85BkEuSEifUJ

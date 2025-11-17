@@ -1,0 +1,121 @@
+Title: Cura a lungo termine. L'impegno dello Spi Cgil
+
+----
+
+Descrizione: Tre ricerche per indagare su anziani e luoghi di cura mettendo al centro qualità del lavoro e condizioni di vita.
+
+----
+
+Dove: Roma - Centro Congressi Frentani
+
+----
+
+Immagine: - file://NxNYoA8RcdNhYO43
+
+----
+
+Thumbnail: - file://NxNYoA8RcdNhYO43
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-02-28
+  orario_inizio: 09:30:00
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: 
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Tre ricerche per indagare su anziani e luoghi di cura mettendo al centro qualità del lavoro e condizioni di vita.</p><p>Lo Spi Cgil con l'Alta Scuola Luciano Lama, in collaborazione con la Fondazione Di Vittorio, il Coripe, e l’Università di Milano ha presentato tre ricerche dedicate al tema della cura a lungo termine (Long Term Care - LTC). Il titolo dell’iniziativa, \"<strong>Long Term Care. Anziani e luoghi di cura: qualità del lavoro, iniziativa privata, condizioni di vita</strong>\", ne sintetizza l'obiettivo principale: analizzare le condizioni di vita degli anziani nelle strutture di assistenza, sia pubbliche che private, e valutare le condizioni di lavoro degli operatori del settore.</p><p>Una delle ricerche mira a far luce anche sulle dinamiche dei grandi gruppi e delle aziende che investono in questo ambito, evidenziando i modelli di gestione e il loro impatto sulla qualità dell’assistenza. Un’altra ricerca è più diretta a indagare sulle condizioni di vita degli anziani ricoverati in strutture. I risultati serviranno a definire indicatori sentinella, strumenti utili per verificare se gli anziani ricevono cure adeguate e per stabilire standard di qualità in grado di orientare una revisione dei sistemi di accreditamento. In particolare lo sviluppo delle ricerche riguarderà anche il diritto a vivere e ad essere curati a casa propria e comunque in ambienti familiari, superando le forme di neo-istituzionalizzazione.</p><p>I primi dati emersi mostrano una correlazione diretta tra la qualità del lavoro e quella dell’assistenza, oltre a un significativo divario tra strutture pubbliche e private. Si evidenziano inoltre differenze sostanziali tra chi applica contratti collettivi nazionali e chi ricorre a contratti meno tutelanti, i cosiddetti \"contratti pirata\". Un aspetto particolarmente preoccupante è la crescente attrattiva del settore per il mercato privato, che vede nella LTC un'opportunità di profitto, spesso a discapito della dignità e del benessere degli ospiti. In questo senso, un altro concreto sbocco dello studio condotto sul rapporto tra qualità del lavoro e qualità delle cure, può essere un nuovo Patto tra chi cura e chi è curato, una Carta dei reciproci diritti, anch’essi a fondamento di nuovi standard per la qualità dell’assistenza.</p><p>Le ricerche proseguiranno nei prossimi mesi, con l’obiettivo di fornire strumenti concreti per migliorare il sistema di assistenza agli anziani e le condizioni di chi vi opera.</p><p><a href=\"https://spi.cgil.it/alta-scuola-spi-luciano-lama\"><strong>Clicca qui per scaricare tutti i materiali dell'iniziativa</strong></a></p>"},"id":"2e4361ed-592d-415e-8c2d-80d8d8adb96e","isHidden":false,"type":"text"}],"id":"eb20b15a-9c5e-4407-a038-9e3765225710","width":"1/1"}],"id":"fbc7c566-44cf-449e-939d-da4b17e42a1e"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Dipartimenti: 
+
+----
+
+Deadline: 
+
+----
+
+Uuid: OSjovEDrlnOKblCZ

@@ -1,0 +1,117 @@
+Title: Pnrr, Sindacati pensionati: preoccupa governo su sanità e welfare
+
+----
+
+Descrizione: Bisogna riaffermare le scelte condivise riguardanti la tutela delle persone più fragili e per realizzare una reale medicina di prossimità. 
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://Z7nabhVas5T0lzQV
+
+----
+
+Thumbnail: - file://Z7nabhVas5T0lzQV
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2022-11-04
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: cgil, spi cgil, non autosufficienza, anziani, governo, sanità, welfare, pnrr
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Preoccupano</strong>, e non poco, le dichiarazioni di Ministro e Sottosegretario alla Salute che <strong>“</strong>frenano” sull<strong>’</strong>apertura delle Case della Comunità e lo sviluppo dell<strong>’</strong>Assistenza territoriale. Gli investimenti e la riforma dell<strong>’</strong>assistenza territoriale (DM 77/2022) decisi con il <strong>PNRR</strong> - pur con i limiti che abbiamo più volte evidenziato, a partire dalla carenza di personale - sono indispensabili: riconoscono che nell<strong>’</strong>ambito di un modello di sanità pubblico e universale, i servizi sociali e sanitari integrati e di prossimità, sono i più appropriati fattori di prevenzione e di cura, essendo aperti e organizzati nei luoghi della vita quotidiana delle persone, e che agiscono anche sui <em>determinanti</em> di <em>salute</em>.&nbsp;</p><p>Ciò vale in special modo per le persone anziane non autosufficienti, che già nella pandemia hanno più sofferto della debolezza dell<strong>’</strong>attuale sistema di servizi nel territorio e che si aspettano ora siano accelerati e non frenati i progetti di sviluppo dell<strong>’</strong>Assistenza socio sanitaria territoriale. E ci si aspetta dal Parlamento la rapida approvazione del disegno di <strong>legge sulla non autosufficienza</strong>, approvato il 10 ottobre dal Governo uscente, che rappresenta l’altra scadenza prevista nel PNRR collegata allo sviluppo delle case della comunità e dell<strong>’</strong>assistenza domiciliare.</p><p>E’ necessario aprire un confronto urgente con il sindacato dei pensionati unitamente alle confederazioni con il Ministro competente per riaffermare le scelte condivise tra le istituzioni e le parti sociali in anni di confronti serrati riguardanti la <strong>tutela delle persone più fragili e per realizzare una reale medicina di prossimità</strong>.&nbsp;</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Socio-sanitario
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 6PI8TRSQTUytw4V7

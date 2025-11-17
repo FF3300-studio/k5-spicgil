@@ -1,0 +1,385 @@
+Title: home
+
+----
+
+Immagine: 
+
+----
+
+Thumbnail: 
+
+----
+
+Descrizione: 
+
+----
+
+Province: 
+
+----
+
+Locator: 
+
+----
+
+Indirizzo-luogo: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Collection-pagination-next: 
+
+----
+
+Collection-pagination-prev: 
+
+----
+
+Collection-pagination-number: 
+
+----
+
+Contenuto: 
+
+----
+
+Collection-toggle: false
+
+----
+
+Cover-toggle: true
+
+----
+
+Thumbnail-toggle: false
+
+----
+
+Child-category-selector-toggle: false
+
+----
+
+Child-locator-toggle: false
+
+----
+
+Child-date-toggle: false
+
+----
+
+Collection-options: blog
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Child-province-toggle: false
+
+----
+
+Child-indirizzo-toggle: false
+
+----
+
+Child-category-field-toggle: false
+
+----
+
+Province-toggle: false
+
+----
+
+Indirizzo-toggle: false
+
+----
+
+Locator-toggle: false
+
+----
+
+Parent-category-field-toggle: false
+
+----
+
+Collection-map-toggle: false
+
+----
+
+Zoom-mappa-toggle: false
+
+----
+
+Centro-mappa-toggle: false
+
+----
+
+Collection-news-toggle: false
+
+----
+
+Collection-pagination-toggle: false
+
+----
+
+Category-toggle: false
+
+----
+
+View-toggle: true
+
+----
+
+Pages-toggle: true
+
+----
+
+View: 
+
+----
+
+Uuid: QkXgpAZF2Nv0lmMH
+
+----
+
+Colore-pass: yellow
+
+----
+
+Descrizione-pass: 
+
+----
+
+Descrizione-itinerario: 
+
+----
+
+Categorie-luoghi: 
+
+----
+
+Categorie-itinerari: 
+
+----
+
+Categorie-pass: 
+
+----
+
+Categorie-punti-vendita: 
+
+----
+
+Prezzo-luogo: 
+
+----
+
+Contatti-luogo: 
+
+----
+
+Sitoweb: 
+
+----
+
+Ingressi: 
+
+----
+
+Durata: 
+
+----
+
+Luoghi: 
+
+----
+
+Luoghi-sconto: 
+
+----
+
+Immagini-luogo: 
+
+----
+
+App: false
+
+----
+
+Inclusi: 
+
+----
+
+Sconti: 
+
+----
+
+Zoom-mappa-itinerario: 
+
+----
+
+Tappe: 
+
+----
+
+Pass: 
+
+----
+
+Data-inizio: 
+
+----
+
+Data-fine: 
+
+----
+
+Orariapertura: 
+
+----
+
+Contatti-punto-vendita: 
+
+----
+
+Colore-pass-toggle: false
+
+----
+
+Categorie-luoghi-toggle: false
+
+----
+
+Categorie-itinerari-toggle: false
+
+----
+
+Categorie-punti-vendita-toggle: false
+
+----
+
+Categorie-pass-toggle: false
+
+----
+
+Descrizionepass-toggle: false
+
+----
+
+Durata-itinerario-toggle: false
+
+----
+
+Descrizione-itinerario-toggle: false
+
+----
+
+Zoom-mappa-itinerario-toggle: false
+
+----
+
+Centro-mappa-itinerario-toggle: false
+
+----
+
+Prezzo-luogo-toggle: false
+
+----
+
+Prezzo-promozione-toggle: false
+
+----
+
+Orariapertura-toggle: false
+
+----
+
+Immagini-luogo-toggle: false
+
+----
+
+Contatti-luogo-toggle: false
+
+----
+
+Sitoweb-toggle: false
+
+----
+
+Prezzo-fisico-toggle: false
+
+----
+
+Prezzo-digitale-toggle: false
+
+----
+
+Trasporti-toggle: false
+
+----
+
+Metodo-pass-toggle: false
+
+----
+
+Ingressi-toggle: false
+
+----
+
+Durata-toggle: false
+
+----
+
+Luoghi-toggle: false
+
+----
+
+Luoghi-sconto-toggle: false
+
+----
+
+App-toggle: false
+
+----
+
+Indirizzo-luogo-toggle: false
+
+----
+
+Inclusi-toggle: false
+
+----
+
+Sconti-toggle: false
+
+----
+
+Tappe-toggle: false
+
+----
+
+Pass-toggle: false
+
+----
+
+Data-inizio-toggle: false
+
+----
+
+Data-fine-toggle: false
+
+----
+
+Contatti-punto-vendita-toggle: false

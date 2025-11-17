@@ -1,0 +1,117 @@
+Title: Landini, la rivalutazione non è un regalo ma il frutto delle lotte sindacali
+
+----
+
+Descrizione: È una grande conquista frutto di tante mobilitazioni
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://4NUaOOABRx3USeuy
+
+----
+
+Thumbnail: - file://4NUaOOABRx3USeuy
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco, Pensioni
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2017-11-17
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo, cgil, landini
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“La rivalutazione delle pensioni non è un regalo di questo governo, ma il <strong>frutto di anni di lotte del sindacato</strong>”. Lo ha detto il Segretario generale della Cgil <strong>Maurizio Landini</strong> in un’intervista al quotidiano La Repubblica.</p><p>Dichiarazioni riprese da <strong>Ivan Pedretti</strong>, Segretario generale dello Spi-Cgil, che sul <a href=\"https://www.facebook.com/ivan.pedretti\">suo profilo Facebook</a> ha ricordato come “a noi non c’ha mai regalato niente nessuno. Ha fatto bene Maurizio Landini a ribadirlo con forza.</p><p>Se da gennaio le pensioni saranno <strong>rivalutate in modo rilevante</strong> è perché per anni ci siamo mobilitati per garantire un diritto troppo a lungo negato e per tutelare il potere d’acquisto dei pensionati”.</p><p>“Ricordo sommessamente – ha continuato Pedretti - che chi oggi ha una pensione media ha lavorato 40 anni e oltre, molto spesso svolgendo attività faticose e logoranti.</p><p>Sono gli operai degli anni ’70, i contributi se li sono pagati tutti e fino all’ultimo centesimo, è giusto che abbiamo un sostegno per fare fronte a una situazione economica così difficile”.</p><p>“Anche le pensioni basse saranno rivalutate. In più hanno la 14esima, un’altra <strong>nostra grande conquista frutto di tante mobilitazioni</strong>.</p><p>Abbiamo sempre sostenuto che la 14esima debba essere estesa anche a chi ancora non la riceve, per aiutare chi è più in difficoltà. Continueremo a sostenerlo”, conclude il Segretario generale dello Spi-Cgil.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 2VUwMa8dsU7ptDuS

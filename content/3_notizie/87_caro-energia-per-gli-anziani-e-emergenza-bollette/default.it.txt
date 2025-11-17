@@ -1,0 +1,117 @@
+Title: Caro energia. Per gli anziani è emergenza bollette.
+
+----
+
+Descrizione: A Pisa assemblea pubblica Cgil, Spi Cgil, Filctem Cgil e Federconsumatori per rilanciare la campagna contro la povertà energetica
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://4L2uINIZ9CBNJcT1
+
+----
+
+Thumbnail: - file://4L2uINIZ9CBNJcT1
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-02-14
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, bollette
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><em>A Pisa assemblea pubblica Cgil, Spi Cgil, Filctem Cgil e Federconsumatori per rilanciare la campagna contro la povertà energetica</em></p><p>Le bollette italiane sono <strong>le più care d’Europa</strong>. Paghiamo il 30% in più della Germania e il doppio della Spagna. Da ormai tre anni, mentre le grandi aziende del settore energia registrano bilanci stellari, circa 2,2 milioni di famiglie italiane sperimentano il dramma della povertà energetica. Si tratta quasi dell’8% della popolazione del Paese. A essere specialmente colpiti sono gli anziani: il 47% di loro è a rischio o in povertà energetica. Per di più, complice anche la fine del mercato tutelato, la spesa media annuale di una famiglia tipo è destinata ad aumentare ulteriormente, sfiorando i 3mila euro l’anno.</p><p>Gas ed energia elettrica sono beni primari, ma gli utenti del mercato libero sono abbandonati a un sistema preda delle speculazioni e privo di regole e di controlli. Da un lato la dipendenza dal gas fa lievitare i costi, dall’altro pratiche commerciali scorrette mettono a nudo il disastro creato dal lavoro povero e precario.</p><p>Sono i temi al centro di un’assemblea pubblica promossa il 20 febbraio a Pisa dalla Cgil, dai pensionati Cgil, dalla Filctem Cgil - che rappresenta i lavoratori dell’energia - e da Federconsumatori. Un’occasione per passare alla seconda fase della campagna lanciata lo scorso anno dalle quattro organizzazioni con l’obiettivo di informare, spiegare ma anche mobilitare contro il caro bollette e chiedere azioni concrete per rendere il sistema energetico nazionale ed europeo più sostenibile dal punto di vista ambientale e sociale.</p><p>Tra le proposte: la separazione dei prezzi di energia elettrica e gas, una maggiore protezione per i soggetti vulnerabili, una riforma del sistema di acquisto energetico e l'introduzione di tariffe sociali. Cgil, Spi Cgil, Filctem Cgil e Federconsumatori chiedono inoltre di tassare gli extraprofitti delle aziende energetiche, fermare i distacchi per morosità involontaria e ampliare i bonus per le famiglie più vulnerabili. Sottolineano, infine, l'importanza di promuovere l'efficienza energetica e le energie rinnovabili per ridurre i costi e combattere la povertà energetica.</p><p>Giovedì 20 febbraio segui la diretta dell’assemblea dalle 9:30 su <a href=\"https://www.collettiva.it\" target=\"_blank\"><strong>Collettiva.it</strong></a></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: x8wzLqBr54zlAWVg

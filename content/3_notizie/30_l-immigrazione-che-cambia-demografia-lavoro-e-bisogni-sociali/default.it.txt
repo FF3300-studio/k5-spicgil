@@ -1,0 +1,117 @@
+Title: L’immigrazione che cambia: demografia, lavoro e bisogni sociali
+
+----
+
+Descrizione: I processi migratori e il cambiamento demografico sono fenomeni che non possono essere affrontati distintamente
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://iRmvHuVHR2OdLzti
+
+----
+
+Thumbnail: - file://iRmvHuVHR2OdLzti
+
+----
+
+Child-category-selector: Dipartimento Diritti e Benessere, Dipartimento Contrattazione Sociale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-05-05
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, demografia, migranti, welfare
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>In occasione del <strong>Festival Sabir 2023</strong>, che si terrà a Trieste dall’11 al 13 maggio, lo Spi-Cgil promuove la presentazione della ricerca curata dalla Fondazione Giuseppe Di Vittorio “<strong>Anziani stranieri: cambiamento sociale e demografico dell’immigrazione in Italia</strong>”. I processi migratori e il cambiamento demografico, infatti, sono fenomeni che non possono essere affrontati distintamente. L’invecchiamento della popolazione non ha solamente conseguenze sulla sicurezza sociale e sull’assistenza, ma si associa a un calo della popolazione in età da lavoro.</p><p>L’immigrazione ha mitigato questo processo e potrebbe contribuirvi anche in futuro, a condizione di politiche dell'immigrazione più aperte e attente ai bisogni attuali e futuri dei migranti stessi. La stabilizzazione degli immigrati (ricongiungimento delle famiglie, seconde generazioni, aspirazioni personali e professionali) si rifletterà peraltro sull’invecchiamento relativo degli stessi stranieri, con conseguenze di policy rilevanti: salute e sicurezza, assistenza, previdenza, politiche attive del lavoro. L’iniziativa è in programma <strong>giovedì 11 maggio dalle 16.30 alle 18.00</strong> presso il Teatro della Chiesa di Santa Maria Maggiore di Trieste. Saluta e presiede Michele Piga, Segretario generale della Cgil Trieste. Presenta la ricerca Beppe De Sario, Fondazione Di Vittorio. Intervengono Roberto Treu, Segretario generale Spi-Cgil Friuli Venezia Giulia; Sally Kane, Cgil nazionale; Carla Mastrantonio, Segretaria nazionale Spi-Cgil</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: szuNICvlRb86AyZD

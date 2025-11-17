@@ -1,0 +1,9 @@
+Caption: 
+
+----
+
+Uuid: PYMocnEndIvMPfAx
+
+----
+
+Template: blocks/image

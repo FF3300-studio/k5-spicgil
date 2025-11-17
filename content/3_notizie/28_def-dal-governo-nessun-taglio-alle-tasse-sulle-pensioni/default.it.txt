@@ -1,0 +1,117 @@
+Title: Def: Dal Governo nessun taglio alle tasse sulle pensioni
+
+----
+
+Descrizione: Nessuna risposta ai pensionati e alle pensionate, nonostante le tante promesse elettorali.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://oNXAQasd5QaNxOqq
+
+----
+
+Thumbnail: - file://oNXAQasd5QaNxOqq
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-05-02
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, def
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il Governo Meloni ha approvato il <strong>Def</strong>, il Documento di Economia e Finanza. Dopo aver tagliato la rivalutazione lo scorso dicembre, l’esecutivo si prepara a varare un piano finanziario in cui <strong>non vengono tagliate le tasse sulle pensioni</strong>.</p><p>“Un Def — spiega <strong>Ivan Pedretti</strong>, Segretario generale dello Spi Cgil — che non dà nessuna risposta ai pensionati e alle pensionate, nonostante le tante promesse elettorali. Sulle tasse, poi, pochi soldi per i lavoratori dipendenti mentre i pensionati, che anche loro le pagano tutte e fino all’ultimo centesimo, vedono assottigliarsi la propria pensione per l’aumento dei prezzi e dell’inflazione senza ricevere alcun sostegno. Questo è un governo di classe e va contrastato. <strong>Ci troverete nelle piazze</strong> di Cgil Cisl e Uil a far sentire forte la voce di milioni di persone che rappresentiamo.”</p><p>La Presidente del Consiglio assicura sui suoi canali social di essere al lavoro per il Paese, a quanto pare non lo è per i pensionati e le pensionate. <strong>Appuntamento quindi il 6 maggio a Bologna, il 13 maggio a Milano e il 20 maggio a Napoli.</strong></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: omzXRu06QFnRBaKZ

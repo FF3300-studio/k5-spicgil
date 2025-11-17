@@ -1,0 +1,117 @@
+Title: Il Governo torna a colpire le pensioni per fare cassa
+
+----
+
+Descrizione: I nuovi tagli che si profilano per il 2025 produrranno una perdita economica per i pensionati e le pensionate di migliaia di euro, è inaccettabile
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://olgrwGdjUFvg2CrF
+
+----
+
+Thumbnail: - file://olgrwGdjUFvg2CrF
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco, Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-09-05
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, governo, tagli
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>\"Il Governo torna nuovamente a colpire le pensioni, e per fare cassa. Dopo aver peggiorato la legge Monti/Fornero con le ultime due leggi di bilancio, eliminando qualsiasi flessibilità in uscita, le proposte che stanno circolando nelle ultime settimane destano grande preoccupazione. I nuovi tagli che si profilano per il 2025 produrranno una perdita economica per i pensionati e le pensionate di migliaia di euro, è inaccettabile\". Lo afferma la segretaria confederale della Cgil Lara Ghiglione, in una nota.</p><p>\"Questo Esecutivo, dopo aver pesantemente ridotto la rivalutazione per il 2023 e il 2024 - spiega Lorenzo Mazzoli, segretario nazionale dello Spi Cgil - sta ora pensando di colpire nuovamente i trattamenti pensionistici superiori a quattro volte il minimo, vale a dire pensioni appena superiori a 1.650 euro nette, altro che pensioni ricche. Perdite enormi che si accumulano nel tempo e non sono più recuperabili per i pensionati e le pensionate che hanno lavorato una vita e che continuano a sostenere questo Paese, pagando tasse e contributi fondamentali per garantire i servizi a tutela dei diritti delle persone\".</p><p>L'analisi del Dipartimento Previdenza della Cgil e dello Spi evidenzia i possibili tagli previsti per il 2025, che si aggiungono a quelli già in atto per il biennio 2023-2024. Nell'arco del triennio 2023-2025, una pensione che nel 2022 ammontava a 1.732 euro nette subirà un taglio complessivo di 968 euro; per una pensione netta di 2.029 euro la perdita sarà di 3.571 euro, e per una di 2.337 euro si arriverà a una perdita di 4.487 euro. Chi percepisce una pensione netta di 2.646 euro, perderà complessivamente 4.534 euro.</p><p>Secondo l'analisi, questi tagli, proiettati sull'aspettativa di vita media, possono raggiungere cifre molto elevate: da 8.772 euro per un pensionato con 1.732 euro netti, fino a 44.462 euro per chi percepisce 2.646 euro netti. Per Cgil e Spi \"una inaccettabile sottrazione di reddito frutto di contribuzione''.</p><p>\"Invece di combattere con fermezza l'evasione fiscale e contributiva - denunciano Ghiglione e Mazzoli - il Governo pensa ancora una volta di tagliare le pensioni, colpendo sempre gli stessi, già gravati da un sistema fiscale iniquo. L'obiettivo è chiaro, recuperare un miliardo di euro per il 2025, che si sommano ai 10 miliardi già tagliati\".</p><p>\"Non è possibile continuare a evocare la solidarietà tra generazioni, cercando di mettere i pensionati di oggi contro i giovani e, nei fatti, bloccando il turn over attraverso la permanenza in servizio dei dipendenti pubblici\", proseguono. \"La verità, è un'altra: con molta probabilità la prossima legge di bilancio non prevederà alcun investimento reale per i giovani, mentre si continueranno a penalizzare i pensionati. Occorre pagare meglio il lavoro per avere pensioni adeguate domani, e garantire la tutela del potere d'acquisto delle pensioni, come indicato nella piattaforma unitaria, per rispettare il patto tra Stato e cittadini\".</p><p>I dirigenti sindacali ricordano che \"da tempo chiediamo al Governo di cambiare rotta, mettendo al centro dell'agenda politica il tema del lavoro, una riforma del fisco equa, un intervento sugli extra profitti e sulle grandi rendite, ma l'Esecutivo sembra aver scelto la ricetta più semplice, mettendo le mani in tasca ai pensionati e alle pensioni.</p><p>In conclusione, Ghiglione e Mazzoli sostengono che \"è inaccettabile che il Governo non abbia mai aperto un vero confronto con le organizzazioni sindacali su un tema così delicato come quello delle pensioni\".</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: Rjt0tuSKd4S2bAy9

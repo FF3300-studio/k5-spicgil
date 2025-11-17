@@ -1,0 +1,117 @@
+Title: UNIT3: Al via il progetto di Spi Cgil, Rete degli Studenti medi e Unione degli Universitari
+
+----
+
+Descrizione: La ricerca sul disagio giovanile che lo Spi Cgil ha condotto due anni fa insieme a Rete e Udu, Chiedimi come sto, ha aperto uno squarcio su un mondo che non conoscevamo.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://uK56bEN5Xncdr7Jh
+
+----
+
+Thumbnail: - file://uK56bEN5Xncdr7Jh
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-03-04
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, giovani, donne, 8 marzo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il sindacato dei pensionati della Cgil rappresenta la generazione che, a partire dagli anni Settanta, ha portato avanti battaglie fondamentali che hanno consentito alle donne del nostro Paese di vivere in condizioni migliori. Aborto, divorzio, asili nido, consultori sono solo alcune delle conquiste arrivate grazie a quell’impegno e a quelle lotte. È importante che il protagonismo delle donne di allora sia ancora oggi vissuto pienamente, anche perché progressi e diritti ottenuti in quegli anni vengono messi in discussione e vanno difesi in ogni modo dal fuoco di fila di una destra sempre più pericolosa e liberticida.</p><p>La ricerca sul disagio giovanile che lo Spi Cgil ha condotto due anni fa insieme a Rete e Udu, Chiedimi come sto, ha aperto uno squarcio su un mondo che non conoscevamo. Ha acceso i riflettori sulla necessità di parlare di disagio, di affrontarlo pubblicamente e di formulare risposte adeguate. E ha messo in luce più che mai una complessità del mondo giovanile.</p><p>È da queste considerazioni e dalla consapevolezza che dagli anni Settanta sono cambiati il modo di intendere il femminismo e le questioni dei generi nonché gli strumenti di lotta e le rivendicazioni che nasce il progetto UnitƏ, promosso da Spi Cgil, Rete degli Studenti Medi e Unione degli Universitari e lanciato in occasione dell’8 marzo 2024.</p><p>Cosa vuol dire parlare di femminismo e quali sono le richieste delle ragazze di oggi? Perché partire dal linguaggio per cambiare lo status quo? Come incrociare i linguaggi di ieri con quelli attuali? E cosa rimane delle lotte e delle conquiste di un tempo? Quanto quella memoria può diventare agire politico nel presente? E come?</p><p>Nel cercare risposte a queste domande, il progetto UnitƏ vuole afferrare la complessità del mondo giovanile emersa in questi anni e, allo stesso tempo, restituire ad esso la complessità del passato. L’obiettivo è rafforzare il patto tra generazioni rendendo concreto il dialogo sui temi dei generi, del femminismo, dei linguaggi e dei codici.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: MK1foiW2vWfHXKya

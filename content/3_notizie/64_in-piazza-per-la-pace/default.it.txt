@@ -1,0 +1,117 @@
+Title: In piazza per la pace
+
+----
+
+Descrizione: Il 24 febbraio lo Spi Cgil aderisce all’iniziativa promossa dalle associazioni Europe for Peace, Rete Italiana Pace e Disarmo e Assisi Pace Giusta per fermare “la criminale follia di tutte le guerre, la corsa al riarmo, la distruzione del Pianeta.”
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://VpTcoeUG5Ig1XCtY
+
+----
+
+Thumbnail: - file://VpTcoeUG5Ig1XCtY
+
+----
+
+Child-category-selector: Dipartimento Organizzazione, Dipartimento Internazionale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-02-22
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, pace, palestina, israele, ucraina, russia, armi
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il 24 febbraio lo Spi Cgil aderisce all’iniziativa promossa dalle associazioni Europe for Peace, Rete Italiana Pace e Disarmo e Assisi Pace Giusta per fermare “la criminale follia di tutte le guerre, la corsa al riarmo, la distruzione del Pianeta.”</p><p>I pensionati Cgil invitano a partecipare alla giornata di mobilitazione che animerà le piazze in tutt’Italia. In particolare, le leghe, le sedi provinciali e regionali del sindacato saranno impegnate per riaffermare l’impegno contro le guerre e il riarmo, che oltre a distruggere le vite e la convivenza tra i popoli, distruggono l’economia, bruciano posti di lavoro, diritti e ambiente.</p><p>Al compimento dei due anni di guerra in Ucraina, dopo tredici anni di guerra in Siria, con conflitti continui che schiacciano democrazia e libertà in Africa, “l’ultimo e più drammatico esempio di questa spirale distruttiva è ancora una volta in Medio Oriente.”</p><p>“Stati e governi – si legge nell’appello dei promotori – sembrano aver perso la capacità di prevenire e gestire i conflitti mediante gli strumenti della diplomazia e della politica, con i quali far applicare e rispettare le convenzioni e il diritto internazionale. La conseguenza è che la guerra e la barbarie sono nuovamente tornate a essere le uniche opzioni in campo. Basta, questa logica distruttiva va fermata”.</p><p>Mobilitiamoci tutte e tutti.</p><p><a href=\"https://sbilanciamoci.info/europe-for-peace/\">Le informazioni sugli eventi della giornata sono sul sito di Sbilanciamoci</a></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: s3zLFasX1PM48Laj

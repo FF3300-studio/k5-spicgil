@@ -1,0 +1,117 @@
+Title: Pensioni: Spi Cgil, Fnp Cisl e Uilp Uil, il governo ascolti le nostre richieste
+
+----
+
+Descrizione: Una grande Assemblea nazionale sotto lo slogan “Più reddito, più diritti” per chiedere al governo risposte concrete
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://c4gr7wdEEHoInYLv
+
+----
+
+Thumbnail: - file://c4gr7wdEEHoInYLv
+
+----
+
+Child-category-selector: Dipartimento Organizzazione, Dipartimento Previdenza e Fisco
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-06-13
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, manifestazione, pensioni
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Una grande Assemblea nazionale sotto lo slogan “<strong>Più reddito, più diritti</strong>” per chiedere al governo risposte concrete per pensionati e lavoratori in tema di pensioni, sanità, fisco e non autosufficienza. L’hanno tenuta i sindacati dei pensionati <strong>Spi Cgil, Fnp Cisl e Uilp Uil</strong>, oggi 13 giugno presso l’Auditorium del Massimo a Roma, approvando una piattaforma unitaria.</p><p>Tanti gli interventi che si sono succeduti sul palco, tutti rivolti a sottolineare la necessità di azioni urgenti per risolvere le criticità riguardanti la condizione di vita di molti pensionati e pensionate.</p><p>“Il governo dimostri attenzione per chi vive situazioni di difficoltà e ascolti le richieste che abbiamo avanzato su sanità, previdenza, fisco e non autosufficienza per realizzare le riforme che questo Paese attende da anni”: è quanto hanno dichiarato i tre segretari generali Spi, Fnp e Uilp, Ivan Pedretti, Emilio Didonè e Carmelo Barbagallo. “E’ necessario riconoscere <strong>pensioni adeguate</strong> e che non perdano valore nel corso del tempo, <strong>intervenire sul fisco</strong> per renderlo più equo per pensionati e lavoratori affrontando anche il tema delle detrazioni, e sul sistema previdenziale per dare <strong>garanzie a giovani e donne</strong>, garantire la flessibilità nell'accesso e il riconoscimento del <strong>lavoro di cura</strong>. Tra le altre priorità - hanno dichiarato - quella di incrementare le risorse per la <strong>non autosufficienza</strong>, e l’intervento sulla <strong>sanità</strong>, per la quale risulta di fondamentale importanza attuare una riforma che garantisca un sistema universale ed efficiente per tutto il Paese”. “I bisogni dei nostri pensionati e delle nostre pensionate – hanno concluso Spi, Fnp e Uilp – devono diventare priorità nelle scelte del governo, per questo <strong>continueremo la nostra iniziativa</strong>”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: iKdH2on21vaBXjaY

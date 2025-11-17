@@ -1,0 +1,117 @@
+Title: Fine del mercato tutelato: tutte le informazioni
+
+----
+
+Descrizione: Il 10 gennaio scorso è terminata l’esperienza del mercato tutelato per le utenze domestiche del gas.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://Np1jQ1A1NIT7CKAN
+
+----
+
+Thumbnail: - file://Np1jQ1A1NIT7CKAN
+
+----
+
+Child-category-selector: Dipartimento Contrattazione Sociale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-01-23
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, mercato, tutelato, bollette, energia
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il 10 gennaio scorso è terminata l’esperienza del mercato tutelato per le utenze domestiche del gas. Il 1 luglio prossimo verrà invece sancito automaticamente il passaggio al mercato libero anche per le utenze della luce.</p><p>Si tratta di una fase molto delicata, che avrà un impatto considerevole sulle condizioni economiche di milioni di persone. Nel frattempo regna grande confusione anche per le poche, e non sempre chiare, informazioni circolanti riguardo a cosa fare o non fare.</p><p>In questo scenario anche i soggetti più anziani e i fragili, sebbene destinatari di trattamenti di maggior favore, rischiano di compiere scelte a loro sfavorevoli.</p><p>Per questa ragione, partendo da un lavoro già avviato nei mesi scorsi da alcuni territori, Spi Cgil, Federconsumatori e Cgil, hanno predisposto una campagna di comunicazione capillare, con l’obiettivo di rendere univoche e omogenee le informazioni e fornire le prime indicazioni su quanto sta avvenendo, invitando coloro che avranno bisogno di assistenza a rivolgersi alle nostre strutture.</p><p><a href=\"https://www.pensionati.it/blog/fine-mercato-tutelato\"><strong>Clicca qui per approfondire</strong></a></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: VvoaT95Gtb7Ua4lf

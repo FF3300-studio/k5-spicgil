@@ -1,0 +1,117 @@
+Title: Io, di me, farò una rivoluzione: l'assemblea nazionale delle pensionate Cgil
+
+----
+
+Descrizione: In programma presso il Centro Congressi Frentani a Roma il 29 e il 30 maggio.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://M6VnKv3TieTetRRn
+
+----
+
+Thumbnail: - file://M6VnKv3TieTetRRn
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-05-25
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, donne, pensionate
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“Io, di me, farò una rivoluzione” è lo slogan scelto per l’<strong>Assemblea nazionale delle donne del sindacato dei pensionati Cgil</strong>, in programma presso il Centro Congressi Frentani a Roma il <strong>29 e il 30 maggio</strong>.</p><p>L’apertura dei lavori è prevista per le 14 di lunedì 29 maggio. Seguirà la relazione introduttiva di <strong>Mina Cilloni</strong>, responsabile del coordinamento donne dello Spi Cgil. Al centro della due giorni le testimonianze delle delegate che metteranno a confronto le proprie esperienze sul territorio.</p><p>In programma il contributo della scrittrice <strong>Lidia Ravera</strong>, autrice del libro “Age Pride. Per liberarci dai pregiudizi sull’età” (Einaudi); la presentazione della ricerca “<strong>Le forme della violenza di genere nella popolazione anziana</strong>” a cura di Davide Dazzi e Assunta Ingenito, dell’Ires Emilia Romagna e del progetto Over Dance della <strong>Fondazione Nazionale Danza</strong> – Aterballetto con gli interventi dell’assistente alla direzione <strong>Irene Sartorelli</strong>, dell’Assessore del Comune Reggio Emilia <strong>Lanfranco De Franco</strong> e della coreografa <strong>Lara Guidetti</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: BOKwaES9wSscklGs

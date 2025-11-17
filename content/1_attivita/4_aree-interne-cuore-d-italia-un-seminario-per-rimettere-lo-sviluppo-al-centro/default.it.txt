@@ -1,0 +1,121 @@
+Title: Aree interne. Cuore d’Italia. Un seminario per rimettere lo sviluppo al centro
+
+----
+
+Descrizione: È il titolo scelto per la due giorni seminariale, organizzata dal sindacato dei pensionati della Cgil a Castelnovo ne’ Monti, in provincia di Reggio Emilia.
+
+----
+
+Dove: Castelnovo ne' Monti
+
+----
+
+Immagine: - file://VpA8wwiPsuHbnQIV
+
+----
+
+Thumbnail: - file://VpA8wwiPsuHbnQIV
+
+----
+
+Child-category-selector: Dipartimento Contrattazione Sociale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-06-20
+  orario_inizio: 09:30:00
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: 
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Aree interne - Cuore d’Italia</strong> è il titolo scelto per la due giorni seminariale, organizzata dal sindacato dei pensionati della Cgil a Castelnovo ne’ Monti, in provincia di Reggio Emilia.</p><p>Al centro dell’iniziativa, promossa dal dipartimento contrattazione sociale territoriale e benessere, c’è la Strategia Nazionale Aree Interne (SNAI).</p><p>Si partirà dall’analisi delle difficoltà che queste aree continuano a presentare - declino demografico e fragilità socio-economiche in primo luogo – e, allo stesso tempo, si cercherà, anche attraverso il racconto di alcune buone pratiche e il confronto tra realtà diverse, di cogliere nuove possibili opportunità di sviluppo.</p><p>Da un lato quindi numeri, visioni, politiche e strategie, dall’altro la contrattazione come leva per tutelare i diritti della cittadinanza e garantire servizi e benessere.</p><p>L’appuntamento è in programma il 19 e 20 giugno. La seconda giornata sarà dedicata alle esperienze sul campo, con le visite a due Cooperative di Comunità del Comune di Ventasso (RE): Briganti del Cerreto e Valle dei Cavalieri.</p>"},"id":"2e4361ed-592d-415e-8c2d-80d8d8adb96e","isHidden":false,"type":"text"}],"id":"eb20b15a-9c5e-4407-a038-9e3765225710","width":"1/1"}],"id":"fbc7c566-44cf-449e-939d-da4b17e42a1e"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Dipartimenti: 
+
+----
+
+Deadline: 
+
+----
+
+Uuid: WFI5YEW9WwpWztHj

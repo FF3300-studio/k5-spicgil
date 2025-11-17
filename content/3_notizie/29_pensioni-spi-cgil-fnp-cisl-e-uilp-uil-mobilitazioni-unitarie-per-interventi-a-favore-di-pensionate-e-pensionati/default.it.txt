@@ -1,0 +1,117 @@
+Title: Pensioni: Spi Cgil, Fnp Cisl e Uilp Uil, mobilitazioni unitarie per interventi a favore di pensionate e pensionati
+
+----
+
+Descrizione: È ora che i diritti delle pensionate e dei pensionati entrino nell’agenda di Governo e Parlamento
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://tbF214jje4m3vDfS
+
+----
+
+Thumbnail: - file://tbF214jje4m3vDfS
+
+----
+
+Child-category-selector: Dipartimento Organizzazione, Dipartimento Previdenza e Fisco
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-05-02
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, manifestazione, pensioni
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“Metteremo in atto un <strong>percorso di mobilitazione unitario</strong> locale, territoriale e regionale, per rivendicare interventi concreti volti a salvaguardare i <strong>16 milioni di pensionate e pensionati</strong> di questo Paese. A tal fine è convocata un’Assemblea nazionale dei quadri e attivisti delle tre organizzazioni per la metà di giugno a Roma”.</p><p>Questo l’annuncio di Spi Cgil, Fnp Cisl e Uilp Uil, le cui Segreterie nazionali si sono riunite il 4 maggio a Roma nella sede Uilp.</p><p>“Abbiamo una piattaforma unitaria nella quale abbiamo richieste e proposte ben precise su <strong>sanità, fisco, previdenza e non autosufficienza</strong>. <strong>Vogliamo essere ascoltati</strong>. È ora che i diritti delle pensionate e dei pensionati, come quello fondamentale alla salute, e i loro bisogni entrino nell’agenda di Governo e Parlamento.”</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: tsMdiTJ800UcfodU

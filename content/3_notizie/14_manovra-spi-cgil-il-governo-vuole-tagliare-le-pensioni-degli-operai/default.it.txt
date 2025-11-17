@@ -1,0 +1,117 @@
+Title: Manovra, Spi-Cgil: il governo vuole tagliare le pensioni degli operai
+
+----
+
+Descrizione: Se lo faranno non staremo in silenzio e ci faremo sentire
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://vCSwlumqtYbYYKyb
+
+----
+
+Thumbnail: - file://vCSwlumqtYbYYKyb
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco, Pensioni
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2017-11-17
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo, cgil, landini
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“Da quanto apprendiamo <strong>il governo Meloni sta lavorando per congelare la rivalutazione delle pensioni</strong>.</p><p>In particolare vogliono colpire quelle di chi ha lavorato per oltre 40 anni versando tutti i contributi”.</p><p>Lo afferma il Segretario generale dello Spi-Cgil <strong>Ivan Pedretti</strong>.</p><p>“Si tratterebbe - continua Pedretti - di una <strong>operazione di cassa fatta ai danni di pensioni operaie</strong>, frutto di una vita di lavoro, per finanziare altre misure e per mandare in pensione qualche lavoratore.</p><p>Divide et impera, come nella peggiore tradizione della destra.</p><p>Se lo faranno <strong>non staremo in silenzio e ci faremo sentire</strong>”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: XGwoI6th9xBYij8d

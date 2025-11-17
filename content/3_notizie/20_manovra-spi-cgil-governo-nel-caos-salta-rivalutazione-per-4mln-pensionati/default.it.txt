@@ -1,0 +1,117 @@
+Title: Manovra, Spi-Cgil: governo nel caos; salta rivalutazione per 4mln pensionati
+
+----
+
+Descrizione: Continueremo a mobilitarci nei prossimi mesi contro un governo che vessa e penalizza i pensionati
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://TVaubdknfnbiWUpr
+
+----
+
+Thumbnail: - file://TVaubdknfnbiWUpr
+
+----
+
+Child-category-selector: Pensioni, Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2017-11-17
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo, cgil, manifestazione, spi
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“A causa della <strong>confusione</strong> e dei <strong>ritardi</strong> del governo nell’approvazione della manovra di bilancio a gennaio <strong>salta la rivalutazione delle pensioni per 4 milioni di pensionati</strong>.</p><p>L’Inps, infatti, non è stato messo nelle condizioni di erogare gli importi rivalutati per tutte le <strong>pensioni sopra quattro volte</strong> il trattamento minimo e provvederà quindi a <strong>rivalutare solo quelle sotto questa soglia</strong>. La mancata rivalutazione sarà comunque recuperata nei mesi successivi attraverso un conguaglio”.</p><p>Lo denuncia il Segretario generale dello Spi-Cgil <strong>Ivan Pedretti</strong>.</p><p>“Sulle pensioni – continua Pedretti – il governo è letteralmente nel <strong>caos</strong> e questo danneggia fortemente i pensionati, già colpiti dal taglio previsto dalla manovra.</p><p>L’emendamento del governo, che doveva ripristinare il 100% di rivalutazione almeno fino a 5 volte il trattamento minimo, si è rivelato una bufala e si passa dall’80 all’85% con un taglio ulteriore per chi ha importi superiori”.</p><p>“Anche la misura sulle pensioni minime – conclude il Segretario generale dello Spi-Cgil – porta a aumenti risibili, per un solo anno e non per tutti.</p><p>Bene abbiamo fatto a scendere in piazza venerdì scorso a Roma e bene faremo a continuare a mobilitarci nei prossimi mesi contro <strong>un governo che vessa e penalizza i pensionati</strong>”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 9F10nYYI8SWmIOp8

@@ -1,0 +1,117 @@
+Title: Legge di Bilancio: blocco della rivalutazione per i pensionati all'estero
+
+----
+
+Descrizione: Il governo discrimina e penalizza ulteriormente le pensionate e i pensionati residenti all’estero.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://h50FaBvL3Fwfvz4Y
+
+----
+
+Thumbnail: - file://h50FaBvL3Fwfvz4Y
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-03-11
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, rivalutazione
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il governo discrimina e penalizza ulteriormente le pensionate e i pensionati residenti all’estero.</p><p>Dopo aver tagliato la rivalutazione delle pensioni per il 2023 e 2024, con la legge di bilancio 2025, <strong>cancella l’aumento previsto a coloro che risiedono all’estero e percepiscono una pensione INPS superiore a 598,61 € mensili</strong>.</p><p>Per questo riteniamo utile avviare anche una campagna di informazione con un volantino che trovate in allegato.</p><p>L’INCA avvierà, attraverso le proprie sedi all’estero, la campagna informativa e la raccolta dei dati necessari per le adesioni alla vertenza e si attiverà ad organizzare iniziative mirate, in coordinamento con la Cgil e con lo Spi CGil, per raggiungere il maggior numero di pensionati, anche attraverso una forte collaborazione con le associazioni presenti nei diversi Paesi esteri.</p><p>Riteniamo che questa vertenza possa <strong>legarsi profondamente alla campagna referendaria che stiamo portando avanti</strong>. Il taglio delle pensioni all’estero è solo l’ennesimo esempio di un Governo che viola i diritti sociali e costituzionali, restringendo le tutele e penalizzando lavoratori e pensionati. Per questo motivo, è fondamentale rafforzare la mobilitazione e collegare la lotta sulla perequazione con le ragioni del referendum.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: LdoXVC2ZEPHHKtWc

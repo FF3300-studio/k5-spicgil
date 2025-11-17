@@ -1,0 +1,117 @@
+Title: Speciale Legge delega 33/2023 per la non autosufficienza
+
+----
+
+Descrizione: È possibile consultare i documenti con le proposte
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://bs4UU40DYwzq57R0
+
+----
+
+Thumbnail: - file://bs4UU40DYwzq57R0
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-07-12
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, rsa, sanità, non autosufficienza
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Inviate a &nbsp;Governo, Parlamento, Conferenza delle Regioni e Anci una serie di prime proposte dai Sindacati dei Pensionati di CGIL, CISL, UIL per attuare la <strong>nuova &nbsp;</strong><a href=\"https://www.gazzettaufficiale.it/eli/id/2023/03/30/23G00041/sg\"><strong>legge 33 del 23 marzo 2023</strong></a> <strong>“Deleghe al Governo in materia di politiche in favore delle persone anziane\"</strong>. Le proposte intendono contribuire alla costruzione dei decreti attuativi la legge, che il Governo deve approvare entro gennaio 2024, “<a href=\"https://spi.cgil.it/uploads/Legge33-2023-anziani-non-autos-dossier-spi-fnp-uilp-lett.pdf\"><strong>Il Dossier per attuare la Legge 33/2023</strong></a>”.</p><p>È possibile consultare i documenti con le proposte cliccando qui sotto:</p><p><a href=\"https://www.cgil.it/ufficio-stampa/non-autosufficienza-cgil-e-spi-decreto-attuativo-deludente-senza-risorse-ne-risposte-per-anziani-e-loro-famiglie-npixnsry\">Comunicato CGIL, SPI CGIL: “Decreto attuativo deludente”</a></p><p><a href=\"https://files.cgil.it/version/c:OTVhOGU1YTYtMTVjNy00:MmY2Mzg1ODgtNzNjNC00/Memoria_CGIL_audizione_XII_Commissioni_Camera_Deputati.pdf\">Memoria Cgil audizione su Decreto anziani non autosufficienza Camera e Senato</a></p><p><a href=\"https://spi.cgil.it/blog/spi-cgil-sulla-non-autosufficienza-il-governo-meloni-prende-di-nuovo-in-giro-gli-anziani-prestazione-universale-solo-per-pochi-e\">SPI CGIL: “Sulla non autosufficienza, il governo Meloni prende di nuovo in giro gli anziani”</a></p><p><a href=\"https://spi.cgil.it/uploads/33-2023-DEF-40_240215_163536.pdf\">Osservazioni sullo Schema di decreto legislativo recante disposizioni in materia di politiche in favore delle persone anziane, in attuazione della legge delega 33/2023</a></p><p><a href=\"https://spi.cgil.it/blog/non-autosufficienza-spi-cgil-fnp-cisl-e-uilp-uil-finalmente-presentato-il-primo-decreto-per-attuare-la-legge-ma-servono-piu-riso\">Non Autosufficienza: Spi Cgil, Fnp Cisl e Uilp Uil, finalmente presentato il primo decreto per attuare la legge. Ma servono più risorse</a></p><p><a href=\"https://www.collettiva.it/copertine/welfare/via-al-primo-decreto-per-la-non-autosufficienza-e-le-risorse-kag68xse\">Via al primo decreto per la non autosufficienza. E le risorse?</a></p><p><a href=\"https://spi.cgil.it/blog/non-autosufficienza-milioni-di-persone-e-di-famiglie-non-possono-piu-aspettare-ora-la-legge-va-attuata\">SPI CGIL, FNP CISL,UILP UIL: Non Autosufficienza, milioni di persone e di famiglie non possono più aspettare: ora la legge va attuata</a></p><p><a href=\"https://spi.cgil.it//uploads/Ascolto_def-Legge33-2023.pdf\">Documento generale per Tavolo Palazzo Chigi (ascolto)</a></p><p><a href=\"https://spi.cgil.it//uploads/SPI-FNP-UILP-domiciliarita.pdf\">Nuova Domiciliarità</a></p><p><a href=\"https://spi.cgil.it//uploads/SPI-FNP-UILP-s-residenziali.pdf\">Nuova Residenzialità</a></p><p><a href=\"https://spi.cgil.it//uploads/SPI-FNP-UILP-InvecchiamentoAttivo.pdf\">Invecchiamento Attivo (SPI, FNP, UILP con AUSER, ANTEAS, ADA)</a></p><p><a href=\"https://spi.cgil.it//uploads/SPI-FNP-UILP-cipasnaa.pdf\">Comitato Interministeriale Popolazione Anziana– Sistema Anziani Non Autosuffienti &nbsp;</a></p><p><a href=\"https://spi.cgil.it/uploads/SPI-FNP-UILP-L33-L-Bilancio-2024.pdf\">Criticità Legge di bilancio 2024 per attuare Legge Delega 33/2023 Anziani</a></p><p><a href=\"https://spi.cgil.it/uploads/SPI-FNP-UILP-PRESTAZIONE%20UNIVERSALE.pdf\">Prestazione universale per le persone anziane non autosufficienti</a></p><p><a href=\"https://drive.google.com/file/d/1oxb-Eslv4qa7wCh1ZlNZLUzcJIPvacy9/view\">Guarda il video del seminario “La legge delega in materia di politiche a favore delle persone anziane e il piano nazionale non autosufficienza”.</a></p><p>Ulteriori documenti, su altri argomenti, saranno pubblicati prossimamente.</p><p>È importante la diffusione - tra le pensionate e i pensionati - dei documenti con le proposte del sindacato. È utile anche inviarli alle Istituzioni locali: Comuni, ASL, Distretti Sanitari e Ambiti Territoriali Sociali (ATS) che sono i principale attori territoriali per l’attuazione della Legge 33/2023.</p><p><a href=\"https://www.spi.cgil.it/uploads/SCHEDAsocio_sanitario_leggebilancio_2024-def.pdf\">Scheda SPI CGIL su Legge di Bilancio 2024: commento per Sanità e non Autosufficienza</a></p><p><a href=\"https://www.facebook.com/photo/?fbid=736607488500666&amp;set=pcb.736607841833964\">“Avevano promesso di sostenere le famiglie. Stanziano 70 centesimi al giorno per la non autosufficienza”</a></p><p><a href=\"https://www.facebook.com/photo/?fbid=728999149261500&amp;set=pcb.729001199261295\">“Promettevano una sanità al servizio della persona. Dirottano risorse ai privati”</a></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: jEOIl4UkOJOvYSFI

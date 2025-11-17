@@ -1,0 +1,117 @@
+Title: Festa di LiberEtà 2023. Dal 13 al 15 settembre a Senigallia
+
+----
+
+Descrizione: Una tre giorni di dibattito, confronto, musica e mobilitazione in programma a Senigallia dal 13 al 15 settembre.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://z0x1mAAHhlVXsnB2
+
+----
+
+Thumbnail: - file://z0x1mAAHhlVXsnB2
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-09-07
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, manifestazione, liberetà, festa
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“<strong>L’ambiente siamo noi</strong>” è il titolo scelto per la ventiseiesima edizione della <strong>Festa di LiberEtà</strong>, il mensile del sindacato dei pensionati Cgil. Una tre giorni di dibattito, confronto, musica e mobilitazione in programma a <strong>Senigallia dal 13 al 15 settembre</strong>.</p><p>La scelta della cittadina marchigiana non è stata casuale: l’iniziativa si svolge <strong>a un anno esatto dall’alluvione</strong> del 15 settembre 2022 che provocò tredici vittime e devastò le province di Ancona e Pesaro Urbino. Dunque riflettori accesi sui temi dell’acqua, del dissesto idrogeologico e del cambiamento climatico.</p><p>La festa si aprirà il pomeriggio del 13 settembre con il <strong>premio letterario LiberEtà</strong> e il <strong>premio Guido Rossa</strong>. L’evento sarà presentato da Neri Marcorè. Seguirà un confronto su “Crisi del clima e riflessi sull’acqua”, tra Annalisa Corrado, ingegnera meccanica ed ecologista che fa parte della segreteria del Partito democratico, e il segretario generale dello Spi Cgil, Ivan Pedretti. A concludere la prima serata sarà <strong>Neri Marcorè</strong> con la sua band a partire dalle 21.</p><p>Giovedì 14 settembre l’evento riprenderà dalle 15.30, con il dibattito “<em>L’ambiente siamo noi. Come salvare il pianeta cambiando sistema</em>”, moderato dal direttore di LiberEtà, Giuseppe F. Mennella, al quale parteciperanno Ottavia Belli di Sfusitalia, Fabio Ciconte di associazione Terra, Monica Di Sisto di Fairwatch, Paola Mercogliano del Centro euromediterraneo sui cambiamenti climatici, e Ivan Pedretti. Seguirà alle 17.30 la premiazione dei Liberattivi, i diffusori di LiberEtà che si sono distinti nel lavoro di promozione degli abbonamenti del mensile. L’evento sarà condotto dalla comica Daniela Baldassarra.</p><p>La seconda serata terminerà con il concerto degli <strong>Inti-Illimani Historico</strong> dal titolo Imaginaciòn, memoria y futuro, a partire dalle ore 21. Un momento dedicato ai cinquant’anni dal colpo di stato in Cile, che sarà preceduto dalla testimonianza di Lucia Rojas, adolescente al tempo del golpe, intervistata da Aldo Gara.</p><p>L’appuntamento finale, invece, è in programma in piazza del Duca, <strong>venerdì 15 settembre</strong>, con la <strong>manifestazione di pensionati e pensionate provenienti da tutta Italia</strong> per ribadire a gran voce le proprie richieste al governo. A partire dalle 10, parleranno il segretario generale della Cgil, <strong>Maurizio Landini</strong> e il segretario nazionale dello Spi Cgil, <strong>Ivan Pedretti</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: vRQjx65dP1vyBR4M

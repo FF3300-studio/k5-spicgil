@@ -1,0 +1,117 @@
+Title: Spi Cgil, Fnp Cisl e Uilp Uil: Assemblea nazionale unitaria per rivendicare i diritti dei pensionati
+
+----
+
+Descrizione: È ora che i diritti e i bisogni delle pensionate e dei pensionati entrino nell’agenda politica del Governo e del Parlamento.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://1u8M1Wo0qAvtYd3T
+
+----
+
+Thumbnail: - file://1u8M1Wo0qAvtYd3T
+
+----
+
+Child-category-selector: Dipartimento Organizzazione, Dipartimento Previdenza e Fisco
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-06-08
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, manifestazione, pensioni
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“Una grande <strong>Assemblea nazionale Spi Cgil, Fnp Cisl, Uilp Uil</strong> il per ribadire con forza le proposte contenute nella nostra piattaforma unitaria.”</p><p>Così, i segretari generali Spi, Fnp, Uilp <strong>Ivan Pedretti</strong>, <strong>Emilio Didonè</strong>, <strong>Carmelo Barbagallo</strong> annunciano gli attivi unitari dei tre sindacati dei pensionati che si terranno il <strong>13 giugno</strong>, a partire dalle 09:30, presso l’Auditorium del Massimo di Roma.</p><p>“Abbiamo richieste e proposte ben precise”: dicono i tre segretari a pochi giorni dall’iniziativa per la quale lo slogan scelto è “<strong>Più reddito, più diritti</strong>”.</p><p>“Sulle pensioni chiediamo trattamenti adeguati che non perdano valore con il passare degli anni; sul fisco vogliamo una riforma radicale nel rispetto della Costituzione che comporti una tassazione più equa ai pensionati e ai lavoratori dipendenti; sulla sanità è urgente un sostanziale incremento del finanziamento per il comparto pubblico per assumere più personale, implementare l’assistenza medica e sociosanitaria e abbattere le liste d’attesa; sulla non autosufficienza vogliamo che il Piano nazionale, i Piani Regionali e la nuova Legge vengano attuati concretamente e siano incrementate le risorse ad essi destinati; infine, sull’invecchiamento attivo vogliamo siano adottate politiche volte a contrastare l’isolamento sociale, favorendo l'inclusione e la partecipazione degli anziani nelle loro comunità.</p><p><strong>Vogliamo essere ascoltati</strong>. È ora che i diritti e i bisogni delle pensionate e dei pensionati entrino nell’agenda politica del Governo e del Parlamento.”</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: vu3dyM0CLPc4nztu

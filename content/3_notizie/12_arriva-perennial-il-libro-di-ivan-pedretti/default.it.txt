@@ -1,0 +1,117 @@
+Title: Arriva Perennial, il libro di Ivan Pedretti
+
+----
+
+Descrizione: “Persone in grado di adattarsi alle novità e ai cambiamenti, a prescindere dall’età anagrafica”, sono i Perennial.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://wMdTLHIUyXZqn36k
+
+----
+
+Thumbnail: - file://wMdTLHIUyXZqn36k
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2022-11-16
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: congresso, pensionati, cgil, spi, spi cgil, perennial, libro, pedretti
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“Persone in grado di adattarsi alle novità e ai cambiamenti, a prescindere dall’età anagrafica”. Sono i <strong><em>Perennial</em></strong>, definizione coniata negli Stati Uniti, sdoganata in Italia dall’enciclopedia <em>Treccani</em>, con cui si indica chi, nonostante le tante primavere alle spalle, ha ancora voglia di imparare, conoscere, confrontarsi, fare e darsi da fare.</p><p>In un Paese come l’Italia che invecchia velocemente e in cui non si fanno più figli, da cui i giovani scappano perché non c’è lavoro e quel poco che è rimasto è precario, sbaglia chi vede negli anziani una zavorra o una casta privilegiata adagiata su pensioni faraoniche. Gli anziani rappresentano piuttosto una forza attiva, una risorsa a cui le nuove generazioni e quelle di mezzo si sono aggrappate specie durante la pandemia.</p><p>Ai <em>Perennial </em>il Segretario generale dello Spi-Cgil <strong>Ivan Pedretti</strong> ha deciso di dedicare un libro, dal 25 novembre in libreria, passando al setaccio ogni angolo di questo mondo: dal boom economico e dalle battaglie sindacali degli anni Sessanta e Settanta per i diritti delle persone e dei lavoratori alla progressiva frammentazione del lavoro, dalle risposte collettive ai disagi e alle ingiustizie sociali al senso di esclusione e disincanto che avvolge i giorni nostri.</p><p>In uno scenario che si è capovolto in poco più di mezzo secolo i pensionati, <strong>16 milioni in Italia</strong> con una aspettativa di vita che fortunatamente continua ad allungarsi, sono quel collante fondamentale chiamato a tenere unite le varie generazioni. Lo fanno tenendo allenati il fisico e la mente, adottando stili di vita salubri, dedicandosi al volontariato a sostegno di chi si è stato spinto dall’emergenza sanitaria verso la povertà, partecipando attivamente alle dinamiche delle comunità e dei territori di cui fanno parte, contribuendo a tenere a galla i consumi in un Paese dall’economia sempre più debole, affrontando e non subendo le nuove tendenze digitali, cercando di dare un sostegno ai loro figli e trasmettendo conoscenze e saperi ai loro nipoti.</p><p>C’è però anche chi se la passa meno bene. Sono i 3,5 milioni di non autosufficienti che per non spegnersi hanno bisogno di cure costanti. Per non abbandonarli a se stessi, all’operato spesso sottopagato e poco tutelato di badanti o alle Rsa andate in tilt durante la pandemia, serve rivoluzionare il sistema sanitario e il welfare sociale del nostro Paese: attraverso servizi che siano più di prossimità, formando meglio il personale socio-sanitario, sfruttando le soluzioni offerte dalla robotica, dalla telemedicina e dalla domotica, aiutando le persone in difficoltà a continuare a vivere dignitosamente nelle loro case e tra i loro affetti per quanto più tempo possibile.</p><p>Perennial è disponibile anche online: <a href=\"https://www.futura-editrice.it/prodotto/perennial/\">https://www.futura-editrice.it/prodotto/perennial/</a></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Organizzazione
+
+----
+
+Deadline: 
+
+----
+
+Uuid: oCUJMULFWCezktiz

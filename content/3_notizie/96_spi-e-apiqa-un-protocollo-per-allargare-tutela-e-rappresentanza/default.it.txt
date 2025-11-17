@@ -1,0 +1,117 @@
+Title: Spi e Apiqa, un protocollo per allargare tutela e rappresentanza
+
+----
+
+Descrizione: per condividere insieme un percorso di collaborazione e di prosecuzione della rappresentanza delle alte professionalità dipendenti e autonome
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://oWe198flLkVa1rqQ
+
+----
+
+Thumbnail: - file://oWe198flLkVa1rqQ
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-09-12
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, apiqa
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il 9 settembre 2025 è stato siglato il protocollo d’intesa tra APIQA e SPI CGIL per condividere insieme un percorso di collaborazione e di prosecuzione della rappresentanza delle alte professionalità dipendenti e autonome e dei quadri direttivi che si avvicinano al periodo della pensione.</p><p>Federica Cochi, presidente di APIQA, ritiene fondamentali la continuità dell'adesione sindacale nello SPI e il proseguimento della militanza all'interno della CGIL, per dare risposte concrete anche a queste lavoratrici e questi lavoratori in un contesto di forte cambiamento sociale, economico, normativo ed organizzativo. Mettere a fattor comune i saperi e le esperienze è la via per accogliere le istanze di nuovi e crescenti bisogni, per sostenere le fragilità e tutte le forme di diversità, per dare forza all’organizzazione nell’interesse di tutte e tutti.</p><p>Per <strong>Tania Scacchetti</strong>, segretaria generale dello Spi Cgil grazie alla collaborazione con Apiqa, e con questo protocollo, lo Spi Cgil rafforza e sviluppa la nostra attività di tutela e rappresentanza tra le alte professionalità e i quadri dipendenti. L'obiettivo è entrare in contatto anche con i lavoratori autonomi prossimi alla pensione. Il mondo del lavoro cambia, la Cgil e lo Spi rispondono alle nuove sfide impegnandosi a essere un saldo punto di riferimento per la tutela individuale e collettiva di tutte e tutti.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: g6wQ0PwXCf0rh4uq

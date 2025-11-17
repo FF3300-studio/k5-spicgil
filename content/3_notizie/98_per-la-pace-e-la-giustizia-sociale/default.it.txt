@@ -1,0 +1,117 @@
+Title: Per la pace e la giustizia sociale
+
+----
+
+Descrizione: Il prossimo 25 ottobre saremo in piazza San Giovanni a Roma con tutta la Cgil. In quella piazza faremo vivere le ragioni e le voci delle donne e degli uomini anziani che rappresentiamo
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://1aOf5fFZ7hLLPMKs
+
+----
+
+Thumbnail: - file://1aOf5fFZ7hLLPMKs
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-10-01
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, manifestazione, pace
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il 1° ottobre si celebra in tutto il mondo la <strong>Giornata internazionale delle persone anziane</strong>. La popolazione sta invecchiando a livello globale ed entro cinque anni si stima che il numero degli anziani supererà quello dei giovani. Eppure i bisogni di questa parte sempre più ampia della cittadinanza non vengono presi in considerazione. In Italia l’urgenza di un sistema sanitario inclusivo e di servizi sociali di sostegno è tradita da un Governo che continua a tagliare la spesa pubblica e preferisce pensare al riarmo.</p><p>“Pace e giustizia sociale viaggiano insieme - commenta <strong>Tania Scacchetti</strong>, segretaria generale del sindacato dei pensionati della Cgil – e oggi più che mai dovremmo ripensare e rilanciare le politiche pubbliche all’insegna della centralità delle persone e dei loro bisogni. L’esecutivo, invece, si muove nella direzione opposta. Per questa ragione, <strong>il prossimo 25 ottobre saremo in piazza San Giovanni a Roma con tutta la Cgil</strong>. In quella piazza faremo vivere le ragioni e le voci delle donne e degli uomini anziani che rappresentiamo”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: MAInEXbfUq6JKVX1

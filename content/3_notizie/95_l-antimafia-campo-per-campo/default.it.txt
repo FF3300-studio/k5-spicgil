@@ -1,0 +1,117 @@
+Title: L’antimafia campo per campo
+
+----
+
+Descrizione: Anche quest’anno, le volontarie e i volontari del sindacato pensionati della Cgil saranno impegnati per tutta l’estate nei campi della legalità organizzati all’interno di beni confiscati alla criminalità
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://0G9iTwkAPRVCuDY1
+
+----
+
+Thumbnail: - file://0G9iTwkAPRVCuDY1
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-06-17
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, antimafia
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Anche quest’anno, le volontarie e i volontari del sindacato pensionati della Cgil saranno impegnati per tutta l’estate nei <strong>campi della legalità</strong> organizzati all’interno di beni confiscati alla criminalità dalla Calabria alla Lombardia, dal Veneto alla Sicilia passando per Campania, Lazio, Piemonte, Abruzzo, Puglia, Toscana e Umbria.</p><p>Si tratta di un impegno che condividiamo con Libera, Arci e tante associazioni del Terzo Settore e che ci vede presenti fianco a fianco a centinaia di giovani che partecipano a questi momenti di incontro e scambio intergenerazionale. All’interno dei campi, infatti, insieme alle ragazze e ai ragazzi della Rete degli studenti medi e dell’Unione degli universitari, affronteremo temi contemporanei importanti: il diritto allo studio, la salute mentale, la richiesta di spazi e servizi accessibili a cittadini di tutte le età.</p><p>Lo Spi Cgil darà, inoltre, il suo contributo sui temi della memoria ricordando i sindacalisti vittime delle mafie - anche grazie al dizionario “<a href=\"/it/@/page/DkR78tKHi0wiIK6T\">L’antimafia parola per parola</a>” che sarà distribuito nei campi -, ripercorrendo la storia della nostra Resistenza e celebrando il valore della Costituzione, cardine della nostra democrazia.</p><p>Il nostro obiettivo rimane, infatti, come sempre, l’affermazione di nuovi spazi democratici e di partecipazione, costruiti attraverso l’impegno collettivo e quotidiano.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: wvFyD9SAm6klwEeT

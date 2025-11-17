@@ -1,0 +1,117 @@
+Title: La carta alimentare “Dedicata a te”: una miseria, che esclude tanti anziani e offende i poveri.
+
+----
+
+Descrizione: La cifra è una miseria (in un anno poco più di 1 euro al giorno) e si fonda su un pregiudizio offensivo
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://QQD0TINCVjfOVerL
+
+----
+
+Thumbnail: - file://QQD0TINCVjfOVerL
+
+----
+
+Child-category-selector: Dipartimento Contrattazione Sociale, Dipartimento Previdenza e Fisco
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-07-24
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, carta, dedicata a te, povertà
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>La <a href=\"https://www.pensionati.it/blog/carta-dedicata-a-te-cos-e-e-come-funziona\">carta prepagata di 385 euro</a> è una misura una tantum destinata solo alle famiglie con almeno tre componenti. Certo meglio di niente, soprattutto per chi niente possiede. Ma può essere questo il metro di giudizio? <strong>La cifra è una miseria</strong> (in un anno poco più di 1 euro al giorno) e si fonda su un <strong>pregiudizio offensivo</strong>: i poveri non sanno gestire i soldi che ricevono. Infatti la lista dei generi alimentari che si possono pagare con la carta comprende 23 voci, escludendo centinaia di merci che pure rientrano tra i consumi essenziali delle famiglie. Inconcepibile è poi l’esclusione di migliaia di persone bisognose, soprattutto anziane, il cui nucleo familiare risulta formato da una o due persone. Dopo aver punito tante persone in povertà, tagliando il reddito di cittadinanza, ora il governo ha escogitato una misura non solo ingiusta ma tipica di un certo paternalismo autoritario.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: FUWtJHfEdNPu7PxC

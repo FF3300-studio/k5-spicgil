@@ -1,0 +1,65 @@
+Title: Privacy Policy
+
+----
+
+Uuid: 4KBsNwykjT1ojxKj
+
+----
+
+Descrizione: 
+
+----
+
+Immagine: 
+
+----
+
+Thumbnail: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+In-primo-piano: 
+
+----
+
+Correlati: 
+
+----
+
+Contenuto: 
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false

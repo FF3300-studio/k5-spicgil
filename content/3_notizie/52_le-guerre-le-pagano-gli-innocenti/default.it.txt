@@ -1,0 +1,117 @@
+Title: Le guerre le pagano gli innocenti
+
+----
+
+Descrizione: Chiediamo che cessino subito le violenze e tacciano le armi.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://eUOMAFeb4otks9l2
+
+----
+
+Thumbnail: - file://eUOMAFeb4otks9l2
+
+----
+
+Child-category-selector: Dipartimento Internazionale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-10-10
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, guerra, ucraina, palestina
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Lanciamo un appello affinché si <strong>fermi la guerra</strong>: le notizie atroci che arrivano in questi giorni dal Medioriente impongono all’Unione europea e alla comunità internazionale di mobilitarsi urgentemente per azioni e risoluzioni pacifiche del conflitto tra israeliani e palestinesi.</p><p>Un conflitto che era stato colpevolmente rimosso dall’Occidente ma che non ha mai smesso di <strong>mietere vittime innocenti</strong>. Condanniamo l’aggressione di Hamas e le reazioni di Israele che colpiscono ancora il popolo palestinese a cui è negato il diritto all’esistenza e al territorio. Che gli Stati e le diplomazie si impegnino per porre fine alla crescente spirale di cieca violenza e vendette, che porta a strade senza ritorno per l’umanità.</p><p>Chiediamo che <strong>cessino subito le violenze e tacciano le armi</strong>. Chiediamo anche che si rispettino le risoluzioni delle Nazioni Unite, finora disattese. I popoli palestinese e israeliano hanno diritto entrambi a vivere in condizioni di dignità e di libertà, ciascuno nel proprio Stato. La guerra che si è inasprita in questi giorni in Medioriente si aggiunge a quella russa-ucraina e ad oltre 70 conflitti aperti nel mondo rendendo ancora più urgente un’assunzione vera di responsabilità da parte di tutti verso l’unica soluzione possibile: <strong>la pace</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: pOxCQHTdecExLJRB

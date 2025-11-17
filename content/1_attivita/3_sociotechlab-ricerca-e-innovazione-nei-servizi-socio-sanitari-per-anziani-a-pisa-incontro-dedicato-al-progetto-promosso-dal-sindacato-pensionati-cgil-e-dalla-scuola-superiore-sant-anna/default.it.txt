@@ -1,0 +1,121 @@
+Title: Sociotechlab: Ricerca e Innovazione nei Servizi Socio-Sanitari per Anziani. A Pisa incontro dedicato al progetto promosso dal sindacato pensionati Cgil e dalla Scuola Superiore Sant’Anna
+
+----
+
+Descrizione: L'incontro rappresenta un'importante occasione di confronto tra istituzioni, ricerca e mondo del lavoro, con l'obiettivo di promuovere l'innovazione e garantire un'assistenza di qualità per gli anziani. 
+
+----
+
+Dove: Pisa - Scuola superiore Sant'Anna
+
+----
+
+Immagine: - file://yHEutVkxRYiAgSqf
+
+----
+
+Thumbnail: - file://yHEutVkxRYiAgSqf
+
+----
+
+Child-category-selector: Dipartimento Organizzazione, Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-06-05
+  orario_inizio: 09:30:00
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: 
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Pisa, 5 giugno 2025 –<strong> </strong>La Scuola Superiore Sant'Anna di Pisa ospiterà il prossimo 5 giugno un’iniziativa dedicata a Sociotechlab, progetto focalizzato alla ricerca e all'innovazione nei servizi socio-sanitari per la popolazione anziana e promosso dal sindacato pensionati della Cgil in collaborazione con il centro universitario d’eccellenza che ha sede nella cittadina toscana.&nbsp;</p><p>L'incontro avrà inizio alle ore 9.30 e si proporrà di affrontare le sfide e le opportunità legate all'assistenza residenziale per gli anziani. Momento saliente sarà, infatti, la presentazione della ricerca dal titolo \"Le dimensioni della sostenibilità nell’assistenza residenziale. Evidenze a confronto\", curata da Milena Vainieri, responsabile scientifica del Laboratorio MeS (Management e Sostenibilità) della Scuola Sant’Anna, Davide Vicari, Giulia De Nicola, Laura Pelliccia e Marco Arlotti.</p><p>I lavori saranno aperti dai saluti istituzionali di Eugenio Giani, Presidente della Regione Toscana. Seguiranno gli interventi di personalità del panorama accademico e sindacale, tra cui Nicola Vitiello, Rettore della Scuola Superiore Sant'Anna, Stefano Landini, Segretario organizzativo dello Spi Cgil Nazionale, e Stefano Casini Benvenuti, coordinatore del CTS Sociotechlab.</p><p>Il programma prevede una tavola rotonda con la partecipazione di esperti del settore: Stefano Cecconi, Segretario dello Spi Cgil Nazionale, Isabella Conti, Assessora al Welfare dell'Emilia Romagna, Sabina Nuti, già Rettrice della Scuola Superiore Sant'Anna, e Monsignor Vincenzo Paglia, Presidente della Pontificia Accademia per la Vita. La moderazione sarà affidata a Cesare Buquicchio, giornalista de Il Sole 24 Ore - disalute.it. Durante il dibattito sarà proiettata una video-intervista al Presidente dell’Istituto Mario Negri Silvio Garattini condotta da Alessio Gaggioli, giornalista del Corriere Fiorentino.</p><p>Le conclusioni dell'iniziativa – che sarà arricchita anche dal contributo dell’attore Paolo Hendel con un intermezzo dal titolo “La giovinezza è sopravvalutata” - saranno a cura di Tania Scacchetti, Segretaria generale dello Spi Cgil Nazionale, che riassumerà i temi trattati e le prospettive future per il settore.</p><p>L'incontro rappresenta un'importante occasione di confronto tra istituzioni, ricerca e mondo del lavoro, con l'obiettivo di promuovere l'innovazione e garantire un'assistenza di qualità per gli anziani.&nbsp;</p><p>È possibile seguire l’incontro in diretta streaming sul canale YouTube del Laboratorio MeS al seguente link: <a href=\"https://youtube.com/live/dGzW8qid8i0?feature=share\">https://youtube.com/live/dGzW8qid8i0?feature=share</a></p><p><br>Per ulteriori informazioni, contattare:</p><p>Michele Nardini<br>ufficio stampa Scuola Superiore Sant’Anna<br>mob: +39 347 8645966<br>mail: <a href=\"mailto:michele.nardini@santannapisa.it\">michele.nardini@santannapisa.it</a>&nbsp;</p><p>Martina Toti<br>responsabile ufficio stampa Spi Cgil nazionale<br>mob: +39. 347.7742954<br>e-mail: <a href=\"mailto:martina.toti@spi.cgil.it\">martina.toti@spi.cgil.it</a></p><p></p>"},"id":"2e4361ed-592d-415e-8c2d-80d8d8adb96e","isHidden":false,"type":"text"}],"id":"eb20b15a-9c5e-4407-a038-9e3765225710","width":"1/1"}],"id":"fbc7c566-44cf-449e-939d-da4b17e42a1e"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Dipartimenti: 
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 5N65gu7AxpaooaGZ

@@ -1,0 +1,117 @@
+Title: Manovra, Spi-Cgil: con taglio rivalutazione -1200 euro per 4mln pensionati
+
+----
+
+Descrizione: Se lo faranno non staremo in silenzio e ci faremo sentire
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://A8z7gsGCCNHhEpeE
+
+----
+
+Thumbnail: - file://A8z7gsGCCNHhEpeE
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco, Pensioni
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2017-11-17
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo, cgil
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Una <strong>perdita media pro-capite di oltre 1.200 euro all’anno</strong> per 4,3 milioni di pensionati. Sono questi i primi calcoli effettuati dallo Spi-Cgil del <strong>taglio alla rivalutazione delle pensioni</strong> sopra quattro volte il trattamento minimo, allo studio del governo.</p><p>L’adeguamento delle pensioni al costo della vita subirebbe così una drastica riduzione in particolare per quei pensionati che hanno lavorato e versato i contributi per 40 anni e oltre e che non percepiscono affatto un assegno alto ma di 1.800 netti al mese.</p><p>Stiamo sostanzialmente parlando di pensioni di lavoratori dipendenti, frutto di una vita di lavoro e che ora rischiano di avere una rivalutazione di gran lunga inferiore a quella che dovevano percepire secondo la legge in vigore.</p><p>Il governo si appresta quindi a compiere l’<strong>ennesimo danno ai pensionati italiani utilizzandoli come bancomat</strong> per recuperare risorse e negando loro la possibilità di recuperare una parte del loro potere d’acquisto.</p><p>Si tratta di una <strong>scelta iniqua e scellerata</strong>, oltretutto assunta <strong>senza alcun confronto con i sindacati</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: kqO7SgI8QvZrU2Ti

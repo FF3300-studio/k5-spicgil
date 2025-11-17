@@ -1,0 +1,117 @@
+Title: Stati generali dell'invecchiamento attivo
+
+----
+
+Descrizione: Il prossimo 3 ottobre 2023 a Roma si terranno gli Stati Generali promossi da Happy Ageing, l’alleanza per l’Invecchiamento Attivo
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://NaRfEqGypTBKTbgR
+
+----
+
+Thumbnail: - file://NaRfEqGypTBKTbgR
+
+----
+
+Child-category-selector: Dipartimento Diritti e Benessere
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-09-20
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, invecchiamento
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il prossimo 3 ottobre 2023, presso l’Acquario Romano in piazza Manfredo Fanti, 47 a Roma (vicino stazione Termini) si terranno gli <strong>Stati Generali</strong> promossi da <a href=\"https://www.happyageing.it/\">Happy Ageing</a>, l’alleanza per l’Invecchiamento Attivo di cui fanno parte Spi, Fnp e Uilp.</p><p>L’iniziativa avrà inizio alle ore 9.00 e terminerà alle ore 16.00.</p><p>L’evento, che si svolgerà in presenza, prevede la partecipazione di rappresentanti istituzionali, del Ministero della Salute e del mondo scientifico, del Segretario Generale Spi <strong>Ivan Pedretti</strong> e dei Segretari Generali di Fnp e Uilp che si confronteranno sulla Legge 33/2023 “Delega al Governo in materia di politiche in favore delle persone anziane” e sui decreti attuativi.</p><p>Sarà possibile seguire l’evento<strong>&nbsp;in diretta streaming al seguente link:&nbsp;</strong><u><a href=\"https://fb.me/e/1eDzelzyI\"><strong>https://fb.me/e/1eDzelzyI</strong></a></u></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: LokUK55nnwqMu4yY

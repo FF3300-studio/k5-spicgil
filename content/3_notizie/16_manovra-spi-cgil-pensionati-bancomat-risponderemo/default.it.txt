@@ -1,0 +1,117 @@
+Title: Manovra, Spi-Cgil: pensionati bancomat. Risponderemo
+
+----
+
+Descrizione: Con questi soldi fanno condoni e favoriscono i furbi e gli evasori.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://NaiMcbgI4PqIFAak
+
+----
+
+Thumbnail: - file://NaiMcbgI4PqIFAak
+
+----
+
+Child-category-selector: Pensioni, Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2017-11-17
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo, cgil
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“La manovra di bilancio del governo Meloni si finanzia con il <strong>taglio della rivalutazione</strong> delle pensioni e con la tassazione degli extra-profitti, peraltro già prevista e solo in parte aumentata”.</p><p>Lo dichiara il Segretario generale dello Spi-Cgil <a href=\"https://www.facebook.com/ivan.pedretti\">Ivan Pedretti</a>.</p><p>“I <strong>pensionati italiani</strong> – continua Pedretti – vengono quindi <strong>trattati come un bancomat</strong> e alla stregua di aziende che fatturano miliardi di euro.</p><p>Pensioni da 1.500/1.600 euro netti al mese, frutto di oltre 40 anni di lavoro e di contributi versati, vengono fatte passare per ricche.</p><p>Il meccanismo di rivalutazione, una conquista del sindacato, cancellato e riscritto senza uno straccio di confronto.</p><p>Con questi soldi fanno condoni, aumentano il tetto del contante, favoriscono i furbi e gli evasori. <strong>Risponderemo</strong>”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: wqOIPGa31RDJZLbI

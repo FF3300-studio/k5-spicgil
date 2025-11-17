@@ -1,0 +1,117 @@
+Title: Pensioni, arriva la maxi-rivalutazione
+
+----
+
+Descrizione: Possiamo dire di aver fatto un buon lavoro e di aver ottenuto maggiori diritti e tutele per le persone che rappresentiamo
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://0PudTRvGgU7QuUh8
+
+----
+
+Thumbnail: - file://0PudTRvGgU7QuUh8
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco, Pensioni
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2017-01-14
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Finalmente una <strong>buona notizia per i pensionati italiani</strong>. Dal prossimo gennaio <strong>le pensioni saranno rivalutate</strong> in modo significativo, consentendo un’importante tutela del potere d’acquisto e portando di conseguenza un adeguamento al costo della vita per tutti, seppur parziale.</p><p>Si tratta praticamente di <strong>una mensilità in più all’anno</strong>.</p><p>Il meccanismo di calcolo è stato <strong>riconquistato dai sindacati dei pensionati lo scorso anno con il governo Draghi</strong> dopo anni di mobilitazioni e definisce una rivalutazione del 100% per l'importo di pensionefino a quattro volte il trattamento minimo, del 90% per l'importo da quattro a cinque volte e del 75% per l'importo superiore a cinque volte.</p><p>Per effetto di questo meccanismo e di un indice d’inflazione stabilito al 7,3% dall’Istat, le pensioni aumenteranno pertanto come segue:</p><p></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://MNRfX0Il3zenFynL"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","min_height":"unset","min_width":"unset","max_height":"unset","max_width":"unset"},"id":"d6279736-a975-4b03-8f55-06729e89121d","isHidden":false,"type":"image"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Dopo anni di blocchi e di tagli, <strong>la rivalutazione delle pensioni torna quindi a pieno regime</strong> portando una boccata d’ossigeno per milioni di pensionati italiani in un momento particolarmente complicato per il nostro paese, con il forte aumento dei prezzi e delle bollette.</p><p>“Dopo la <a href=\"/it/@/page/oEGVgNnSTccx2vHX\">legge delega sulla non autosufficienza</a> ora la <strong>rivalutazione delle pensioni</strong>. Il meccanismo di calcolo che abbiamo riconquistato un anno fa nel confronto con il governo Draghi porterà da gennaio importanti aumenti per tutti”, ha commentato il Segretario generale dello Spi-Cgil <strong>Ivan Pedretti</strong>.</p><p>“Per ottenerlo <strong>ci sono volute piazze, manifestazioni, iniziative</strong>.</p><p>Oggi possiamo dire di aver fatto un buon lavoro e di aver ottenuto maggiori diritti e tutele per le persone che rappresentiamo. <strong>Avanti così!</strong>”</p>"},"id":"61bf776f-e479-4904-b6b6-fb31849ac095","isHidden":false,"type":"text"}],"id":"16efc43c-6121-4537-ad1d-467115d4015e","width":"1/1"}],"id":"a2024329-d2a5-4789-a5fd-7b56975ce999"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: wa5NGzeOc0yFIaKU

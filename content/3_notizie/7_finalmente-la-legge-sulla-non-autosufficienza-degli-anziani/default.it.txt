@@ -1,0 +1,117 @@
+Title: Finalmente la legge sulla non autosufficienza degli anziani
+
+----
+
+Descrizione: Dichiarazioni del Segretario generale Spi-Cgil Ivan Pedretti
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://a4YnvWtHGP4KhTuE
+
+----
+
+Thumbnail: - file://a4YnvWtHGP4KhTuE
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2022-10-11
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: cgil, spi cgil, non autosufficienza, anziani, governo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><u><strong>Dichiarazioni del Segretario generale Spi-Cgil Ivan Pedretti</strong></u></p><p>Il Consiglio dei Ministri, l’ultimo del governo ancora in carica, si è riunito lunedì 10 ottobre 2022 e ha <strong>approvato il Disegno di Legge Delega sulla non autosufficienza degli anziani</strong>.</p><p><strong>La nostra battaglia trova finalmente una risposta</strong>: sanità territoriale e di prossimità, semplificazione e riorganizzazione dell’accesso ai servizi socio-assistenziali, riforma delle Rsa, strumenti per la domiciliarità e in favore dell’invecchiamento attivo.</p><p>La condizione degli anziani viene messa al centro per non lasciarli più soli al proprio destino e per dare un sostegno concreto a milioni di famiglie su cui per troppo tempo è stato scaricato il peso, spesso insostenibile, della cura dei propri cari.</p><p>Senza la determinazione e il massimo sforzo, anche di mobilitazione, <strong>messo in campo in questi anni dai Sindacati dei pensionati</strong> questo risultato non sarebbe stato raggiunto.</p><p>Abbiamo detto a lungo che il paese aveva fortemente bisogno di questa riforma. Dobbiamo essere contenti di averla portata a casa.</p><p>Ora bisognerà applicarla e <strong>noi vigileremo sul nuovo governo e parlamento affinché lo facciano</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Socio-sanitario
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 262UMOQ2jbUq4dv9

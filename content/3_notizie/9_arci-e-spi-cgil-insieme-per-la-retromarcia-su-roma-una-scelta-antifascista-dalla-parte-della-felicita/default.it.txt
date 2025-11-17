@@ -1,0 +1,117 @@
+Title: Arci e Spi-Cgil insieme per La Retromarcia su Roma: una scelta antifascista dalla parte della felicità.
+
+----
+
+Descrizione: 100 anni dopo la marcia su Roma si svolgerà la controstoria di un anniversario: La Retromarcia su Roma, per portare nei luoghi di quella tragica e farsesca pagina della storia l’”invece” che non c’è stato. I colori della fantasia e della bellezza che sono stati imbrattati di nero e violenza.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://ZKoEnfmvYVJ9E2SO
+
+----
+
+Thumbnail: - file://ZKoEnfmvYVJ9E2SO
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2022-09-28
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: congresso, pensionati, cgil, spi, spi cgil, antifascismo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>100 anni dopo la marcia su Roma si svolgerà la controstoria di un anniversario: <strong>La Retromarcia su Roma</strong>,<strong> </strong>per portare<strong> </strong>nei luoghi di quella tragica e farsesca pagina della storia l’”invece” che non c’è stato. I colori della fantasia e della bellezza che sono stati imbrattati di nero e violenza.</p><p>La Retromarcia su Roma - che vede Arci e Spi-Cgil tra i promotori – sarà un viaggio leggero, attento e informato. Ma tutto al contrario. Anche a misura di bambini. Con il linguaggio dell’arte, dell’incanto, della meraviglia e della vita che regala opportunità straordinarie, per ribaltare un anniversario e stupire. Una scelta&nbsp; antifascista e di pace dalla parte della felicità, che unisce giovani e meno giovani, futuro e memoria.&nbsp;</p><p>L’abilità, l’arte, l’ingegno, le facoltà dell’uomo che sa immaginare per scoprire che la prestanza fisica può essere acrobazia e bellezza e non sopraffazione e minaccia, che più che imporre si può sedurre, invece che dettare volontà si può ascoltare, meglio che intimidire si può proporre. Per non ripetere due volte le stesse follie.</p><p><strong>Il clou della Retromarcia su Roma si terrà all’Anfiteatro Alessandrino,</strong> nel cuore della periferia romana, il <strong>28 ottobre 2022, </strong>esattamente cento anni dopo la calata delle camicie nere su Roma. Con la partecipazione, tra gli altri, di: <strong>Têtes de Bois, Alessandro Mannarino, El Grito Circo contemporaneo all’antica, Andrea Calabretta, Andrea Farnetani, Ascanio Celestini, Alessandra Vanzi, Valentina Carnelutti, Marino Sinibaldi, Miguel Gotor, Marco Delogu, Giulio Cederna, Mohamed Keitha e Fabio Magnasciutti, gli alunni dell’Istituto Mazzini con il Prof. Enrico Castelli</strong> <strong>Gattinara</strong>. Per l’occasione sarà installato il celebre <strong>Palco a Pedali</strong> dove il pubblico si alternerà sulle 100 biciclette per illuminare e amplificare musica, visioni, letture, acrobazie, rievocazioni storiche.</p><p>Ma la Retromarcia non si limiterà solo al 28 ottobre: sarà affiancata da una<strong> camminata di nove giorni, in rigorosa controtendenza, da Roma ad Assisi, luogo simbolo di pace.</strong> I ‘camminatori’, coordinati da <strong>Paolo Piacentini</strong>, presidente onorario Federtrek, <strong>partiranno da Roma il 22 ottobre</strong> per&nbsp; percorre 196 chilometri.</p><p>L’evento-spettacolo finale avverrà presso <strong>“La Cittadella”</strong> <strong>di</strong> <strong>Assisi</strong>, <strong>domenica 30 ottobre</strong> alle ore 16 con lo spettacolo “<strong>La Fisarmonica verde</strong>” di e con <strong>Andrea Satta</strong>, con <strong>Angelo Pelini</strong> al piano, per la regia di <strong>Ulderico Pesce</strong>. La storia bellissima di un ragazzo sardo di Gallura (Gavino, il papà di Andrea) che si salvò da un campo di concentramento nazista con la complicità di una fisarmonica.</p><p>Ad anticipare la Retromarcia la presentazione del film La marcia su Roma, con il regista Mark Cousins, il 20 ottobre a Modena nella rassegna Italia che non si vede promossa da Ucca.</p><p><a href=\"https://www.arci.it/la-retromarcia-su-roma/\">Qui il programma completo de La Retromarcia su Roma</a></p><p>La Retromarcia su Roma è un progetto promosso da: <strong>Comune di Roma Assessorato alla Cultura, Associazione Culturale Têtes de Bois, Teatro Biblioteca Quarticciolo in collaborazione con Regione Lazio - Lazio Innova | ATCL | Comune di Monterotondo |\"Fondazione Culturale I.C.M.\"| Slow Food Italia| ”La Cittadella” Assisi| Associazione Culturale Pediatri &nbsp;| Arci| SPI CGIL| Bio-Distretto Via Amerina | Ciclogenitori | Associazione Genitori Arcobaleno di Voci | Istituto Giuseppe Mazzini, Roma | Teatro Verde | Teatro di Villa Pamphilj</strong></p><p></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Organizzazione
+
+----
+
+Deadline: 
+
+----
+
+Uuid: t6TbWU8ZGPS5FvyI

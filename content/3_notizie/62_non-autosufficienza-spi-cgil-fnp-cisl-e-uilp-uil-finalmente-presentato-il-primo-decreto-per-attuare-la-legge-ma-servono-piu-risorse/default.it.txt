@@ -1,0 +1,117 @@
+Title: Non Autosufficienza: Spi Cgil, Fnp Cisl e Uilp Uil, finalmente presentato il primo decreto per attuare la legge. Ma servono più risorse
+
+----
+
+Descrizione: Milioni di persone non possono più aspettare
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://EDZVpjFnOO2FWkv7
+
+----
+
+Thumbnail: - file://EDZVpjFnOO2FWkv7
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-01-25
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, non autosufficienza
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“Finalmente il Governo ha presentato il <strong>primo Decreto Legislativo di attuazione della legge 33</strong> ‘Deleghe al Governo in materia di politiche in favore delle persone anziane’. Ora si avvia l’iter che prevede l’Intesa in Conferenza Unificata (Regioni e Comuni) e il parere del Parlamento. Questo può essere un primo passo, indispensabile per iniziare a costruire risposte certe a milioni di persone anziane e alle loro famiglie, che affrontano quotidianamente grandi disagi, sofferenze e rischi di impoverimento, e per affermare i diritti, la dignità, il valore della persona in ogni fase della vita, come vuole la nostra Costituzione”: è quanto dichiarano <strong>i sindacati dei pensionati Spi Cgil, Fnp Cisl e Uilp Uil</strong> al termine della riunione di oggi del Consiglio dei ministri con all’ordine del giorno, tra le altre cose, anche i decreti attuativi della legge sull'assistenza alla terza età.</p><p>“Attendiamo di valutare nel dettaglio il testo del decreto e di discuterlo - come ci era stato anticipato - con il Governo e in sede parlamentare e con Regioni e Anci, ma certo non sono accettabili annunci e promesse sui finanziamenti per attuare la legge. Occorre individuare un percorso certo che accompagni i decreti attuativi, per un progressivo e consistente incremento dei fondi, sociali e sanitario, per la non autosufficienza. Sappiamo bene che per fronteggiare seriamente l’invecchiamento della popolazione è fondamentale aumentare anche le risorse: le attuali non sono assolutamente proporzionate ai bisogni. <strong>Milioni di persone non possono più aspettare</strong>.”</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: oBeApkD42YzNsa8I

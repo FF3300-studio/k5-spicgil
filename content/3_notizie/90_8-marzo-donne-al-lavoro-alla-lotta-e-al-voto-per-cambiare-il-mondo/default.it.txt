@@ -1,0 +1,117 @@
+Title: 8 marzo. Donne al lavoro, alla lotta e al voto per cambiare il mondo.
+
+----
+
+Descrizione: Il messaggio della segretaria generale dello Spi Cgil Tania Scacchetti
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://XJppEPqIt9uDK37s
+
+----
+
+Thumbnail: - file://XJppEPqIt9uDK37s
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-03-06
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, donne, 8 marzo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Il messaggio della segretaria generale dello Spi Cgil Tania Scacchetti</strong></p><p>Lavoro sicuro, dignitoso, ben retribuito. Migliorare le condizioni per accedere al diritto di cittadinanza per chi è già legalmente nel nostro Paese. Sembrano cose piccole, scontate che tuttavia oggi non sono garantite, anzi sono spesso ostacolate, a maggior ragione per le donne. La Cgil Nazionale ha scelto di dedicare il prossimo 8 marzo alle ragioni e alle rivendicazioni che in questa stagione porteremo avanti anche attraverso la campagna referendaria.</p><p>Le donne dello Spi sanno, perché lo hanno dimostrato con le loro storie e le loro battaglie che le donne possono cambiare il mondo. E sappiamo che questo mondo va cambiato.</p><p>Il grande movimento che in questi anni si è sviluppato per la parità di genere, per contrastare stereotipi, discriminazioni, per fermare la violenza che ancora le donne in tutto il mondo subiscono, per difendere la democrazia e promuovere giustizia sociale è la strada giusta, nella quale stiamo e staremo anche attraverso la nostra azione negoziale.</p><p>Siamo grate alle ragazze iraniane, curde, afgane che ogni giorno lottano per la loro libertà, alle donne tedesche che hanno marciato e lavorato contra l’ascesa dei partiti neo-fascisti, alle madri argentine che di fronte ai tagli e alle repressioni imposte da Milei continuano la loro battaglia per la verità e la giustizia per i desaparecidos, a tutte le donne che hanno il coraggio di scegliere per sé, di lottare nei luoghi di lavoro, nelle istituzioni, rifiutando l’idea che le donne “debbano stare al loro posto” .</p><p>Se le donne tutte insieme sospendessero le loro attività, lavorative, di cura, sociali, affettive, culturali anche solo per qualche ora, forse sarebbero più visibili e tangibili il valore, il peso ed il protagonismo delle donne nella società, che molti, quasi tutti, nei convegni declamano ma su cui si fa troppo poco per renderlo possibile e riconosciuto.</p><p>Per queste ragioni come Spi promuoveremo e promuoviamo tutte le iniziative di mobilitazione possibili e sosteniamo le ragioni e le iniziative di sciopero che saranno decise e definite.</p><p><strong>Buon 8 marzo</strong>, al lavoro e alla lotta.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: MGisq8lP8EsDCh6V

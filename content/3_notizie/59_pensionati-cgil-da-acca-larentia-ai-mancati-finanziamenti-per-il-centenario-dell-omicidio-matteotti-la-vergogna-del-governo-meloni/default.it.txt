@@ -1,0 +1,117 @@
+Title: Pensionati Cgil: “Da Acca Larentia ai mancati finanziamenti per il centenario dell’omicidio Matteotti, la vergogna del governo Meloni”
+
+----
+
+Descrizione: Le uniche commemorazioni che piacciono a questo governo di Destra sono quelle che non fanno mistero della propria matrice fascista e antidemocratica
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://N7DbEmmR28vSx6Yq
+
+----
+
+Thumbnail: - file://N7DbEmmR28vSx6Yq
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-01-11
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, antifascismo, acca larentia
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“L’Italia è una <strong>Repubblica antifascista per Costituzione</strong>, un fatto che il governo Meloni intende volutamente ignorare arrivando a tradire i principi cardine della nostra Carta fondamentale”. È la <strong>denuncia del sindacato dei pensionati della Cgil</strong> che contesta le ultime esternazioni degli esponenti dell’esecutivo nonché una serie di delibere assunte dal Consiglio dei ministri che rinnegano la memoria storica del nostro Paese.</p><p>“Derubricando di fatto il reato di apologia del fascismo, – spiegano <strong>Ivan Pedretti</strong>, segretario generale dello Spi Cgil e <strong>Lorenzo Mazzoli</strong>, segretario nazionale dello stesso sindacato -, la presidente del Consiglio e i suoi ministri sminuiscono la gravità di celebrazioni come quelle di <strong>Acca Larentia</strong> dove si inneggia esplicitamente al Ventennio, contemporaneamente negano i finanziamenti per ricordare il centenario dell’omicidio di <strong>Giacomo Matteotti</strong>, deputato socialista ucciso dai fascisti, omicidio del quale si dichiarò responsabile lo stesso Benito Mussolini. Negate anche le risorse per le celebrazioni dell’ottantesimo <strong>anniversario della lotta di Resistenza</strong> e Liberazione. In buona sostanza, <strong>le uniche commemorazioni che piacciono a questo governo di Destra sono quelle che non fanno mistero della propria matrice fascista e antidemocratica</strong>”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: rnP3VFFM33vBH4rt

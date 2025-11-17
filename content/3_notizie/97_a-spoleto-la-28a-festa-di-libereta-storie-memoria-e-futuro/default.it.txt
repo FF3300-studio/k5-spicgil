@@ -1,0 +1,117 @@
+Title: A Spoleto la 28ª Festa di LiberEtà: storie, memoria e futuro
+
+----
+
+Descrizione: Il 24 e 25 settembre Spoleto ospita la 28ª Festa di LiberEtà, un evento organizzato dal Sindacato dei pensionati della Cgil e dalla casa editrice LiberEtà, che da quasi trent’anni unisce cultura, memoria, impegno civile e partecipazione.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://a1c2SfIYfyTffz5n
+
+----
+
+Thumbnail: - file://a1c2SfIYfyTffz5n
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-09-16
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, apiqa
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il&nbsp;<strong>24 e 25 settembre</strong>&nbsp;Spoleto ospita la&nbsp;<strong>28ª Festa di LiberEtà</strong>, un evento organizzato dal Sindacato dei pensionati della Cgil e dalla casa editrice LiberEtà, che da quasi trent’anni unisce cultura, memoria, impegno civile e partecipazione. Nella cornice del&nbsp;<strong>Teatro Menotti</strong>, cuore pulsante della città umbra resa famosa anche dalla serie&nbsp;<em>Don Matteo</em>, si alterneranno momenti di spettacolo, riflessione e confronto, con ospiti di primo piano e un pubblico atteso da tutta Italia.</p><p>La prima giornata, mercoledì 24 settembre, inizierà alle ore 15.00 e sarà dedicata ai&nbsp;<strong>concorsi promossi dalla rivista</strong>. Il&nbsp;<strong>Premio letterario LiberEtà</strong>vede in finale tre autori:&nbsp;<strong>Oriano Campini, Sergio Verdecchia e Michela Zennaro</strong>, che con le loro opere hanno saputo dare voce a esperienze e sensibilità diverse. A seguire anche la premiazione della s<strong>esta edizione del concorso letterario Guido Rossa che vuole&nbsp;</strong>raccogliere storie, a cavallo degli anni Sessanta-Settanta, in forma di racconti scritti o a fumetti, per provare poi a tracciare il profilo di una memoria collettiva narrata dai testimoni diretti.</p><p>Per il&nbsp;<strong>concorso Spi Stories</strong>, invece, concorrono tre cortometraggi molto diversi nello stile, ma capaci di far riflettere:&nbsp;<em>The Strange Case Of The Human Cannonball</em>, un’opera allegorica e ironica che parla di comunità e accoglienza;&nbsp;<em>The Little Stranger</em>, un racconto delicato che attraverso due pesci in una vasca parla di egoismi e solidarietà; e&nbsp;<em>Stratosphere</em>, ambientato in Iran, che mette in scena la ribellione creativa di una giovane donna contro la rigidità della burocrazia.&nbsp;</p><p>La giornata si chiuderà con la&nbsp;<strong>premiazione dei Liberattivi</strong>, donne e uomini che, con passione e volontariato, diffondono la rivista nei territori mantenendo vivo lo spirito di LiberEtà. A scandire i tempi e a intrattenere il pubblico sarà l’immancabile&nbsp;<strong>Neri Marcorè</strong>, presenza amata e ormai tradizionale della Festa. Alle&nbsp;<strong>21.30</strong>, sempre mercoledì 24 settembre,<strong>&nbsp;in piazza Pianciani il concerto di Francesco Fratini Orchestra feat. Ava Alami</strong>, con ingresso libero e gratuito.&nbsp;</p><p>Il giorno successivo, giovedì 25 settembre, sarà dedicato a un momento di profilo culturale e politico: la&nbsp;<strong>tavola rotonda “Rompiamo le bolle. Per ricucire i legami e costruire il futuro”</strong>. Con inizio alle ore 10.00. Un tema di straordinaria attualità, che richiama l’urgenza di contrastare la frammentazione sociale e di costruire nuove reti di solidarietà. Moderati da Neri Marcorè, interverranno la giornalista&nbsp;<strong>Marianna Aprile</strong>, l’ex ministro e accademico&nbsp;<strong>Enrico Giovannini</strong>&nbsp;e la segretaria generale dello Spi Cgil&nbsp;<strong>Tania Scacchetti</strong>, con il compito di esplorare nuove strade per un Paese che vuole essere più giusto e inclusivo all'insegna della pace. A chiudere i lavori sarà il segretario generale della Cgil&nbsp;<strong>Maurizio Landini</strong>, che porterà la prospettiva del mondo del lavoro e del sindacato.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: DYfh5yXJ96Y7mh9C

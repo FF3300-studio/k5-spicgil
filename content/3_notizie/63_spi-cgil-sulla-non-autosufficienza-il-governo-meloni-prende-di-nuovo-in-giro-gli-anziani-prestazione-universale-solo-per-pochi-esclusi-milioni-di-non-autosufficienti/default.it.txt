@@ -1,0 +1,117 @@
+Title: Spi Cgil: “Sulla non autosufficienza, il governo Meloni prende di nuovo in giro gli anziani: prestazione universale solo per pochi, esclusi milioni di non autosufficienti”
+
+----
+
+Descrizione: La storia è, più o meno, sempre la stessa: tante promesse e pochissimi fatti.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://kERVF3rCBaQZUzpM
+
+----
+
+Thumbnail: - file://kERVF3rCBaQZUzpM
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-02-07
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, non autosufficienza
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>La storia è, più o meno, sempre la stessa: <strong>tante promesse e pochissimi fatti</strong>. La Presidente del Consiglio Giorgia Meloni aveva annunciato <strong>1 miliardo in più</strong> per la non autosufficienza e una sperimentazione con <strong>l’aumento del 200%</strong> dell’assegno di accompagnamento, “per dare risposte concrete ai bisogni di oltre 14 milioni di anziani non autosufficienti”.</p><p><strong>Quel miliardo in più non è arrivato</strong> e la prestazione universale che, nelle intenzioni dell’esecutivo, dovrebbe aggiungersi all’indennità di accompagnamento riguarderà <strong>solo circa 29mila anziani</strong> e non milioni di persone.</p><p><strong>Il governo Meloni rispetta solo formalmente le scadenze, rinvia le misure concrete, non dispone finanziamenti necessari</strong> e attesi da milioni di cittadini e cittadine; anche laddove propone contenuti condivisibili, lo fa con lacune e contraddizioni.</p><p>È quanto si evince dal decreto legislativo varato dal Consiglio dei ministri lo scorso 26 gennaio che pur essendo riuscito a rispettare la scadenza prevista dalla legge delega 33/2023 (“Deleghe al Governo in materia di politiche a favore delle persone anziane”), in realtà, <strong>rimanda tutto o quasi a ben 17 ulteriori norme attuative</strong> da adottare nei prossimi mesi.</p><p>Vengono rimandate ad altre disposizioni:</p><p>- le previsioni sulla <strong>prevenzione</strong> delle fragilità, la promozione della salute e l’<strong>invecchiamento attivo</strong>, che restano deboli e prive di una visione di genere;</p><p>- la <strong>riforma delle Rsa</strong>, nonostante il sistema della residenzialità abbia mostrato tutti i suoi limiti più drammatici durante la pandemia;</p><p>- le soluzioni più interessanti per le <strong>nuove forme abitative degli anziani</strong> (non solo cohousing ma anche alloggi individuali assistiti/supportati);</p><p>- l’attuazione delle <strong>previsioni sull’integrazione tra assistenza sociale e sanitaria territoriale e domiciliare</strong>;</p><p>- la <strong>definizione di uno strumento di valutazione</strong> multidimensionale uniforme a livello nazionale <strong>per l’accesso alle prestazioni</strong> in base al bisogno assistenziale graduato.</p><p><strong>Infine non si interviene sul personale</strong> impegnato nei servizi e nel lavoro di cura, con l’eccezione degli assistenti familiari e l’unico riferimento indiretto è a un decreto da farsi sui requisiti per l’accreditamento dei servizi pubblici e privati sanitari e socio sanitari.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: xhioZuJj3EVcDMCk

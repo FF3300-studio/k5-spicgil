@@ -1,0 +1,117 @@
+Title: Livelli essenziali di assistenza. I sindacati dei pensionati al Senato: si ritiri l’emendamento che li riduce.
+
+----
+
+Descrizione: C'è bisogno della piena attuazione della riforma sulla non autosufficienza!
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://xqiN3lvLL7st4fBe
+
+----
+
+Thumbnail: - file://xqiN3lvLL7st4fBe
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-03-13
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, non autosufficienza, sanità
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“Esprimiamo gravissima preoccupazione per i contenuti dell’emendamento n. 13.0.400, approvato dalla maggioranza in 10^ Commissione del Senato della Repubblica”: questo l’incipit della lettera che i Sindacati dei pensionati di Spi Cgil, Fnp Cisl e Uilp Uil hanno inviato al presidente del Senato e ai presidenti dei Gruppi parlamentari del Senato.</p><p>“L’emendamento - dichiarano i segretari generali di Spi, Fnp, Uilp, Tania Scacchetti, Emilio Didonè e Carmelo Barbagallo - interviene sui Livelli essenziali di assistenza disciplinati dall’articolo 30 del DPCM 12.1.2017 “Assistenza sociosanitaria residenziale e semiresidenziale alle persone non autosufficienti”.</p><p>Malgrado la formulazione dell’emendamento sia poco chiara, lo stesso permetterebbe la possibilità di ridurre la copertura dei costi oggi a carico del Servizio sanitario nazionale per i “trattamenti estensivi di cura e recupero funzionale a persone non autosufficienti” e per i “trattamenti di lungoassistenza, recupero e mantenimento funzionale, ivi compresi gli interventi di sollievo per chi assicura le cure, a persone non autosufficienti”, incrementando così la quota di rette e tariffe a carico dei pazienti. Anziché intervenire, anche alla luce di recenti ordinanze in materia della Corte di Cassazione, per alleviare il peso che già grava sulle persone più fragili e sulle loro famiglie, si sceglie di penalizzarli con costi aggiuntivi. Questo per noi è inaccettabile!”</p><p>“Ci auguriamo - conclude la nota - che l’emendamento venga ritirato e si apra finalmente un confronto tra i Spi, Fnp, Uilp e il Governo così da arrivare finalmente alla piena attuazione della riforma sulla non autosufficienza!”</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: ri58HYIIomftFQdV

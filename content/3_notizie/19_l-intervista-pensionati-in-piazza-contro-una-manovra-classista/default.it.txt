@@ -1,0 +1,117 @@
+Title: L’INTERVISTA – Pensionati in piazza contro una manovra classista
+
+----
+
+Descrizione: Venerdì 16 dicembre in piazza Santi Apostoli a Roma
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://dWorYmf6QygCO2c0
+
+----
+
+Thumbnail: - file://dWorYmf6QygCO2c0
+
+----
+
+Child-category-selector: Pensioni, Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2017-11-17
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo, cgil, manifestazione, spi
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Alla vigilia della <strong>manifestazione nazionale dei pensionati</strong> prevista per <strong>venerdì 16 dicembre in piazza Santi Apostoli a Roma</strong>, dalle colonne del quotidiano Il Manifesto, parla il Segretario generale dello Spi-Cgil <strong>Ivan Pedretti</strong>.</p><p>“Quella del governo Meloni – dice Pedretti – è una <strong>manovra classista</strong> che <strong>favorisce il lavoro autonomo e l’evasione fiscale</strong>.</p><p>La manifestazione era il minimo che potevamo fare perché il governo usa i contributi versati dagli ex lavoratori per finanziare la flat tax fino a 85mila euro agli autonomi e per aumentare le pensioni minime a chi non ha versato i contributi.</p><p>Il <strong>taglio alla rivalutazione</strong> riguarda le pensioni degli operai siderurgici e metalmeccanici, dei ferrovieri e dei dipendenti pubblici: lavoratori che hanno di media oltre 40 anni di contributi, soldi loro che ora gli vengono tolti. Stiamo parlando di pensioni nette da 1600/1700 euro al mese mentre i media parlano sempre e solo del lordo. <strong>Siamo stanchi di essere usati come un bancomat</strong>”.</p><p>“<strong>Nella manovra</strong> – continua il Segretario generale dello Spi-Cgil – ci sono anche <strong>tagli alla sanità</strong>, che colpiscono per primi i più deboli. Non c’è una riga né un euro per finanziaria la <strong>legge quadro sulla non autosufficienza</strong> che riguarda oltre 3milioni di anziani e le loro famiglie”.</p><p>Pedretti parla infine anche dei rapporti unitari con <strong>Cisl e Uil</strong>. “Penso – dice – che <strong>ci ritroveremo presto uniti per una lunga mobilitazione</strong> su tanti temi su cui il governo Meloni non ci ascolta”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: YV0xfJdzLRfVkFzL

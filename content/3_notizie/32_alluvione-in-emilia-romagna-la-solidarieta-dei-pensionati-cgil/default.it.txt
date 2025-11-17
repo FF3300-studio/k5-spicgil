@@ -1,0 +1,117 @@
+Title: Alluvione in Emilia Romagna: la solidarietà dei pensionati Cgil
+
+----
+
+Descrizione: Esprimiamo cordoglio per chi ha perso la vita e tutta la nostra vicinanza alla popolazione
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://OdpebMVlZ3fOFio8
+
+----
+
+Thumbnail: - file://OdpebMVlZ3fOFio8
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-05-05
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, alluvione, solidarietà
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>14 vittime e danni enormi al territorio e al tessuto sociale e produttivo. Il bilancio provvisorio dell'alluvione in Emilia Romagna è drammatico. Esprimiamo cordoglio per chi ha perso la vita e <strong>tutta la nostra vicinanza alla popolazione</strong>, alle migliaia di persone evacuate e, in particolare, ai più fragili e agli anziani che oggi più che mai hanno bisogno di sostegno.</p><p>Lo Spi Cgil, con le sue strutture territoriali, si impegna fin da ora in <strong>atti concreti di solidarietà</strong> per affrontare l’emergenza. Anche per questo invitiamo tutte e tutti ad aderire alla raccolta fondi avviata da Cgil, Cisl e Uil in queste ore attraverso il conto corrente unitario riportato di seguito:</p><p><em>IT26U0103003201000005800010</em></p><p><em>intestato a </em><strong><em>Cgil Cisl Uil</em></strong></p><p><em>Causale </em><strong><em>\"Emergenza Alluvione\"</em></strong></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: ZwGj67omSOp29ByM

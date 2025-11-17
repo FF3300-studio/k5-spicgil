@@ -1,0 +1,117 @@
+Title: Sul sito Pensionati.it un servizio di intelligenza artificiale per dare risposte tempestive alle domande su pensioni, fisco e diritti
+
+----
+
+Descrizione: Da oggi su Pensionati.it c'è un'Intelligenza Artificiale che ti risponde in tempo reale in materia di pensioni, sanità, fisco e molto ancora.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://J6YFrHKRDzIYlNct
+
+----
+
+Thumbnail: - file://J6YFrHKRDzIYlNct
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-06-27
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, fisco, sanità, chatgpt, intelligenza artificiale
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Ho diritto a ricevere la quattordicesima? Quando potrò andare in pensione? Come funziona la legge 104? E l’Ape sociale? Ho 61 anni e 32 anni di contributi, posso andare in pensione utilizzando quota 103?</strong> Da oggi trovare risposte a domande come queste sarà più facile grazie all’intelligenza artificiale e a un nuovo servizio offerto dal sindacato dei pensionati della Cgil, disponibile online sul sito <a href=\"https://www.pensionati.it\">www.pensionati.it</a></p><p>Inviando le proprie richieste all’intelligenza artificiale tramite una chat interattiva presente sull’homepage di questo sito, infatti, si otterranno risposte immediate riguardo a pensioni, fisco, assistenza sanitaria, servizi sociali, diritti e persino benessere e alimentazione. L’intelligenza artificiale – che utilizza un’interfaccia intuitiva e un sistema di machine learning avanzato fornito dalla società indigo.ai - è stata addestrata dagli esperti del sindacato e su un vasto database di informazioni e normative, garantendo accuratezza e restando sempre aggiornata alle ultime disposizioni di legge. In caso di necessità di assistenza personalizzata, il sistema indirizzerà, poi, gli utenti ai referenti del sindacato perché ottengano un supporto adeguato</p><p>\"Siamo orgogliosi di introdurre questa tecnologia per aiutare i nostri iscritti e chiunque cerchi informazioni rispetto alle materie di nostra competenza\" ha dichiarato <strong>Tania Scacchetti</strong>, segretaria generale dello Spi Cgil. \"Questo servizio ci permetterà di essere ancora più vicini ai cittadini, rispondendo alle loro esigenze in tempo reale e migliorando la qualità dell'assistenza che offriamo. Allo stesso tempo, migliorerà anche la qualità del lavoro dei nostri esperti che finora si sono trovati a gestire un’enorme mole di quesiti in tempi assai ridotti e che da adesso in poi diventeranno “manutentori”, “giardinieri” del nostro database. La nostra intelligenza artificiale – conclude Scacchetti - è amica del lavoro, un’A.I. job-friendly, che sposa una nostra convinzione: l’innovazione tecnologica deve essere utilizzata per migliorare le condizioni di vita di chi lavora, cosa che purtroppo non sempre avviene\".</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: qhDIyrrDd5trwmtN

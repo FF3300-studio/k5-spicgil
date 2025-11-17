@@ -1,0 +1,166 @@
+Title: Attività
+
+----
+
+Descrizione: 
+
+----
+
+Dove: 
+
+----
+
+Immagine: 
+
+----
+
+Thumbnail: 
+
+----
+
+Parent-category-manager:
+
+- 
+  nome: Dipartimento Organizzazione
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: ""
+  marker: [ ]
+- 
+  nome: Dipartimento Socio-sanitario
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: ""
+  marker: [ ]
+- 
+  nome: Dipartimento Previdenza e Fisco
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: ""
+  marker: [ ]
+- 
+  nome: Dipartimento Diritti e Benessere
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: ""
+  marker: [ ]
+- 
+  nome: Dipartimento Contrattazione Sociale
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: ""
+  marker: [ ]
+- 
+  nome: >
+    Dipartimento Politiche giovanili, di
+    genere e Legalità
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: ""
+  marker: [ ]
+- 
+  nome: Dipartimento Internazionale
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: ""
+  marker: [ ]
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: 
+
+----
+
+Map-key: 
+
+----
+
+Collection-pagination-prev: precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: successivi
+
+----
+
+Keywords: 
+
+----
+
+Contenuto: 
+
+----
+
+Collection-toggle: true
+
+----
+
+Collection-options: calendar
+
+----
+
+Collection-categories-manager-toggle: true
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Dipartimenti: 
+
+----
+
+Deadline: 
+
+----
+
+Team: 
+
+----
+
+Collection-pagination: true
+
+----
+
+Tooltip: false
+
+----
+
+In-primo-piano: 
+
+----
+
+Uuid: tLqAuPU7ZQXRapLC

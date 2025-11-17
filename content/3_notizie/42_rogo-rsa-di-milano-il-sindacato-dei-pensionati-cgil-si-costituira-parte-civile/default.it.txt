@@ -1,0 +1,117 @@
+Title: Rogo Rsa di Milano: il sindacato dei pensionati Cgil si costituirà parte civile
+
+----
+
+Descrizione: Ad annunciarlo lo Spi Cgil di Milano e lo Spi Cgil Lombardia con il sostegno della struttura nazionale.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://nzgNsA0vNdcKrgqx
+
+----
+
+Thumbnail: - file://nzgNsA0vNdcKrgqx
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-07-12
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, rsa, sanità, non autosufficienza
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>I pensionati della Cgil si impegnano a <strong>costituirsi parte civile nel processo</strong> che dovrà accertare le responsabilità del <a href=\"/it/@/page/htpMZLUIeJwJIJZn\">rogo divampato nella residenza per anziani “Casa per i Coniugi” di Milano</a> e costato la vita a sei anziani, donne e uomini, che vi erano ospiti. Ad annunciarlo lo Spi Cgil di Milano e lo Spi Cgil Lombardia con il sostegno della struttura nazionale.</p><p>“Giustizia e verità per le vittime – spiega il segretario generale dello Spi Cgil nazionale Ivan Pedretti – sono la nostra priorità. La nostra organizzazione aveva già avviato negli scorsi anni un’attività di monitoraggio delle strutture per anziani in Italia, oggi il presidio e la vigilanza su di esse diventa imprescindibile e intendiamo richiamare le amministrazioni pubbliche alle loro responsabilità. Non solo la salute e la sicurezza degli anziani ospitati in queste strutture deve essere sempre garantita ma non si può neppure lasciare solo il personale che spesso si trova a operare sottodimensionato e in condizioni di enorme difficoltà”.</p><p>A Milano, lo scorso febbraio, i pensionati di Cgil, Cisl e Uil avevano siglato un accordo con il Comune per l’avvio di un tavolo di confronto sulle strutture socio-sanitarie territoriali e sulla loro evoluzione con una particolare attenzione proprio a quelle di proprietà del Comune stesso, tra le quali c’era anche la Rsa coinvolta nell’incendio. Dopo i fatti della scorsa settimana, non solo va avviato quel tavolo ma va consolidato un protocollo che impedisca il ripetersi di eventi tragici.</p><p>In generale, per Massimo Bonini, segretario generale dello Spi Cgil metropolitano, “È arrivato da tempo il momento di <strong>mettere al centro del dibattito cittadino la condizione degli anziani</strong>. Sono 100mila gli over 80 ed è decisivo riflettere sui servizi e sulle tutele da mettere a loro disposizione”.</p><p>Daniele Gazzoli, segretario generale dello Spi Cgil regionale, ricorda che “Oggi gli anziani (spesso persone fragili e con patologie “importanti”) ricoverati nelle Rsa lombarde hanno bisogno di maggiore assistenza, ma in Lombardia la norma è ferma a 25 anni fa e prevede di dedicare 901 minuti a paziente alla settimana contro gli oltre 1200 minuti che stimiamo necessari. A partire da questo, sarà fondamentale confrontarci con la Regione per cambiare le cose che oggi non funzionano, garantendo umanità e qualità del servizio”.</p><p>“In Italia – conclude Pedretti – c’è una quantità ancora sconosciuta di case famiglia che sfuggono a ogni controllo. Le strutture che ospitano gli anziani vanno censite, monitorate e riformate sulla base di un principio fondamentale: la salute e il benessere delle persone vengono prima di qualsiasi logica di profitto. A oggi la situazione è inaccettabile”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: FVRXQIzcAC6g1iGP

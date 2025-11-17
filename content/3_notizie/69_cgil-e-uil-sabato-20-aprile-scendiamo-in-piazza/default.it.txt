@@ -1,0 +1,117 @@
+Title: Cgil e Uil: sabato 20 aprile scendiamo in piazza
+
+----
+
+Descrizione: Sabato 20 aprile si torna in piazza a Roma. Cgil e Uil, infatti, hanno indetto una manifestazione nazionale per rimettere al centro i temi della sicurezza sul lavoro, del diritto alla salute e per rivendicare la necessità di alzare i salari e di riformare il sistema fiscale.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://EUDFD36p1RVhhrmR
+
+----
+
+Thumbnail: - file://EUDFD36p1RVhhrmR
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-04-16
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, uilp uil, manifestazione
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Abbiamo tante ragioni per mobilitarci. Viviamo in un Paese dove i salari sono troppo bassi, le tasse sono pagate sempre e solo da lavoratori e pensionati, milioni di persone non riescono neppure a curarsi perché non hanno i soldi per farlo e in troppi perdono la vita mentre lavorano.</p><p><strong>Sabato 20 aprile si torna in piazza a Roma</strong>. Cgil e Uil, infatti, hanno indetto una manifestazione nazionale per rimettere al centro i temi della sicurezza sul lavoro, del diritto alla salute e per rivendicare la necessità di alzare i salari e di riformare il sistema fiscale.</p><p>Tra le questioni per le quali il sindacato dei pensionati manifesterà sono centrali la tutela della salute come diritto universale e tasse che siano misurate sui principi di progressività, equità e solidarietà.</p><p>Chiediamo risorse e investimenti sul servizio sanitario nazionale e per i servizi sociali, il rinnovo del contratto del personale sanitario, il rilancio degli ospedali pubblici e della rete di assistenza territoriale. Vogliamo che la legge sulla non autosufficienza, conquistata grazie al nostro impegno, venga finalmente finanziata e resa effettiva, al di là delle operazioni di pura propaganda politica portate avanti dal governo Meloni.</p><p>Sono oltre 3 milioni gli over 65 che rinunciano alle cure per problemi economici. Un dato inaccettabile con il quale questo esecutivo deve fare i conti. Così come non può continuare a ignorare che, secondo le stime, il numero degli anziani non autosufficienti raddoppierà fino ad arrivare a quasi 5 milioni di persone entro il 2030, quando un italiano su 12 non sarà più in grado di badare a sé stesso.</p><p>Per finanziare la sanità che vogliamo occorre reperire le risorse attraverso un sistema fiscale che tassi gli extraprofitti e recuperi i 90 miliardi di euro sottratti ogni anno dagli evasori alle politiche sociali.</p><p>Non è accettabile, come fa il governo, che si continui a tassare lavoro e pensioni più dei profitti, delle rendite finanziarie e immobiliari e del lavoro autonomo più facoltoso.</p><p>Noi diciamo basta alle sanatorie, ai condoni, ai concordati e sì a un fisco che sia davvero progressivo e che indicizzi le detrazioni per lavoro e pensioni all’aumento dei prezzi.</p><p>Sabato diamo appuntamento a tutte e a tutti alle 9.30 a Roma. <strong>Il corteo partirà da Piazzale Ugo la Malfa e si concluderà in Piazzale Ostiense</strong> con gli interventi dei segretari generali di Cgil e Uil <strong>Maurizio Landini</strong> e <strong>Pierpaolo Bombardieri</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: mIE8TMh3BTW5LKdy

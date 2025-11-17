@@ -1,0 +1,117 @@
+Title: Quattordicesima: Spi Cgil, bene che l’Inps stia correggendo l’errore sui cedolini delle pensioni di luglio dopo la nostra denuncia
+
+----
+
+Descrizione: indicavano invece erroneamente gli importi della quattordicesima come “aumento pensioni basse 2023”
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://i2X6a666zn6YCODs
+
+----
+
+Thumbnail: - file://i2X6a666zn6YCODs
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-06-30
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, pensioni, quattordicesima
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>L’INPS provvederà alla <strong>revisione dei cedolini di luglio 2023</strong> che, come <a href=\"/it/@/page/iKdH2on21vaBXjaY\">lo Spi Cgil aveva denunciato ieri</a>, indicavano invece erroneamente gli importi della quattordicesima come “aumento pensioni basse 2023”.</p><p>“Si tratta di una scelta giusta e necessaria da parte dell’Istituto di previdenza – commentano Ivan Pedretti, segretario generale dello Spi Cgil e Tania Scacchetti, segretaria nazionale con delega alla previdenza. I due dirigenti del sindacato dei pensionati avevano sollevato il caso, preoccupati dalla confusione e dall’incertezza che si stavano determinando viste le tante richieste di chiarimento già avanzate dai pensionati e dalle pensionate.</p><p>“Ribadiamo che la quattordicesima non è un aumento e non è stata definita per il 2023 – hanno voluto ricordare -; spetta dal 2007 a determinate condizioni di reddito e a partire dai 64 anni ed è <strong>un’importante conquista del sindacato confederale dei pensionati</strong>. Il ripristino della dicitura corretta nei cedolini è quindi una buona notizia. Rimane per lo Spi la necessità di ottenere risposte, già nella prossima legge di bilancio: il potere d’acquisto dei pensionati e delle pensionate va tutelato, anche attraverso l’allargamento della platea dei beneficiari della quattordicesima e un suo adeguamento economico. Il governo trovi le risorse necessarie”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: Uw1FKum6SdR2GtOo

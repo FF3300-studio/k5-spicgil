@@ -1,0 +1,117 @@
+Title: Nelle nostre mani: l'assemblea delle volontarie e dei volontari dei campi della legalità
+
+----
+
+Descrizione: Sono centinaia i pensionati, le pensionati, i giovani, ragazzi e ragazze, che ogni anno lavorano fianco a fianco nei campi e nelle terre confiscate alle mafie.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://JVbPkhgkBCllcpDt
+
+----
+
+Thumbnail: - file://JVbPkhgkBCllcpDt
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-10-20
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, legalità, antimafia, volontariato
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Sono centinaia i pensionati, le pensionati, i giovani, ragazzi e ragazze, che ogni anno lavorano fianco a fianco nei campi e nelle terre confiscate alle mafie. Martedì 24 ottobre saranno tutte e tutti a Roma. E noi avremo l'occasione per ringraziarli del loro impegno straordinario.</p><p>Il futuro del Paese - che vogliamo sano, equo e legale - è nelle nostre mani.</p><p>L'introduzione dell'assemblea sarà affidata a <strong>Claudia Carlino</strong>, segretaria nazionale dello Spi Cgil, verrà poi dato spazio alle testimonianze dei volontari e delle volontarie che hanno partecipato ai lavori nei campi della legalità. Seguirà poi una tavola rotonda cui parteciperanno <strong>Federico Amalfa</strong>, esecutivo nazionale Unione degli Universitari, <strong>Jean René Bilongo</strong>, capo dipartimento Inclusione e legalità Flai Cgil <strong>Maurizio Landini</strong>, segretario generale Cgil, <strong>Domenico Pantaleo,</strong> presidente Auser, <strong>Ivan Pedretti</strong>, segretario generale Spi Cgil, <strong>Alice Pettinari</strong>, responsabile legalità Rete degli Studenti Medi, <strong>Filippo Sestito</strong>, responsabile nazionale Arci antimafia sociale, <strong>Claudio Siciliano</strong>, referente nazionale E!State Liberi! Libera. La moderazione e la conduzione dell'assemblea è affidata a Giovanni Tizian, giornalista di Domani, che intratterrà anche una conversazione con lo scrittore <strong>Maurizio De Giovanni</strong> sull'importanza di riportare al centro del dibattito politico la questione delle periferie.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: IU2EF8ZCPgtbEis5

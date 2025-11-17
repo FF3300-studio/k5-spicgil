@@ -1,0 +1,117 @@
+Title: Basta fare cassa sulle pensioni
+
+----
+
+Descrizione: Ancora un taglio sulle pensioni è una ragione in più per scendere in piazza in tante e tanti il prossimo 7 ottobre a Roma.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://h47ixc2Wd6cZSmER
+
+----
+
+Thumbnail: - file://h47ixc2Wd6cZSmER
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-08-31
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, manifestazione, lavoro, costituzione, rivalutazione
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Se fossero vere le anticipazioni pubblicate oggi dai giornali riguardo a un <strong>nuovo intervento del governo sull’indicizzazione delle pensioni</strong> saremmo di fronte a una <strong>scelta sbagliata</strong> e grave, oltre che presa senza mai aver aperto un confronto con il sindacato.</p><p>Il governo, già con l’intervento dello scorso anno (valido anche per il 2024), ha definito un meccanismo per blocchi fortemente iniquo e penalizzante in particolare per le pensioni che superano di oltre 5 volte il trattamento minimo.</p><p>Come certifica l’ufficio parlamentare di bilancio, i pensionati sono i soggetti che hanno meno possibilità di difendersi dall’inflazione; inoltre su di loro e sui lavoratori dipendenti grava il peso dell’Irpef di questo Paese. Per i pensionati quindi il meccanismo di indicizzazione è decisivo per salvaguardare il potere di acquisto eroso da un aumento dei prezzi e da rincari di mutui, spese sanitarie e beni di prima necessità che non hanno adeguato contrasto. Obiettivo del governo dovrebbe essere migliorare quel meccanismo, non peggiorarlo, invece dopo tanti annunci e tante promesse, si svela ancora una volta il vero volto di questo esecutivo: debole con i forti e forte con i deboli.</p><p>Come sindacato dei pensionati, lo Spi Cgil è sempre pronto al confronto, ma davanti a decisioni come queste le iniziative di mobilitazione non potranno che continuare ed essere rafforzate. Insieme alla Cgil vogliamo risposte per migliorare le condizioni di vita dei lavoratori e dei pensionati. <strong>Ancora un taglio sulla loro pelle è una ragione in più per scendere in piazza in tante e tanti il </strong><a href=\"/it/@/page/TswnkMkpTvlJgEmx\"><strong>prossimo 7 ottobre a Roma</strong></a>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: poCOP23Tsj59ESzS

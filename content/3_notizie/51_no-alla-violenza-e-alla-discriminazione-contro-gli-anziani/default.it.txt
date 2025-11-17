@@ -1,0 +1,117 @@
+Title: No alla violenza e alla discriminazione contro gli anziani!
+
+----
+
+Descrizione: Il 1 ottobre è la Giornata internazionale delle persone anziane, dedicata quest’anno dalle Nazioni Unite al contrasto alla violenza contro gli anziani e, in particolare, alla violenza di genere.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://HUbvpPRBu5tclc4w
+
+----
+
+Thumbnail: - file://HUbvpPRBu5tclc4w
+
+----
+
+Child-category-selector: Dipartimento Diritti e Benessere
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-09-29
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, anziani, violenza, discriminazione
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il 1 ottobre è la <strong>Giornata internazionale delle persone anziane</strong>, dedicata quest’anno dalle Nazioni Unite al contrasto alla violenza contro gli anziani e, in particolare, alla <strong>violenza di genere</strong>.</p><p>Come sindacato affiliato alla FERPA, la federazione europea dei pensionati e delle persone, lo <strong>Spi Cgil</strong> si unisce alla denuncia degli abusi e degli atteggiamenti negativi che isolano e producono conseguenze dannose per la salute fisica e mentale degli anziani.</p><p><strong>Ogni giorno la popolazione anziana è vittima di abusi finanziari</strong>. Senza supporto, il mondo digitale istituzionalizzato rende difficile l'accesso ai diritti sociali e sanitari e alle informazioni necessarie per vivere con dignità. La rivelazione di vari scandali negli istituti per anziani e a domicilio ha smosso l'opinione pubblica, ma l'emozione non basta.</p><p>Insieme alla FERPA condanniamo l'inerzia delle autorità pubbliche e chiediamo al governo l'attuazione di misure che mettano urgentemente a disposizione risorse umane e finanziarie.</p><p>La Giornata è anche un'opportunità per ribadire il <strong>nostro impegno condiviso per il pieno riconoscimento del ruolo dei pensionati e degli anziani nella società</strong>, in modo che possano accedere ai loro diritti e svolgere un ruolo attivo nelle politiche che li riguardano.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: utinUVrLt3Bnw7mQ

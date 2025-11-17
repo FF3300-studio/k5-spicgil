@@ -1,0 +1,117 @@
+Title: Manovra, Spi-Cgil: governo conferma cassa su pensioni, il 16/12 in piazza
+
+----
+
+Descrizione: Dal governo nessun passo avanti e la conferma che fa cassa con le pensioni
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://QucaDP3tow8xcNCP
+
+----
+
+Thumbnail: - file://QucaDP3tow8xcNCP
+
+----
+
+Child-category-selector: Pensioni, Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2017-11-17
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo, cgil, manifestazione, spi
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“<strong>Dal governo nessun passo avanti</strong>. Fa <strong>cassa con le pensioni</strong>, taglia la <strong>sanità</strong>, acuisce le <strong>diseguaglianze</strong> con la <strong>flat tax</strong>, non c’è nulla sulla <strong>non autosufficienza</strong> e per il <strong>lavoro</strong>.</p><p>Le ragioni della <strong>manifestazione nazionale dei pensionati</strong> che abbiamo indetto per il <strong>16 dicembre in piazza Santi Apostoli</strong> non sono solo confermate ma anche rafforzate”.</p><p>Lo dichiara il Segretario generale dello Spi-Cgil <strong>Ivan Pedretti</strong> a seguito dell’incontro di oggi tra governo e sindacati sulla manovra di bilancio.</p><p>“Milioni di pensionati e di pensionate – continua Pedretti – sono il <strong>bancomat</strong> da cui vengono forzatamente prelevate le risorse per finanziare una manovra di bilancio che non serve al paese e che favorisce i <strong>furbi e gli evasori</strong>.</p><p>Sono <strong>3,7 miliardi di euro in un solo anno</strong>, non bruscolini.</p><p>Una rimodulazione delle soglie di rivalutazione, come dichiarato dalla Presidente del Consiglio Giorgia Meloni, non avrebbe nemmeno il senso di un pannicello caldo”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: pSEpyX7EGxp5qjHp

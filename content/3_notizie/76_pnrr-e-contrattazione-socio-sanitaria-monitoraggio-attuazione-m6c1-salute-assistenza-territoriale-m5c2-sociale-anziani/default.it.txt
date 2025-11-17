@@ -1,0 +1,117 @@
+Title: PNRR e contrattazione socio sanitaria: monitoraggio attuazione M6C1 Salute-assistenza territoriale, M5C2 Sociale-Anziani
+
+----
+
+Descrizione: Inizia la raccolta firme, sottoscrivi anche tu la campagna referendaria ai banchetti che troverai nella tua città e online.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://PusdXKvhJQvGME5k
+
+----
+
+Thumbnail: - file://PusdXKvhJQvGME5k
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-09-05
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, pnrr, salute, sanità
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>SPI CGIL e CGIL stanno effettuando un monitoraggio sull’attuazione del PNRR: Missione 5C2 Anziani/Non Autosufficienza e Missione 6C1 Salute/Potenziamento assistenza territoriale. In particolare, il monitoraggio è in funzione della negoziazione-contrattazione sociale territoriale. Di seguito alcune risorse utili:</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Report questionari&nbsp; DM 77 Monitoraggio PNRR M6 C1</strong>… Modelli e standard per lo sviluppo dell’assistenza territoriale nel Servizio Sanitario Nazionale. LE RISPOSTE ai questionari per l'analisi delle delibere e degli atti regionali (marzo 2024)</p>"},"id":"907caf0d-a633-4364-b86b-dd20c097490a","isHidden":false,"type":"text"}],"id":"eb59fb23-faf0-4540-be94-96a09d9bdd16","width":"5/6"},{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/pnrr/2024-03-11-report%20questionari-DM77-MonitorAttuazione%20PNRR%20M6C1.pdf\" target=\"_blank\">Scarica il file</a></p>"},"id":"3b73a2f2-38f4-4e62-af4e-4a321b38a3ac","isHidden":false,"type":"text"}],"id":"a4fd4028-32bc-43c6-979b-54950856a602","width":"1/6"}],"id":"26f7ea3b-b4a8-4de1-b047-68a1e372688c"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Come attuare il PNRR: Investimenti Missione 6C1, Missione 5C2 e il Decreto Ministeriale 77/2022&nbsp;</strong>(ottobre 2022, aprile 2023)</p>"},"id":"fdb7e122-12ba-4f22-9090-a66bd9caa90f","isHidden":false,"type":"text"}],"id":"732de498-f502-461e-843e-444233d370fd","width":"5/6"},{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/pnrr/2023_04_Come%20attuare%20PNRR%20DM%2077%202022-may.pdf\" target=\"_blank\">Scarica il file</a></p>"},"id":"d52b833c-c0c4-4096-b576-4fed3a4ddaff","isHidden":false,"type":"text"}],"id":"d09cd792-a30f-4d7b-9efb-dab5c3660ea0","width":"1/6"}],"id":"e78d7446-d2d7-4cc8-bd01-63eda7558228"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Monitoraggio PNRR M5C2 Investimenti Anziani (1.1.2 e 1.1.3)</strong>&nbsp;Scheda per la negoziazione/contrattazione sociale (giugno-luglio 2024)</p>"},"id":"68f4f023-46a2-4a79-89dd-069ce5118b4a","isHidden":false,"type":"text"}],"id":"ecf7c8e8-31a6-4c1e-906c-0662fd265a6f","width":"5/6"},{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/pnrr/2024_07_PNRR-M5C2-Invest-ANZIANI.pdf\" target=\"_blank\">Scarica il file</a></p>"},"id":"81fae9d8-4f62-4ea6-a69e-988b35e25026","isHidden":false,"type":"text"}],"id":"e1358e98-79c6-4cd1-b647-5faf401b1df0","width":"1/6"}],"id":"915274e2-2996-45e8-8c3a-16fda6a1cdcd"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Monitoraggio PNRR M6C1 ADI Assistenza Domiciliare:</strong>&nbsp;stato di attuazione nelle regioni e province autonome regioni (luglio 2024)</p>"},"id":"64153aff-43f5-4693-8faa-dd9b7b7b70e6","isHidden":false,"type":"text"}],"id":"c2422629-1b46-4ac2-bac4-6b09e16c4812","width":"5/6"},{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/2024%2008%20Monitoraggio%20PNRR-ADI-gen-2025.pdf\">Scarica il file</a></p><p></p>"},"id":"f4162332-2668-4c4e-a670-d02d92fe7c2e","isHidden":false,"type":"text"}],"id":"3f0cade1-b18b-4f26-9c22-bf7ef9c9a5cd","width":"1/6"}],"id":"13ff3818-ef2e-4249-a13d-67d3cd545d75"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Monitoraggio Piani Regionali Non Autosufficienza</strong>&nbsp;2022-2024: stato di attuazione nelle regioni e province autonome e Raccomandazioni per la contrattazione sociale territoriale (maggio 2024).&nbsp;<em>Il Piano NA anticipa la Riforma prevista dal PNRR e avviata con la legge 33/2023.</em></p>"},"id":"6c475070-7220-4ab5-9bbd-aacea8f638f1","isHidden":false,"type":"text"}],"id":"a261195c-33a4-4d3d-a10d-7d4e8ef4d05f","width":"5/6"},{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/pnrr/2024_05_Monitoraggio%20Piani%20reg%20Non%20Autosufficienza-22-24-LINK.pdf\" target=\"_blank\">Scarica il file</a></p>"},"id":"47231d08-9fef-47b4-a3c1-0ee2252a6da9","isHidden":false,"type":"text"}],"id":"5adc804b-93f4-4f71-a395-6fb9459b694e","width":"1/6"}],"id":"6c3b4a05-d14d-41c0-bbff-d8cdc6f48d44"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>“Monitoraggio PNRR M6C1 Focus “Il Personale”:</strong>&nbsp;stato di attuazione nelle regioni e province autonome (dicembre 2024)</p>"},"id":"e0056709-0e37-41e0-a225-5560bf8d35b3","isHidden":false,"type":"text"}],"id":"a845ea71-4c48-4263-a966-d456891c54f9","width":"5/6"},{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/Report%20Monitoraggio%20attuazione%20PNRR%20Personale%20M6C1.pdf\">Scarica il file</a></p>"},"id":"27da6231-c23b-48d2-9ea4-75b9b025d5dd","isHidden":false,"type":"text"}],"id":"b7595633-aff0-47b8-be94-3f3064dc343f","width":"1/6"}],"id":"70fb8f91-4143-4620-a250-60e11d189ca1"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Report monitoraggio PNRR M6C1 CaseComunità</strong></p>"},"id":"b6c17177-ea0b-4fdf-9eb8-4c1c9cae8050","isHidden":false,"type":"text"}],"id":"f94e6cba-c467-4a09-8b3d-1fb942fb45b7","width":"5/6"},{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/Report%20monitoraggio%20PNRR%20M6C1%20CaseComunit%C3%A0-link.pdf\">Scarica il file</a></p>"},"id":"aedd2e7f-04d7-41f1-a81a-3e30ec5e6b4e","isHidden":false,"type":"text"}],"id":"d45cde90-8a63-4852-9252-8a60b0aea220","width":"1/6"}],"id":"1ff27130-ffb7-486b-a9c2-5f0ca56cdd41"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: rkpW3DZhskgl3gHY

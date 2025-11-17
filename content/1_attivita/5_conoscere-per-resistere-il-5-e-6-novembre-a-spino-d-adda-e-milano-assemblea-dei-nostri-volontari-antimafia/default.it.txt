@@ -1,0 +1,121 @@
+Title: “Conoscere per resistere”: il 5 e 6 novembre a Spino d’Adda e Milano assemblea dei nostri volontari antimafia
+
+----
+
+Descrizione: “Conoscere per resistere”, l’assemblea nazionale dei volontari antimafia promossa dallo Spi Cgil si terrà il 5 e 6 novembre a Spino d'Adda.
+
+----
+
+Dove: Spino d'Adda
+
+----
+
+Immagine: - file://eVwWTt92NXymgKO4
+
+----
+
+Thumbnail: - file://eVwWTt92NXymgKO4
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-11-05
+  orario_inizio: 09:30:00
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: 
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Un bene confiscato alla criminalità organizzata e restituito alla collettività e la storica sede della Camera del lavoro di Milano</strong>: due luoghi simbolo della legalità e dell’impegno civile ospiteranno l’edizione 2025 di <em>“Conoscere per resistere”</em>, l’assemblea nazionale dei volontari antimafia promossa dallo <strong>Spi Cgil</strong> il <strong>5 e 6 novembre</strong>.</p><p>Centinaia di volontarie e volontari anziani provenienti da tutta Italia si riuniranno per condividere esperienze e approfondimenti insieme ai tanti giovani che ogni estate partecipano ai campi antimafia, sostenendo le realtà associative impegnate nella gestione dei beni confiscati e nella promozione della cultura della legalità.</p><p><strong>La due giorni: legalità, formazione e testimonianze</strong></p><p>La prima giornata, <strong>martedì 5 novembre</strong>, si svolgerà a <strong>Spino d’Adda (CR)</strong>, e sarà inaugurata da una visita presso la tenuta Terre e Libertà confiscata alla criminalità e destinata nel 2022 al Comune, che l’ha temporaneamente affidata alla Camera del lavoro territoriale di Cremona, allo Spi Cgil Cremona e alla onlus <em>Una Casa Anche per Te</em>.</p><p>Dopo il pranzo sociale a cura degli studenti della Scuola Cr. Forma di Crema, i volontari si sposteranno presso il Cinema Vittoria dove prenderà il via l’assemblea che si aprirà con la presentazione della ricerca <em>“Mafia ed eversione”</em>, commissionata dallo Spi Cgil, seguiranno approfondimenti su mafie contemporanea e cultura della legalità e sulla rigenerazione del territorio attraverso i beni confiscati.</p><p>«Per noi i campi sono un luogo di trasformazione sociale oltre che di presidio della legalità e dell’antimafia. – spiega <strong>Tania Scacchetti</strong>, segretaria generale dello Spi Cgil – Sono un meraviglioso laboratorio sociale che mescola tante realtà diverse: pensionati e studenti, persone provenienti da territori e regioni lontane con storie ed esperienze differenti alle spalle. Quando si esce dai campi lo si fa con la consapevolezza che costruire una società migliore è possibile e va fatto assieme».</p><p>«Quest’anno – spiega <strong>Claudia Carlino</strong>, segretaria nazionale Spi Cgil – oltre a riconoscere l’impegno dei circa 230 volontari che hanno partecipato ai campi antimafia, proponiamo momenti di formazione promossi dall’Alta scuola Spi sui temi del contrasto alla cultura mafiosa. Dare strumenti formativi significa qualificare sempre di più la presenza dei volontari e renderli ancora più consapevoli del loro ruolo».</p><p>Nel corso della giornata interverranno anche rappresentanti dell’<strong>Unione degli universitari</strong> e della <strong>Rete degli studenti medi</strong>, insieme a magistrati, operatori e associazioni impegnate nella valorizzazione dei beni confiscati, tra cui <strong>Libera</strong>. Spazio anche alle esperienze di progetti come <em>“Riusiamoli”</em>, che affronta l’emergenza abitativa studentesca nelle grandi città.</p><p><strong>Il 6 novembre a Milano, nella storica Camera del lavoro</strong></p><p>La seconda giornata, <strong>mercoledì 6 novembre</strong>, si terrà a <strong>Milano</strong>, nella sede storica della <strong>Camera del lavoro</strong>, presidio di diritti e memoria del movimento dei lavoratori.</p><p>Sono previsti gli interventi di rappresentanti della <strong>Segreteria confederale della Cgil nazionale</strong>, di <strong>Magistratura democratica</strong> – che affronterà il tema della riforma della giustizia – e dell’<strong>Università di Bologna</strong>, insieme a studiosi e rappresentanti istituzionali impegnati nella lotta alle mafie.</p><p>A chiudere i lavori sarà la <strong>segretaria generale dello Spi Cgil, Tania Scacchetti</strong>, dopo un momento dedicato ai racconti dei volontari dei campi antimafia: storie di impegno concreto e di collaborazione tra istituzioni, associazioni come Libera e Arci, cooperative, mondo del lavoro e volontariato.</p><p><a href=\"https://spi.cgil.it/uploads/Programma.pdf\"><strong>LEGGI IL PROGRAMMA</strong></a></p>"},"id":"2e4361ed-592d-415e-8c2d-80d8d8adb96e","isHidden":false,"type":"text"}],"id":"eb20b15a-9c5e-4407-a038-9e3765225710","width":"1/1"}],"id":"fbc7c566-44cf-449e-939d-da4b17e42a1e"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Dipartimenti: 
+
+----
+
+Deadline: 
+
+----
+
+Uuid: ZzGmR1FrIGKcRlMl

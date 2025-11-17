@@ -1,0 +1,117 @@
+Title: Non Autosufficienza. Al via la Prestazione Universale ma già la sperimentazione sbaglia
+
+----
+
+Descrizione: Dal primo gennaio 2025 è partita la sperimentazione della Prestazione Universale che, nelle intenzioni del governo Meloni, dovrebbe sostituire e integrare l’Indennità di accompagnamento.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://1ybsnpa6Ke90ubbD
+
+----
+
+Thumbnail: - file://1ybsnpa6Ke90ubbD
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-01-08
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, sanità, salute, cura
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Dal primo gennaio 2025 è partita la sperimentazione della Prestazione Universale che, nelle intenzioni del governo Meloni, dovrebbe sostituire e integrare l’Indennità di accompagnamento.</p><p>Di fatto, già in questa fase, la sperimentazione mostra tutti i suoi limiti. Si tratta, infatti, di una misura che è destinata a una piccolissima parte della popolazione non autosufficiente ed è scarsamente finanziata poiché non prevede lo stanziamento di nuove risorse.</p><p>I pensionati della Cgil lo avevano già denunciato in occasione dell’annuncio della sperimentazione. A una settimana dall’avvio, siamo tornati a chiedere al governo di evitare che l’introduzione di questa misura sia inutile se non dannosa. Purtroppo l’incontro tra la viceministra del Lavoro e delle Politiche Sociali Maria Teresa Bellucci - che si è tenuto il 7 gennaio e ha coinvolto SPI CGIL, FNP CISL, UILP UIL - si è concluso con l’ennesimo nulla di fatto.</p><p>Qui ricordiamo alcune delle critiche e proposte presentate al Ministero:</p><p>§&nbsp; Lo scarso finanziamento della Prestazione Universale, pari a 250 milioni l’anno nel 2025 e nel 2026, è sottratto a fondi già esistenti per politiche sociali e non autosufficienza.</p><p>§&nbsp; È anche a causa dell’assenza di risorse che i requisiti di accesso alla Prestazione Universale – fissati dal D.Lgs 29/2024 (art. 35) - sono stati scelti in modo da ridurre la platea dei destinatari a poche migliaia di persone: non autosufficienti ultra80enni, con ISEE socio sanitario inferiore ai 6mila euro, titolari di indennità di accompagnamento e con un livello gravissimo di bisogno assistenziale.</p><p>§&nbsp; I livelli di bisogno assistenziale sono stati, a loro volta, definiti con un apposito decreto approvato nel mese di dicembre (DM LPS 200 del 19.12.2024), stabilendo punteggi che rispondono a criteri fortemente selettivi e non sempre non condivisibili. Ad esempio, a parità di condizioni (persona ultra80enne con disabilità gravissima, identico ISEE sociosanitario, titolare di indennità di accompagnamento) si assegna un punteggio sfavorevole a chi è assistito da un familiare o già riceve cure sociosanitarie domiciliari o semiresidenziali, pure se queste sono dovute a una gravissima disabilità.</p><p>§&nbsp; Nella Prestazione Universale la quota denominata “Assegno di Cura” si aggiunge all’Indennità di accompagnamento ma anziché integrare le eventuali prestazioni regionali/locali destinate alle persone non autosufficienti con gravissima disabilità le sostituisce. Per accedere alla P.U., infatti, occorre rinunciare preventivamente alle prestazioni regionali/locali. Tra l’altro l’interpretazione di quali siano le prestazioni in questione non è semplice, considerando le forti differenze territoriali (si pensi al diverso utilizzo da regione a regione delle quote del Fondo non autosufficienza destinato a persone con gravissima disabilità).</p><p>Anche alla luce di queste considerazioni e del fatto che l’Esecutivo non si è mai confrontato finora con le organizzazioni sindacali e con le associazioni sull’attuazione della Riforma sulla non autosufficienza (legge 33/2023), insistiamo nel chiedere al governo l’apertura di un tavolo permanente di confronto, in particolare sia sull’attuazione della Riforma che sui suoi numerosi provvedimenti attuativi.</p><p>Materiali per approfondire</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.lavoro.gov.it/_layouts/Lavoro.Web/AppPages/GetResource?ds=pl&amp;rid=25137\"><strong>Decreto del Ministro LPS n. 200 del 19.12.2024</strong></a> (<em>Adozione degli Indicatori dello stato di bisogno assistenziale gravissimo</em>)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=\"https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2024.12.messaggio-numero-4490-del-30-12-2024_14758.html\"><strong>Messaggio INPS n. 4490 del 30.12.2024</strong></a><strong> </strong>(<em>Decreto legislativo 15 marzo 2024, n. 29, recante “Disposizioni in materia di politiche in favore delle persone anziane, in attuazione della delega di cui agli articoli 3, 4 e 5 della legge 23 marzo 2023, n. 33”. Prestazione Universale</em>).</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appello “<a href=\"https://www.sossanita.org/archives/23415\"><strong>Non Autosufficienza: salvare la riforma</strong></a>”</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 4iaEDKoBpR8K2TZ1

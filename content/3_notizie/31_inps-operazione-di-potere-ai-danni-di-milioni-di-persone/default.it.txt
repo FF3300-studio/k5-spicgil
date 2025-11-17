@@ -1,0 +1,117 @@
+Title: Inps, operazione di potere ai danni di milioni di persone
+
+----
+
+Descrizione: Un atto d'imperio a discapito di milioni di persone che avrebbero invece bisogno di un’amministrazione solida
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://Wk8zAfRDpO3VoIbJ
+
+----
+
+Thumbnail: - file://Wk8zAfRDpO3VoIbJ
+
+----
+
+Child-category-selector: Dipartimento Previdenza e Fisco
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-05-02
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, pensioni, inps
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“<strong>Il governo rimuove il Presidente dell’Inps e commissaria un ente pubblico</strong> pagato con i soldi dei pensionati, dei lavoratori e delle imprese. È un brutale atto d’imperio che non ha alcuna giustificazione. È solo <strong>un’operazione di potere</strong> per il potere a discapito di milioni di persone che avrebbero invece bisogno di un’amministrazione solida, funzionante e in grado di rispondere ai loro bisogni”. Così il segretario generale dello Spi-Cgil <strong>Ivan Pedretti</strong> commenta le misure varate dall’ultimo Consiglio dei ministri.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: Ckztbk32UHySqxP7

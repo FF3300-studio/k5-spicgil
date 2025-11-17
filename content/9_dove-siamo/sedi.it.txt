@@ -1,0 +1,57 @@
+Title: Dove siamo
+
+----
+
+Data-source: csvfile
+
+----
+
+Gsheet-url: https://docs.google.com/spreadsheets/d/e/2PACX-1vSeWykrFfDSAFMf1OEnBDwAgOWizVftYDHw4HRjnBsFbUZq9-705H5arsbFIpOhs1AlBtJwH9jruu9p/pub?gid=0&single=true&output=csv
+
+----
+
+Gsheet-id: 
+
+----
+
+Gsheet-gid: 0
+
+----
+
+Csv-data: - file://48s7hgm1mbibti9n
+
+----
+
+Cache-ttl-minutes: 1
+
+----
+
+Mapbox-show-controls: true
+
+----
+
+Mapbox-style-url: mapbox://styles/ff3300/cliyax15s00hv01qy7c409hcv
+
+----
+
+Marker: - file://svbrjnlsdv8qrz9f
+
+----
+
+Data-file: 
+
+----
+
+Csv-separator: ;
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: dbhiwmobepu6pzte

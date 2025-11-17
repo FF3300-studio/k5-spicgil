@@ -1,0 +1,85 @@
+Title: collection blog
+
+----
+
+Descrizione: 
+
+----
+
+Immagine: 
+
+----
+
+Thumbnail: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+In-primo-piano: 
+
+----
+
+Correlati: 
+
+----
+
+Contenuto: 
+
+----
+
+Collection-toggle: true
+
+----
+
+Collection-options: blog
+
+----
+
+Collection-categories-manager-toggle: true
+
+----
+
+Collection-pagination: true
+
+----
+
+Cover-toggle: true
+
+----
+
+Thumbnail-toggle: true
+
+----
+
+Uuid: gNnQOlQVBtPYeXcW

@@ -1,0 +1,129 @@
+Title: 3 ottobre - Giornata delle vittime dell’immigrazione
+
+----
+
+Immagine: - file://H2vdS1ktPa2ZfYPD
+
+----
+
+Thumbnail: - file://H2vdS1ktPa2ZfYPD
+
+----
+
+Descrizione: a nove anni dalla strage avvenuta al largo di Lampedusa il 3 ottobre del 2013
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Dipartimento Diritti e Benessere
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: migranti, diritti, lampedusa, immigrazione, clandestino
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://H2vdS1ktPa2ZfYPD"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","min_height":"unset","min_width":"unset","max_height":"unset","max_width":"unset"},"id":"232afd5c-8183-4e68-beeb-d566a1a238c9","isHidden":false,"type":"image"}],"id":"73803f4f-3711-48a3-b454-fb983812ea94","width":"1/1"}],"id":"11fe502d-1d2f-43fb-ae25-baf9112b3056"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Si celebra il 3 ottobre la settima <strong>giornata nazionale in memoria delle vittime dell’immigrazione</strong>, a nove anni dalla strage avvenuta al largo di Lampedusa il 3 ottobre del 2013, dove persero la vita 386 persone, donne, uomini, bambini, nel naufragio di un barcone al quale avevano affidato il loro viaggio della speranza.</p><p>Purtroppo non è stato né il primo né l’ultimo di questi tragici episodi.</p><p>Secondo l’Alto commissariato Onu per i rifugiati (Unhcr) sono stati 1.004 i migranti morti in mare nel primo semestre del 2022 nel tentativo di attraversare il Mediterraneo per raggiungere l’Europa.&nbsp; <br>Nel complesso, secondo l’Unhcr, un totale di 73.928 rifugiati e migranti sono giunti via mare nel periodo in Italia, Grecia, Spagna, Cipro e Malta. La maggioranza di questi, oltre 50mila, sono arrivati in Italia.</p><p>Quella dei migranti morti nelle traversate del Mediterraneo è purtroppo una costante degli ultimi anni: un recente rapporto dell’agenzia dell’Onu per i rifugiati ha indicato che, tra il 2014 e il 2021, oltre 24.400 persone hanno perso la vita o sono scomparse nel tentativo di raggiungere l’Europa via mare. <br>L’Oim, Organizzazione Mondiale delle Migrazioni, sottolinea, dal canto suo, che queste cifre sono sicuramente molto inferiori alla realtà: “centinaia di casi di naufragi invisibili” sono segnalati da Ong che sono in contatto diretto con chi è a bordo o con le loro famiglie.</p><p>L’Oim “ribadisce la richiesta agli Stati di adottare misure urgenti e proattive per ridurre la perdita di vite umane sulle rotte migratorie marittime verso l’Europa e per rispettare gli obblighi previsti dal diritto internazionale”, come ha affermato il suo direttore generale Antonio Vitorino, che ha sottolineato come “aumentare gli sforzi di ricerca e soccorso, mettere in atto meccanismi di sbarco prevedibili e garantire l’accesso a rotte migratorie sicure e legali sono passi chiave per raggiungere questo obiettivo”.</p><p>Nel corso degli ultimi due anni la pandemia da Covid-19 ha costituito un ulteriore pretesto per azzerare le missioni istituzionali europee di ricerca e soccorso e continuare a frapporre enormi ostacoli alle poche navi delle <strong>Ong</strong> ancora presenti nel Mediterraneo per <strong>prestare soccorso a centinaia di profughi e migranti</strong>.</p><p>Non possiamo tacere che questo enorme numero di morti è il frutto dell’attività criminale di trafficanti senza scrupoli, ma trova le sue radici nelle politiche italiane ed europee di chiusura delle frontiere e di sostanziale impossibilità per profughi e migranti di accedere a canali regolari di ingresso. Né che alle continue tragedie del mare si somma la sciagurata attività della <strong>Guardia costiera libica</strong>, finanziata dall’Italia, che dall’inizio dell’anno ha <strong>riportato indietro a Tripoli migliaia di persone</strong>, costrette a tornare nel Paese da cui cercano di fuggire, Paese che tutte le organizzazioni internazionali hanno formalmente dichiarato <strong>non essere un porto sicuro, e dove profughi e migranti sono trattenuti in condizioni di palese violazione dei diritti umani.</strong></p><p><strong>Lo Spi partecipa alla mobilitazione delle confederazioni Cgil, Cisl e Uil e delle associazioni umanitarie e di volontariato </strong>– in particolare quelle riunite nella campagna “Io accolgo” –<strong> per chiedere anche al prossimo governo un radicale cambiamento delle politiche migratorie in Italia come in Europa</strong>.</p><p>Vanno abrogati accordi per bloccare il transito e la partenza di rifugiati, migranti, richiedenti asilo come quelli siglati con la Turchia, la Libia, il Niger ed altri Paesi che non possono essere considerati “sicuri”, né rispettosi dei diritti umani. Al contrario, in stretta collaborazione con le organizzazioni internazionali – Unhcr, Oim - è ora di stabilire corridoi umanitari per le situazioni di gravi conflitti armati, di disastrose carestie, di continue violazioni dei diritti umani, a partire dall’Afghanistan, e di svuotare i disumani e criminali lager in Libia come i superaffollati campi delle isole greche.</p><p>Vanno ripristinati canali regolari di accesso per ricerca di lavoro in Italia e in Europa - dove, tra l’altro, l’invecchiamento della popolazione e il calo delle nascite richiedono l’afflusso di persone giovani.</p><p>In Italia, una nuova politica dell’immigrazione, deve superare definitivamente la legge Bossi-Fini, l’accordo con la Libia, i decreti sicurezza del governo giallo-verde, riaprire in maniera seria e credibile l’ammissione di lavoratori stranieri tramite i decreti flussi e rivedere significativamente la legge sulla cittadinanza, riconoscendo finalmente i diritti di quelle centinaia di migliaia di minori nati o cresciuti nel nostro Paese.</p><p>Che la giornata del 3 ottobre, dunque, serva per promuovere la costruzione di un’Italia e di un’Europa aperte, accoglienti, solidali che sappiano valorizzare il positivo contributo culturale, economico, di diversità che le persone migranti portano ai nostri Paesi. Su questi obiettivi lo Spi continuerà – e, se necessario, intensificherà – la propria iniziativa, perché sono irrinunciabili valori di civiltà e di rispetto della nostra Costituzione repubblicana, da far valere di fronte a qualsiasi compagine governativa.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2022-10-03
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Diritti e Benessere
+
+----
+
+Uuid: aMAhYLU6Jwk0aYJx

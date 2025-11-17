@@ -1,0 +1,117 @@
+Title: La legge sulla non autosufficienza spiegata per bene
+
+----
+
+Descrizione: Il Consiglio dei Ministri, che si è riunito lunedì 10 ottobre 2022, ha approvato il disegno di legge delega sulla non autosufficienza delle persone anziane.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://ER3dwBJiNxSJQhZ2
+
+----
+
+Thumbnail: - file://ER3dwBJiNxSJQhZ2
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2022-10-11
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: cgil, spi cgil, non autosufficienza, anziani, governo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il Consiglio dei Ministri, che si è riunito lunedì 10 ottobre 2022, ha <strong>approvato il disegno di legge delega sulla non autosufficienza delle persone anziane</strong>.</p><p>Vede così finalmente la luce una riforma particolarmente attesa da tutto il paese, considerato il numero sempre più elevato di anziani che vivono in una condizione di non autosufficienza – 3,5 milioni, in crescita - e i problemi che affliggono tantissime famiglie italiane, per un totale di 10 milioni di persone coinvolte.</p><p>La legge era <strong>chiesta a gran voce da oltre un decennio dai Sindacati dei pensionati Spi-Cgil, Fnp-Cisl e Uilp-Uil</strong>, che si sono a lungo mobilitati per spingere la politica a intervenire per dare una risposta di dignità alle persone anziane.</p><p>Questa risposta è finalmente arrivata e non era affatto scontata.</p><p>Le mobilitazioni e le pressioni dei Sindacati, così come l’alleanza con diverse associazioni e realtà sociali che a loro volta si occupano del tema della non autosufficienza, hanno permesso di <strong>raggiungere un risultato che si può considerare storico</strong>, per la portata e per il merito degli interventi previsti.</p><p>A pesare, in positivo, anche l’interlocuzione con la politica, in particolare con i Ministeri del Lavoro e della Salute.</p><p><u><strong>Che cosa prevede la legge</strong></u></p><p>Il disegno di legge contiene i principi e i criteri che il Governo dovrà seguire nel configurare il futuro assetto dell’assistenza sociale, sanitaria e sociosanitaria per le persone anziane non autosufficienti in tutta Italia.</p><p>In linea generale questi principi sono tutti orientati a garantire la promozione del valore umano, sociale, culturale ed economico di ogni stagione della vita.</p><p>Il primo ambito nel quale la futura legge detta la linea al Governo per l’adozione di un decreto attuativo è quello dell’<strong>invecchiamento attivo</strong>, dell’inclusione sociale e della prevenzione della fragilità (articolo 3).</p><p>Grande attenzione dovrà essere dedicata non solo alle misure destinate a contrastare l’<strong>isolamento</strong> e la <strong>marginalizzazione</strong>, al riordino, al potenziamento e all’integrazione delle diverse misure di assistenza sociale, sanitaria e sociosanitaria o a <strong>promuovere interventi di sanità preventiva a domicilio</strong>, ma anche allo sviluppo di interventi per la solidarietà e la coesione tra generazioni.</p><p>Ma è l’articolo 4 della proposta a delineare quella che è possibile definire come la <strong>nuova governance dell’assistenza agli anziani</strong>, incentrata sul Sistema nazionale per la popolazione anziana non autosufficiente (SNAA), il cui scopo è quello di procedere alla programmazione integrata, alla valutazione e al monitoraggio degli interventi e dei servizi statali e territoriali. Uno strumento che dovrebbe consentire, tra l’altro, il superamento dei divari territoriali in fatto di assistenza agli anziani.</p><p>Il nuovo sistema intende <strong>rafforzare una serie di elementi preesistenti</strong>, quali i punti unici di accesso (<strong>PUA</strong>), i progetti individualizzati di assistenza integrata (<strong>PAI</strong>), o gli ambiti territoriali sociali (<strong>ATS</strong>), ma in un’ottica più organica e sistematica, garantita, tra l’altro, da un efficace sistema di <strong>monitoraggio delle diverse tipologie di prestazione</strong> ricomprese nei LEPS da integrare sempre con i LEA sanitari.</p><p>Altrettanto importanti sono le misure in ambito economico e di copertura degli interventi, previste rispettivamente dagli articoli 5 e 8 del disegno di legge. Tra le principali novità vi è l’istituzione del “<strong>Fondo per la prestazione universale per gli anziani non autosufficienti</strong>”, le cui risorse dovrebbero essere assegnate con la prossima legge di bilancio. Viene prevista la sperimentazione di una prestazione universale, a scelta del soggetto beneficiario, sotto forma di trasferimento monetario o di servizi alla persona, che, se fruita, è sostitutiva dell’indennità di accompagnamento.</p><p>Di assoluto rilievo sono anche le misure a sostegno dei <strong><em>caregivers</em></strong>, o quelle destinate a incentivare la regolarizzazione del lavoro di cura prestato al domicilio della persona non autosufficiente.</p><p><u><strong>Quali sono i prossimi passaggi</strong></u></p><p>Essendo un disegno di legge, <strong>entro pochi giorni</strong> da oggi dovrà essere trasmesso alla Camera e al Senato per l’approvazione definitiva entro marzo 2023. A questo punto, entrata in vigore la legge vera e propria, il Governo avrà tempo fino al 1° marzo 2024 per adottare i decreti attuativi e far partire concretamente il meccanismo di assistenza. Un termine tassativo, essendo quella sulla non autosufficienza una riforma del <strong>PNRR</strong> e quindi rigorosamente legata al suo cronoprogramma attuativo.</p><p>Nel frattempo entrerà in vigore il nuovo <strong>Piano nazionale per la Non Autosufficienza 2022-2024</strong> che anticipa alcune delle misure previste dal DdL.</p><p></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Socio-sanitario
+
+----
+
+Deadline: 
+
+----
+
+Uuid: oEGVgNnSTccx2vHX

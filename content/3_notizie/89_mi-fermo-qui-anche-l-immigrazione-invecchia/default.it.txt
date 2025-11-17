@@ -1,0 +1,117 @@
+Title: Mi fermo qui. Anche l’immigrazione invecchia.
+
+----
+
+Descrizione: Liberetà pubblica i risultati di una ricerca promossa dal sindacato dei pensionati e condotta dalla Fondazione Di Vittorio sui migranti di origine straniera
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://Ccg4hraG9hRgQMh3
+
+----
+
+Thumbnail: - file://Ccg4hraG9hRgQMh3
+
+----
+
+Child-category-selector: Dipartimento Diritti e Benessere
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-02-24
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, migranti, anziani
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong>Liberetà pubblica i risultati di una ricerca promossa dal sindacato dei pensionati e condotta dalla Fondazione Di Vittorio sui migranti di origine straniera</strong></p><p>L'immigrazione in Italia sta cambiando profondamente, anche a causa dell'invecchiamento della popolazione straniera. Tra il 2010 e il 2024 il numero di migranti over 49 anni è cresciuto significativamente, passando da 460.000 a oltre 1,3 milioni. Questo fenomeno ha portato alla formazione di famiglie migranti multigenerazionali e all'invecchiamento degli immigrati, un gruppo emergente ma poco conosciuto, che necessiterebbe di politiche sociali specifiche.</p><p>È in questo contesto che si inserisce la ricerca \"<strong>Mi fermo qui</strong>\", realizzata dal sindacato dei pensionati della Cgil e dalla Fondazione Giuseppe Di Vittorio. Lo studio ha coinvolto in una serie di focus group 127 migranti in varie regioni italiane, con l'obiettivo di raccogliere testimonianze e capire i bisogni di questa fascia di popolazione.</p><p>“La domanda fondamentale – spiega il ricercatore Beppe De Sario - è stata: oltre ai dati e alle statistiche, quali storie, bisogni e aspettative esprimono i migranti maturi e anziani? In che modo ciò sollecita il sindacato dei pensionati e la Cgil a una risposta?” Per Tania Scacchetti, segretaria generale dello Spi Cgil, infatti, l’immigrazione non deve essere trattata come un’emergenza, ma come una questione permanente che riguarda anche il sindacato. E il sindacato dei pensionati della Cgil, attraverso il libro pubblicato dalla casa editrice LiberEtà, intende fare un passo avanti nell’ascolto e nel coinvolgimento dei migranti anziani, affinché diventino protagonisti della vita sociale e sindacale.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: qTqKQ8xJWMSyw6xZ

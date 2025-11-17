@@ -1,0 +1,121 @@
+Title: L’interesse generale. Al via il Congresso dello Spi-Cgil
+
+----
+
+Descrizione:
+
+Comincia in questi giorni con le assemblee di base il nostro XXI Congresso, che si concluderà a Verona dal 21 al 24 febbraio.
+
+Abbiamo deciso di intitolarlo “L’interesse generale”, con quattro parole chiave su cui vogliamo concentrare la nostra riflessione: stato sociale, rappresentanza, comunità, complessità.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://uW1i91LivOJst5fX
+
+----
+
+Thumbnail: - file://uW1i91LivOJst5fX
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2022-09-28
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: congresso, pensionati, cgil, spi, spi cgil
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Comincia in questi giorni con le assemblee di base il nostro XXI Congresso, che si concluderà a <strong>Verona dal 21 al 24 febbraio</strong>.</p><p>Abbiamo deciso di intitolarlo “<strong>L’interesse generale</strong>”, con quattro parole chiave su cui vogliamo concentrare la nostra riflessione: stato sociale, rappresentanza, comunità, complessità.</p><p></p><p><strong>L’INTERESSE GENERALE</strong></p><p>Lo Spi-Cgil è un sindacato fortemente rappresentativo portatore di istanze che si rivolgono ad un segmento della popolazione specifico e numericamente molto rilevante costituito dai pensionati e dalle persone anziane.</p><p>Le sue politiche, rivendicazioni e attività non sono però da considerarsi corporative perché hanno inevitabilmente ricadute più ampie, coinvolgono la società nel suo complesso e rappresentano quindi un interesse generale.</p><p>&nbsp;</p><p><strong>STATO SOCIALE</strong></p><p>Dalla non autosufficienza alle politiche sociosanitarie, alle pensioni, al benessere delle persone anziane, alla contrattazione territoriale.</p><p>Riformare nel profondo il sistema delle protezioni sociali nel nostro paese per affrontare il grande tema dell’invecchiamento della popolazione, della denatalità e della condizione giovanile rispondendo quindi anche ai bisogni dei cittadini nel loro complesso.</p><p><strong>&nbsp;</strong></p><p><strong>RAPPRESENTANZA</strong></p><p>Rafforzare l’identità del sindacato e i valori della democrazia, della partecipazione, della solidarietà, dell’uguaglianza, dell’antifascismo, dell’europeismo e del pacifismo.</p><p>Radicarsi ancora di più sul territorio e allargare la nostra azione per farci interpreti dei nuovi bisogni che stanno emergendo nella società.</p><p>Ricostruire un rapporto con la politica per raccogliere e rappresentare le istanze del sindacato confederale.</p><p><strong>&nbsp;</strong></p><p><strong>COMUNITÀ</strong></p><p>Le donne, i giovani, la legalità, la memoria. Rafforzare l’identità del sindacato rendendolo sempre di più un punto di riferimento per milioni di pensionati e di pensionate attivi, partecipi e che hanno ancora molto da fare e da dare.&nbsp;</p><p>La necessità di un confronto e di un vero scambio per tenere unite generazioni diverse.</p><p>&nbsp;</p><p><strong>COMPLESSITÀ</strong></p><p>L’innovazione, la formazione, la digitalizzazione, la comunicazione, la questione ambientale.&nbsp;</p><p>Comprendere le profonde trasformazioni in atto nella nostra società, non lasciarsi travolgere dalle novità, aprirsi al cambiamento e costruire una società più inclusiva per tutti.&nbsp;</p><p></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Organizzazione
+
+----
+
+Deadline: 
+
+----
+
+Uuid: hJMNTMPMFRsHMvP5

@@ -1,0 +1,117 @@
+Title: 25 aprile: la festa più bella di tutte!
+
+----
+
+Descrizione: Lo Spi-Cgil sarà nelle piazze di tutte le città del Paese per ricordare chi ha scelto la libertà
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://HOGvvKADQnukcWue
+
+----
+
+Thumbnail: - file://HOGvvKADQnukcWue
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-04-25
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, 25 aprile, resistenza, partigiani, antifascismo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Settantotto anni dal 25 aprile 1945. È il tempo che ci separa dalla <strong>Liberazione e dalla Resistenza partigiana</strong>. Lo Spi-Cgil sarà <strong>nelle piazze di tutte le città del Paese</strong> per ricordare chi ha scelto la libertà e ha combattuto per essa. Ma anche e soprattutto per rendere viva e attuale la memoria, uno strumento utile a non dimenticare ciò che è stato e lottare ogni giorno per un Paese più giusto e più libero. Contro il fascismo di allora, contro le ingiustizie di oggi. Insieme alle nuove generazioni, che raccoglieranno il testimone della storia verso nuove resistenze.</p><p>\"Ricordiamo il sacrificio di chi ha lottato per consegnarci un Paese migliore. Celebriamo il ritorno alla vita, alla <strong>democrazia</strong> e alla <strong>libertà</strong>. Facciamola vivere ogni giorno, non solo oggi. Condividiamola con le nuove generazioni perché il futuro dipenderà da loro\" è l'augurio del Segretario Generale dei pensionati e delle pensionate della Cgil, <strong>Ivan Pedretti</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: USlelYUY2wBgrWaw

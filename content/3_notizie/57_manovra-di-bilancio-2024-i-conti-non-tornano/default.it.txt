@@ -1,0 +1,117 @@
+Title: Manovra di Bilancio 2024: i conti non tornano
+
+----
+
+Descrizione: La manovra 2024 è l'ennesima dimostrazione del fatto che il governo Meloni prende in giro gli italiani
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://rQgllKD4lD8z0ks8
+
+----
+
+Thumbnail: - file://rQgllKD4lD8z0ks8
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-11-16
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, governo, pensioni, fisco, sanità, pnrr
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>La <strong>manovra 2024</strong> è l'ennesima dimostrazione del fatto che <strong>il governo Meloni prende in giro gli italiani</strong>: volevano cambiare la <strong>Fornero</strong>, l'hanno <strong>inasprita</strong>; promettevano risorse, continuano a <strong>taglieggiare chi paga le tasse</strong>; davanti a un'inflazione senza precedenti hanno fatto un'<strong>operazione ridicola</strong> con un \"aumento\" delle pensioni di 9,8 euro lordi medi, più o meno 7 euro netti. Le donne sono penalizzate, chi fa un lavoro usurante è penalizzato, chi non è penalizzato, invece, è chi evade. Nel frattempo non c'è traccia di misure che possano dare risposte alle nuove generazioni: i giovani hanno diritto a un lavoro stabile e ben pagato. <strong>È il lavoro di qualità che rende sostenibile il sistema</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><u><strong>PENSIONI E FISCO</strong></u></p><p>Nonostante gli slogan e le promesse elettorali <strong>il Governo non solo non cancella la Riforma Monti Fornero, ma ne peggiora le condizioni</strong>, azzerando nei fatti le già insufficienti forme di flessibilità in uscita. Nessuna risposta ai giovani, alle donne, si continua a fare cassa sui pensionati, peggiorando il meccanismo di perequazione definito lo scorso anno, per blocchi, che taglia anche pesantemente le rivalutazioni di tutti i trattamenti superiori a 4 volte quello minimo.</p><p>Il tema delle pensioni deve essere affrontato guardando all’equità del sistema con l’obiettivo di garantire trattamenti dignitosi oggi e in futuro. Da tempo rivendichiamo nelle piattaforme unitarie l’approvazione di una vera riforma delle pensioni che: superi la Legge Monti-Fornero introducendo la flessibilità in uscita da 62 anni di età o 41 anni di contributi; affronti le distorsioni del sistema contributivo e introduca una pensione contributiva di garanzia per i giovani, precari e discontinui; affermi il principio che i lavori non sono tutti uguali a tutela di quelli gravosi e precoci; riconosca il valore del lavoro di cura e della differenza di genere; garantisca la piena tutela del potere d’acquisto delle pensioni in essere, ne aumenti il valore in primis, e ampli la platea di pensionati a cui riconoscere la somma aggiuntiva cosiddetta “quattordicesima mensilità”.</p><p>“<strong>Quota 103</strong>” (62 anni di età e 41 anni di contributi) viene <strong>ridefinita e peggiorata</strong> con il ricalcolo contributivo e le finestre. Per l’ape sociale si innalza il requisito di età, da 63 anni a 63 anni e 5 mesi, mentre per Opzione donna viene aumentato il requisito di età di un anno, dopo l’azzeramento previsto dal Governo nella scorsa legge di bilancio. Saranno necessari entro il 31.12.2023 35 anni di contribuzione e 61 anni di età per le casistiche definite precedentemente (caregiver, invalide dal 74%, licenziate o dipendenti aziende con tavolo di crisi aperto). Si rivedono i valori soglia per il diritto alla pensione di vecchiaia e anticipata nel sistema contributivo ma senza introdurre strumenti di garanzia, come la pensione di garanzia, necessari per assicurare pensioni adeguate alle giovani generazioni che hanno carriere più discontinue e frammentate. Vengono riviste al ribasso le aliquote di rendimento per i dipendenti pubblici di alcune casse per gli enti locali (cpdel), per la cassa pensioni sanitari (Cps), per la cassa pensioni agli insegnanti di asilo e scuole elementari parificate (Cpi), per coloro che hanno nel sistema retributivo un’anzianità inferiore a 15 anni.</p><p><strong>Non è contemplato alcun intervento per la piena indicizzazione delle pensioni e viene confermato il taglio</strong> sugli importi complessivi dei trattamenti pensionistici, previsto lo scorso anno oltre quattro volte il trattamento minimo, peggiorando il taglio per i trattamenti superiori a dieci volte il trattamento minimo. Si inserisce inoltre una norma per affidare al Cnel la revisione del meccanismo di indicizzazione a partire dal 2027.</p><p>La rivalutazione non è un regalo e nemmeno un privilegio per i pensionati ma è l’unico meccanismo che può salvaguardare almeno in parte il potere d’acquisto delle pensioni. Il 60% dei trattamenti pensionistici sono inferiori ai 1000 euro al mese, l’inflazione colpisce molto di più i redditi più bassi. Nessuna delle richieste di SPI FNP e UILP trova risposta in questa Legge di Bilancio, che anzi decide ancora una volta di fare CASSA sui pensionati!</p>"},"id":"d01bd2af-d3c2-48bd-b43e-575c2b38f818","isHidden":false,"type":"text"}],"id":"016dbf03-0269-461c-b85e-1c7d4ec36163","width":"1/2"},{"blocks":[{"content":{"text":"<p><u><strong>SANITÀ</strong></u></p><p><strong>L’incremento del fondo sanitario previsto dal ddl Bilancio nasconde un trucco, sono tutte risorse “già spese”</strong>: erose dall’inflazione o a favore della sanità privata. Peraltro, gran parte delle risorse stanziate è vincolata al rinnovo dei contratti collettivi nazionali di lavoro dei dipendenti del sistema sanitario nazionale e convenzionato, e dell’Accordo per medici di base: si tratta di circa 2,3 miliardi l’anno. Naturalmente è un bene rinnovare i contratti, ma non vengono stanziati finanziamenti adeguati per programmare e attuare le indispensabili assunzioni di personale nel sistema sanitario nazionale; anzi rimane il tetto alla spesa che le blocca, mentre si incentiva il lavoro straordinario. Nel frattempo vengono destinate risorse a vantaggio della sanità privata: centinaia di milioni in più a cliniche, strutture private e farmacie. Il Fondo Sanitario Nazionale aumenta in apparenza: resta al di sotto del PIL nominale (quindi non si recupera nemmeno l’inflazione), confermando il drammatico crollo del rapporto tra spesa sanitaria e PIL preventivato dal Documento di economia e finanza. L’Italia rimane così lontana nel finanziamento della sanità pubblica rispetto a buona parte dei Paesi europei. Il diritto alla salute e alle cure dei cittadini, già compromesso, è ulteriormente indebolito.</p><p><u><strong>NON AUTOSUFFICIENZA</strong></u></p><p><strong>Il ddl Bilancio non prevede alcun finanziamento per la non autosufficienza</strong>. Nessun sostegno ai decreti legislativi che devono attuare – a partire da gennaio 2024 - la legge 33/2023 per la Riforma “Delega al Governo in materia di politiche a favore delle persone anziane”, prevista dal PNRR. Ad oggi il fondo nazionale per la non autosufficienza (nel 2024 pari a 913,6 milioni) è distribuito a una platea ridotta di persone: poche migliaia di destinatari (il 50% con gravissime disabilità). Se fosse invece distribuito a tutte le persone in condizione di non autosufficienza, ciascuna riceverebbe appena 70 centesimi al giorno: una vergogna. L’unica misura nazionale è un trasferimento monetario: l’indennità di accompagnamento (527 euro/mese) che, però, non prevede né la presa in carico della persona da parte del servizio pubblico, né il Piano di Assistenza Individuale, del quale l’indennità dovrebbe essere solo una delle tante componenti dell’assistenza. Invece così lo Stato dichiara: ti do un assegno e poi ti arrangi … Occorre che il Governo apra subito il confronto richiesto da SPI, FNP UILP per finanziare e approvare i decreti di attuazione della legge 33 sulla non autosufficienza.</p>"},"id":"638a2ee7-6e42-4834-9ac5-b8d802bc29a3","isHidden":false,"type":"text"}],"id":"ecefc079-5ad2-40fd-a98e-24aa1c93aff9","width":"1/2"}],"id":"76a406a4-a190-4d0f-8d5b-8655dce97c2d"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/modificaperequazione.pdf\"><strong>Gli effetti del taglio (2023/2024) sulla perequazione</strong></a></p>"},"id":"97e837a0-08bb-4b14-b09d-a2e0fed6a3a2","isHidden":false,"type":"text"}],"id":"80e3c6ff-6cde-4a08-ace2-b6568543d7dd","width":"1/2"},{"blocks":[{"content":{"text":"<p><a href=\"https://spi.cgil.it/uploads/socio_sanitario_legge_bilancio_2024-def.pdf\"><strong>Il disegno di Legge di bilancio 2024 per l’ambito socio sanitario</strong></a></p>"},"id":"7178a706-70ed-4ecc-aa26-64dbf7d5f869","isHidden":false,"type":"text"}],"id":"d2c5d324-31f7-4bd3-8aa9-715b2d1acec8","width":"1/2"}],"id":"b9cae873-610c-41fa-b70e-0aa8965629a5"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: asYreBphCf7H6QuU

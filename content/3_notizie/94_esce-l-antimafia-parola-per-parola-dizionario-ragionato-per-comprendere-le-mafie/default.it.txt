@@ -1,0 +1,117 @@
+Title: Esce “L’antimafia parola per parola.” dizionario ragionato per comprendere le mafie
+
+----
+
+Descrizione: “L’Antimafia parola per parola. Conoscere per resistere” è uno strumento a disposizione di tutti, per raccontare in maniera semplice e divulgativa le mafie in tutte le loro sfaccettature e con tutti i loro addentellati sul piano sociale, culturale, politico.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://2bRG4kA4IsIAdZZ5
+
+----
+
+Thumbnail: - file://2bRG4kA4IsIAdZZ5
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-05-22
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, antimafia
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>“<strong>L’Antimafia parola per parola. Conoscere per resistere</strong>” è uno strumento a disposizione di tutti, per raccontare in maniera semplice e divulgativa le mafie in tutte le loro sfaccettature e con tutti i loro addentellati sul piano sociale, culturale, politico.</p><p>Il dizionario, pubblicato da Liberetà (<a href=\"https://www.libereta.it/prodotto/lantimafia-parola-per-parola-conoscere-per-resistere/\">lo trovi qui</a>), con le illustrazioni di Miriam Balli e il progetto grafico di ff3300 nasce da un virtuoso intreccio tra forze sociali diverse e, soprattutto, tra generazioni differenti. Scritto a più mani dal sindacato dei pensionati della Cgil, dalla Rete degli studenti medi e dall’Unione degli universitari, ha preso forma anche grazie al supporto e alla consulenza esperti, docenti universitari, sindacalisti, formatori, giornalisti, attivisti dell’antimafia sociale, magistrati, avvocati, storici, e operatori del terzo settore.</p><p>L’obiettivo è promuovere la cultura antimafia in maniera trasversale e fornire, tanto alle giovani generazioni quanto a chi nel nostro passato recente ha contribuito in maniera significativa, anche in prima persona, a conquistare importanti diritti civili e sociali, strumenti di conoscenza e di riflessione su un fenomeno che purtroppo non è più centrale nell’agenda politica del nostro paese.</p><p>Erano gli anni Novanta quando per la prima volta in Italia nasceva un movimento antimafia dal basso come reazione alle efferate stragi di Capaci e via D’Amelio. Sorgeva soprattutto tra tanti giovani che per la prima volta capivano quanto la lotta alle mafie dovesse necessariamente passare anche per una presa di coscienza collettiva e per una mobilitazione sociale in grado di reagire agli eventi che avevano sconquassato di fatto l’anima del nostro paese.</p><p>Sono passati decenni da quella dura e difficile stagione. Ma oggi, come allora, la richiesta che viene avanzata alla politica e al paese arriva di nuovo dal basso. Arriva da tante ragazze e ragazzi che frequentano le scuole superiori e le università, da tante giovani lavoratrici e tanti giovani lavoratori, dalle associazioni del terzo settore che si battono quotidianamente per la legalità come giustizia sociale. Arriva dalle cooperative che operano sui beni confiscati alle mafie, dal sindacato, dalla Cgil in particolare, che si è battuta contro le mafie sin dalle proprie origini, pagando anche con la vita di tanti sindacalisti uccisi. Arriva da quelle forze sociali che si adoperano per un nuovo modello di società, equo, sostenibile, democratico, e che si battono quotidianamente perché vengano rispettati i princìpi del nostro dettato costituzionale.</p><p>Cosa fare allora? Da dove partire? Dal linguaggio e dalla diffusione della cultura della legalità intesa innanzitutto come giustizia sociale. L’auspicio è che, dopo aver capito e compreso, tutti possano fare la sola cosa davvero importante e fondamentale per questa nostra epoca così complessa: agire. E dalla parola passare ai fatti.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: DkR78tKHi0wiIK6T

@@ -1,0 +1,117 @@
+Title: Anziani, finalmente approvata legge su non autosufficienza. Ora servono risorse
+
+----
+
+Descrizione: Dichiarazioni del Segretario generale dello Spi-Cgil Ivan Pedretti
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://e384J6iYrp6GA7OO
+
+----
+
+Thumbnail: - file://e384J6iYrp6GA7OO
+
+----
+
+Child-category-selector: Dipartimento Socio-sanitario
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-03-21
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: cgil, spi cgil, non autosufficienza, anziani, governo, badanti
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Finalmente è stata <strong>approvata</strong> dal Parlamento la <strong>legge delega</strong> per la tutela della dignità e la promozione delle condizioni di vita, di cura e di assistenza delle persone anziane.&nbsp; La riforma, inserita nel 2021 tra gli obiettivi strategici del PNRR, è il frutto di una lunga mobilitazione dalle organizzazioni sindacali dei pensionati e confederali.</p><p>Ora il Governo ha dieci mesi per presentare i numerosi decreti legislativi per attuare la Riforma: si tratta di un percorso impegnativo, che deve coinvolgere anche le organizzazioni sindacali, per assicurare un sistema universale sulla non autosufficienza e per i diritti degli anziani, superando divari territoriali e investendo in servizi integrati, assunzioni di personale e presa in carico delle persone.</p><p>La legge presenta certamente <strong>elementi positivi</strong> e finalmente affronta in modo organico il tema del diritto alla salute, al benessere, alla cura, all’assistenza delle persone anziane.</p><p>Tuttavia presenta anche limiti e criticità, a partire dalle scarse risorse a disposizione per finanziare gli interventi previsti, i Livelli Essenziali delle Prestazioni Sociali e i LEA sanitari in grande sofferenza per i tagli subiti. Per questo già con la prossima legge di bilancio il Governo deve prevedere un progressivo incremento dei finanziamenti per sociale e sanità, indispensabili per attuare la riforma, e creare un adeguato Fondo nazionale per la non autosufficienza pubblico di natura universale. <strong>La nostra mobilitazione e il nostro impegno dunque continueranno</strong>.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Socio-sanitario
+
+----
+
+Deadline: 
+
+----
+
+Uuid: QvEfM6iK3oZ0Jxr6

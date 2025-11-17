@@ -1,0 +1,117 @@
+Title: “L’interesse generale”. I pensionati della Cgil a Congresso dal 21 al 24 febbraio.
+
+----
+
+Descrizione: Più di un migliaio di partecipanti tra delegati, invitati e ospiti
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://R0NpwMtsupzKr58G
+
+----
+
+Thumbnail: - file://R0NpwMtsupzKr58G
+
+----
+
+Child-category-selector: Pensioni, Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-02-14
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensioni, pensionati, cgil, spi, spi cgil, congresso
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Dal 21 al 24 febbraio alla Fiera di Verona si terrà il <strong>XXI Congresso del Sindacato Pensionati della Cgil</strong>, dal titolo “<strong>L’interesse generale</strong>”. Attesi più di un migliaio di partecipanti tra delegati, invitati e ospiti in quello che sarà l’ultimo dei congressi delle categorie della Cgil prima del congresso confederale di marzo.</p><p>I pensionati e le pensionate della Cgil si interrogano su cosa debba essere il sindacato dopo la Pandemia da Covid-19, durante una nuova guerra che sconvolge l’Europa, mentre l’Italia attraversa una crisi economica e sociale profonda e di fronte ad una delle più <strong>grandi trasformazioni in atto</strong> come quella dell’invecchiamento della popolazione.</p><p>Al crollo della partecipazione, la <strong>più grande organizzazione sociale d’Europa</strong> risponde costruendo un percorso congressuale fatto di decine di migliaia assemblee su tutto il territorio nazionale.</p><p>Perché serve ricostruire una comunità, difendere lo Stato Sociale, analizzare la complessità di una società nuova e rappresentare vecchi e nuovi bisogni delle persone. È per questo che il XXI Congresso dei pensionati Cgil sarà un momento di riflessione ma anche di allargamento.</p><p><strong>Si comincia il 21 febbraio alle ore 14:00</strong> con la relazione del Segretario Generale dello Spi-Cgil <strong>Ivan Pedretti</strong> a cui seguiranno gli interventi di molti ospiti tra cui il sindaco di Verona <strong>Damiano Tommasi</strong> e il presidente dell’Anpi <strong>Gianfranco Pagliarulo</strong>.</p><p>Nella giornata del 22 febbraio spazio alle vignette di <strong>Altan</strong> e del suo Cipputi, celebre personaggio entrato ormai nella cultura operaia e popolare del nostro Paese. Ma l’interesse generale si costruisce anche dando spazio a nuovi bisogni e nuove lotte ed è per questo che salirà sul palco <strong>Pietro Turano</strong>, attivista Lgbtqia+ e attore. Sarà poi il turno dei giovani del <strong>Centro di Giornalismo Permanente</strong> che, nell’ultimo anno, hanno collaborato alla costruzione dell’<strong>Archivio storico multimediale dello Spi</strong>. Spazio poi allo stree-artist <strong>Cibo</strong>, veronese che fa della sua arte antifascismo militante, trasformando scritte nazifasciste e novax in opere d’arte a tema culinario.</p><p>La seconda giornata si chiuderà con il contributo di <strong>Reema Kapoor</strong>, sindacalista indiana che da anni si batte per i diritti delle donne in tutto il mondo.</p><p>Per comprendere il ruolo del sindacato nel futuro serve però confrontarsi con passato e presente. Per questo il 23 mattina saliranno sul palco per un talk di confronto <strong>Fausto Bertinotti</strong>, <strong>Luciana Castellina</strong>, <strong>Sergio Cofferati</strong> insieme a <strong>Laura Borelli</strong>, delegata della ex Saga Coffee, <strong>Gabriella Zucchelli</strong>, delegata della Corneliani, <strong>Antonia Labonia</strong> dello sportello sociale dello Spi di Tor Bella Monaca e <strong>Francesco Melis</strong>, sindacalista del Nidil Cgil che si occupa della sindacalizzazione dei lavoratori Amazon.</p><p>Il pomeriggio sarà dedicato al tema ambientale, con un attenzione al riutilizzo dei capi di abbigliamento. Per questo avranno spazio i ragazzi e le ragazze del collettivo <strong>Xnovo</strong>, giovani romani impegnati nel recupero di vestiti e che fanno della sostenibilità applicata alla moda la propria bandiera. A chiusura della terza giornata sarà ospite <strong>Anna Biondi</strong>, vice direttrice dell’Ufficio per le attività dei lavoratori dell’Organizzazione Internazionale del Lavoro</p><p>All’interno del Congresso ci saranno la mostra fotografica di Stefano Stranges sulle migrazioni, la mostra con oltre duecento vignette originali di Altan e la mostra curata da Tiziano Tancredi di quattro artisti contemporanei le cui opere si concentreranno sul rapporto tra sfera politica e sfera personale: <strong>Collettivo Fx</strong>, <strong>Guerrilla Spam</strong>, <strong>Verdiana Bove</strong> e <strong>Federica Di Pietrantonio</strong>. Avrà spazio anche il lavoro del Centro di Giornalismo Permanente “<strong>Ruvide. Storia di lotte e di lavoro</strong>”, l’archivio multimediale contenente centinaia di interviste agli uomini e alle donne testimoni delle grandi conquiste operaie e sindacali degli anni ’60 e ’70.</p><p>La conclusione del congresso, nella giornata del 24, sarà affidata al Segretario Generale della Cgil <strong>Maurizio Landini</strong>. A seguire l’elezione degli organismi dirigenti dello Spi-Cgil e l’elezione del Segretario Generale dei pensionati della Cgil.</p><p></p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: vLJMOkvrsVWDp0MB

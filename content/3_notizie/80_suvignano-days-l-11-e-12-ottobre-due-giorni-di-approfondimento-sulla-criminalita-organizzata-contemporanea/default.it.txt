@@ -1,0 +1,117 @@
+Title: “Suvignano Days”: l’11 e 12 ottobre due giorni di approfondimento sulla criminalità organizzata contemporanea
+
+----
+
+Descrizione: L’11 e 12 ottobre lo SPI CGIL nazionale organizza insieme allo SPI Toscana una due giorni nazionale di approfondimento sulla criminalità organizzata contemporanea
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://sN9DpzU8txG97qtl
+
+----
+
+Thumbnail: - file://sN9DpzU8txG97qtl
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-10-11
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, legalità, suvignano
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p><strong><em>Firenze, 9 ottobre 2024</em>. &nbsp;L’11 e 12 ottobre lo </strong>SPI CGIL nazionale organizza insieme allo SPI Toscana <strong>“Suvignano Days: una rete per la legalità nella rete”</strong>, una <strong>due giorni nazionale di approfondimento sulla criminalità organizzata contemporanea</strong>, in partenariato con l’Associazione Libera, ARCI Toscana, con la collaborazione del Comune di Monteroni d’Arbia e con il patrocinio di Regione Toscana, Comune di Buonconvento e Comune di Murlo.</p><p><strong>“Suvignano Days” </strong>esplora le nuove sfide nella lotta alla criminalità organizzata e il ruolo delle nuove tecnologie, attraverso il contributo di <strong>importanti ospiti</strong>, esperti di vari settori e figure istituzionali. Nel corso della due giorni si parlerà di <strong>piattaforme digitali e sicurezza informatica</strong>, <strong>intelligenza artificiale</strong>, <strong>infiltrazioni economiche e politiche della criminalità organizzata contemporanea.</strong></p><p>L’iniziativa - in programma l’<strong>11 ottobre pomeriggio presso la Tenuta di Suvignano a Monteroni d’Arbia (SI)</strong> e il <strong>12 ottobre mattina</strong> presso il <strong>Teatro dei Risorti di Buonconvento (SI) </strong>- rientra nel progetto dello SPI di valorizzazione della Tenuta di Suvignano attraverso la creazione di un centro di formazione sui temi della legalità digitale rivolto non solo ai pensionati, ma che abbia ricadute civiche, sociali e di valorizzazione del territorio nel suo complesso.</p><p><em>“Studiare, capire e governare l’innovazione è un compito prioritario se non vogliamo esser tagliati fuori dallo sviluppo</em> – afferma il Segretario generale dello SPI CGIL Toscana <strong>Alessio Gramolati</strong> -</p><p><em>Non possiamo dirci soddisfatti se tra le prime 50 imprese che operano nel campo dell’intelligenza artificiale solo 5 sono europee. Ma se vogliamo accelerarne lo sviluppo bisogna mettere queste tecnologie al servizio delle persone e dobbiamo evitare diventino nuove praterie d’illegalità per le mafie e per speculatori senza scrupoli. Suvignano serve anche a questo e per questo l’iniziativa è utile anche a Suvignano”.</em></p><p><em>“Studiare e approfondire questi temi -&nbsp;</em>aggiunge&nbsp;<strong>Tania Scacchetti</strong>, segretaria generale dello Spi Cgil nazionale<em>&nbsp;- è inoltre essenziale per provare a costruire una società inclusiva e coesa, che faccia della giustizia sociale e del contrasto all’illegalità il fondamento del patto sociale fra cittadini e istituzioni. Conoscere e sapere interpretare anche l’utilizzo delle nuove tecnologie è peraltro essenziale anche per tutelare i soggetti più fragili fra cui molti anziani”.</em></p><p><br>L’evento si aprirà <strong>venerdì 11 ottobre</strong> alle <strong>ore 14</strong> presso la <strong>Tenuta di Suvignano </strong>a <strong>Monteroni d’Arbia (SI)</strong> - luogo simbolo del recupero di beni confiscati alla malavita e sede del progetto nazionale di approfondimento sulla legalità digitale di SPI CGIL - e vedrà la partecipazione di <strong>Gabriele Berni</strong>, Sindaco di Monteroni d’Arbia, <strong>Marco Tognetti</strong>, coordinatore del Progetto Legalità Digitale SPI CGIL, <strong>Brando Benifei,</strong> Eurodeputato, estensore dell’AI Act, <strong>Giorgio Pedrazzi, </strong>HPC Data Scientist, <strong>Beatrice Rubini</strong>, Executive Director CRIF, <strong>Caterina Sganga</strong>, Professoressa ordinaria, Scuola Superiore Sant’Anna di Pisa, <strong>Giorgio Marasco</strong>, Direttore della collana “Scintille”. Giornata in forma seminariale, fino a esaurimento posti. Come partecipare: <a href=\"https://spicgiltoscana.it/suvignano-days-2024-l11-e-12-ottobre-due-giorni-di-approfondimento-sulla-criminalita-organizzata-contemporanea/\">https://spicgiltoscana.it/suvignano-days-2024-l11-e-12-ottobre-due-giorni-di-approfondimento-sulla-criminalita-organizzata-contemporanea/</a></p><p>Sabato <strong>12 ottobre </strong>alle ore 9.15 l’iniziativa si sposta al <strong>Teatro dei Risorti di Buonconvento</strong> con una mattinata aperta al pubblico che vedrà gli interventi di <strong>Nando dalla Chiesa</strong>, Professore ordinario, Università degli Studi di Milano, <strong>Alessandra Dolci</strong>, Magistrato, <strong>Tania Scacchetti</strong>, Segretaria Nazionale SPI CGIL, <strong>Renato Saccone</strong>, già Prefetto di Siena e Milano. Alle 12.30 è previsto un buffet per i partecipanti organizzato da Dario Cecchini presso il&nbsp;<strong>Museo della Mezzadria</strong>&nbsp;di Buonconvento, che i partecipanti potranno anche visitare.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: kdndcNSMFbOr27Iu

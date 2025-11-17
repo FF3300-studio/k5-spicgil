@@ -1,0 +1,117 @@
+Title: 28 maggio 1974: noi non dimentichiamo
+
+----
+
+Descrizione: In occasione dell'anniversario di quei drammatici eventi, lo Spi Cgil nazionale insieme al sindacato pensionati di Brescia e della Lombardia promuove l'iniziativa "Il lavoro sconfigge l'odio"
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://sDcVoOGYQfj6e2qw
+
+----
+
+Thumbnail: - file://sDcVoOGYQfj6e2qw
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-05-21
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, piazza loggia, memoria
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il 28 maggio 1974 una bomba esplode nel corso di una manifestazione antifascista indetta dai sindacati confederali in piazza della Loggia a Brescia. Nell'attentato di matrice nera perdono la vita otto persone, altre 102 restano ferite. Da allora sono trascorsi cinquant'anni, in cerca di verità e giustizia.</p><p>In occasione dell'anniversario di quei drammatici eventi, lo Spi Cgil nazionale insieme al sindacato pensionati di Brescia e della Lombardia promuove l'iniziativa \"Il lavoro sconfigge l'odio\", dedicata a commemorare i caduti, fare memoria sui fatti dell'epoca, sul ruolo del sindacato nella storia della città e del Paese e riflettere sul futuro e sulle sfide aperte delle democrazie contemporanee.</p><p>Per contribuire al racconto si alterneranno sul palco del Teatro Sociale di Brescia le voci dell'autore, drammaturgo e scrittore Stefano Massini, dell'onorevole Gianni Cuperlo, dello storico Francesco Palaia, della filosofa Giorgia Serughetti, del sociologo Sergio Sorgi e della segretaria generale dello Spi Cgil Tania Scacchetti.</p><p>Saranno presenti anche i testimoni diretti della strage, da cinquant’anni impegnati per non dimenticare.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: UklZWWBWOToKnZ6R

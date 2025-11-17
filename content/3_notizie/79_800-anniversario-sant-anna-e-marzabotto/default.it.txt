@@ -1,0 +1,117 @@
+Title: 80° anniversario Sant'Anna e Marzabotto
+
+----
+
+Descrizione: lo Spi Cgil nazionale insieme allo Spi della Toscana e a quello dell’Emilia Romagna ricorderà l’anniversario delle Stragi di Sant’Anna di Stazzema e Marzabotto nelle giornate del 17 e 18 ottobre prossimi
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://PZ9foJxKAqHQTzef
+
+----
+
+Thumbnail: - file://PZ9foJxKAqHQTzef
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-10-01
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, sant'anna, stazzema, marzabotto, eccidio, strage
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Le stragi ci insegnano che la guerra totale non esclude nessuno e che i civili diventano obiettivi primari degli eserciti regolari nel conflitto. È, quindi, dentro questo tempo presente che la memoria di Sant’Anna di Stazzema e Marzabotto diventano indispensabili: per discernere due campi inconciliabili e scegliere da quale parte stare. Il disconoscimento delle radici fondative della Repubblica non è finalizzato “soltanto” ad una revisione strumentale della storia. È una battaglia un’azione volta al controllo del tempo presente. La memoria delle stragi ci insegna quindi che nessuna conquista di libertà e di democrazia è per sempre.</p><p>Per queste ragioni, lo Spi Cgil nazionale insieme allo Spi della Toscana e a quello dell’Emilia Romagna ricorderà l’anniversario delle Stragi di Sant’Anna di Stazzema e Marzabotto nelle giornate del 17 e 18 ottobre prossimi. “È questo il fiore” è il titolo dell’iniziativa che partirà dall’Ossario di Sant’Anna di Stazzema per concludersi nel Parco Storico di Monte Sole.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: kc9pgb7Z0OFmYCOT

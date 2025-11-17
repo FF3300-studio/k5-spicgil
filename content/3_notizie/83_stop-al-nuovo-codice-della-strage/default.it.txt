@@ -1,0 +1,117 @@
+Title: Stop al nuovo codice della strage
+
+----
+
+Descrizione: Le persone anziane sono vittime per eccellenza delle stragi stradali soprattutto in città
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://8d1cQcywe7XwmTht
+
+----
+
+Thumbnail: - file://8d1cQcywe7XwmTht
+
+----
+
+Child-category-selector: Dipartimento Contrattazione Sociale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-11-16
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, sanità, manifestazione, piazza, governo, potere d'acquisto
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>La prossima settimana, proprio in concomitanza della <strong>Giornata Mondiale in memoria delle Vittime</strong> sulla strada, è previsto il voto finale al Senato sulla riforma del codice della strada, voluta e blindata nel testo approvato alla Camera dal Ministro dei trasporti Salvini. Le associazioni italiane dei familiari delle vittime sulla strada, insieme alle associazioni ambientaliste e per la mobilità sostenibile e alle organizzazioni sindacali, che già da mesi lo hanno contrastato e bollato come “codice della strage”, lanciano perciò una nuova fase di mobilitazione, con un presidio a Roma domenica 17 novembre e flash mob in diverse città italiane fino a martedì 19 novembre<strong>. Le persone anziane sono vittime per eccellenza delle stragi stradali soprattutto in città: una limitazione del diritto di cittadinanza, l’ennesimo elemento di marginalizzazione che rende i centri urbani sempre più invivibili soprattutto per i più fragili.&nbsp;</strong></p><p>L’impianto della riforma è molto chiaro: debole con i forti, dando maggiore libertà di circolare ai veicoli a motore, i cui guidatori secondo i dati Istat causano il 94% degli incidenti e il 98% dei morti, e forte coi deboli, restringendo viceversa le misure in favore di pedoni, ciclisti, bambini e persone anziane, che sono la maggior parte delle vittime nelle città.&nbsp;</p><p>Non solo norme peggiori, ma anche meno fondi per la sicurezza stradale. Alla riforma del codice si aggiungono, infatti, i pesanti tagli della Legge di bilancio 2025, che: riduce la spesa per la sicurezza stradale (-4,6 milioni € per interventi di sicurezza stradale e per l’educazione stradale, nella “spending review” del Ministero dei trasporti); azzera gli investimenti per la ciclabilità (-47 milioni € per le piste ciclabili urbane e -31,9 milioni € per le ciclovie turistiche); definanzia il capitolo “mobilità sostenibile e sicurezza stradale” del Fondo per lo sviluppo infrastrutturale del Paese (-70,3 milioni €); non prevede nessuno stanziamento per l’attuazione del Piano Nazionale della Sicurezza Stradale 2030, che vale 1,4 miliardi di euro.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: UD659pVcaLenfBGU

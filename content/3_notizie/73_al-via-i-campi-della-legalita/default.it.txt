@@ -1,0 +1,117 @@
+Title: Al via i campi della legalità
+
+----
+
+Descrizione: Il contributo dello Spi si concentrerà non solo sulla memoria sindacale ma più in generale su Costituzione e Resistenza
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://99qjIdlxlRutqC6o
+
+----
+
+Thumbnail: - file://99qjIdlxlRutqC6o
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-05-21
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, legalità, giovani
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Anche quest'estate saremo presenti con centinaia di volontarie e volontari nei campi di impegno e formazione promossi da Libera, Arci e da tante altre associazioni del Terzo settore.</p><p>Un’occasione importante di incontro e di scambio tra generazioni.</p><p>Da giugno a settembre saremo in tutta Italia per partecipare ai campi della legalità a cui prendono parte migliaia di ragazze e ragazzi da tutta Italia. Calabria, Abruzzo, Puglia, Lombardia, Sicilia, Veneto, Campania. Sono solo alcune delle regioni in cui saranno presenti i volontari dello Spi che forniranno un aiuto fondamentale alle attività dei campi sia supportando il lavoro logistico e organizzativo, sia dando un contributo importante sul piano dei contenuti e dello scambio con i ragazzi.</p><p>Il contributo dello Spi si concentrerà non solo sulla memoria sindacale, con le storie di sindacalisti vittime di mafia che sono state raccolte nel libro “Terre e libertà”, ma più in generale su Costituzione e Resistenza, radici e via maestra della nostra democrazia.</p><p>Dal Polesine a Riace saremo attivi per alimentare e far crescere nuovi spazi di democrazia e partecipazione e per affermare la legalità come strumento di giustizia sociale. Lo faremo, come sempre, all'interno di beni confiscati alle mafie dove ormai da diversi anni le nostre energie si uniscono a quelle di tanti giovani per contribuire al recupero di quei luoghi.</p><p>Anche quest'anno in molti campi ci ritroveremo anche con le ragazze e ragazzi della Rete degli studenti medi e dell’Unione degli universitari che si confronteranno su temi come salute mentale, disagio, disturbi alimentari, richiesta di spazi, diritto allo studio. E il 25 luglio, insieme a loro e alle cooperative che ospitano le attività dei campi, replicheremo la “Pastasciutta antifascista”.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 7meAMvZlQmMg2YK1

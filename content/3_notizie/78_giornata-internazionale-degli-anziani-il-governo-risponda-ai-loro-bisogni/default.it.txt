@@ -1,0 +1,117 @@
+Title: Giornata internazionale degli anziani: il governo risponda ai loro bisogni
+
+----
+
+Descrizione: Quest’anno le Nazioni Unite hanno deciso di dedicarla ai temi della cura e alla necessità di assicurare assistenza e sostegno alle persone anziane.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://nOzsTzX6LY21rxcm
+
+----
+
+Thumbnail: - file://nOzsTzX6LY21rxcm
+
+----
+
+Child-category-selector: Dipartimento Organizzazione, Dipartimento Internazionale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-09-30
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, anziani
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Domani, 1° ottobre, ricorre la <strong>giornata internazionale dell’anziano</strong>. Quest’anno le Nazioni Unite hanno deciso di dedicarla ai temi della cura e alla necessità di assicurare assistenza e sostegno alle persone anziane. L’invecchiamento della popolazione, infatti, è una tendenza che sta ridisegnando le società in tutto il mondo e, secondo le stime, entro il 2030, il numero degli anziani supererà quello dei giovani. Con l’invecchiamento della popolazione, i bisogni di un sistema sanitario inclusivo e di servizi sociali di sostegno sta crescendo notevolmente. “Si tratta di una sfida che il nostro Paese non può permettersi di mancare – commenta <strong>Tania Scacchetti</strong>, segretaria generale del sindacato dei pensionati della Cgil – e che purtroppo invece viene tradita dalle politiche messe in campo da questo Governo, che tagliano la spesa pubblica a partire dalla sanità e dal mancato finanziamento della legge sulla non autosufficienza e che non sostengono adeguatamente la tenuta del potere d’acquisto dei pensionati, con politiche fiscali che penalizzano in particolare lavoratori e pensionati - in special modo le donne - e che non contrastano evasione ed elusione a vantaggio delle rendite e dei profitti\".</p><p>\"La sfida della demografia - prosegue Scacchetti - dovrebbe essere vista come l’occasione di ripensare e di rilanciare le politiche pubbliche all’insegna della centralità delle persone, dei loro bisogni, attraverso politiche di giustizia fiscale, contrasto alla povertà, incremento della riposta sanitaria e socio sanitaria, tutela delle pensioni, per consentire alle persone anziane di vivere dignitosamente e di sentirsi ancora protagoniste della vita sociale. Temi e rivendicazioni che meritano la grande mobilitazione che come Spi Cgil abbiamo messo e continueremo a mettere in campo\".</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: CNEO7U4QLMHp6d7y

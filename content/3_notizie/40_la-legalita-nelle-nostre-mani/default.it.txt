@@ -1,0 +1,117 @@
+Title: La legalità nelle nostre mani
+
+----
+
+Descrizione: oltre 200 volontarie e volontari dello Spi Cgil parteciperanno ai campi della legalità di Libera e Arci
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://loDdbDtX6BeFF6xu
+
+----
+
+Thumbnail: - file://loDdbDtX6BeFF6xu
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2023-07-06
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, legalità, antimafia, arci, libera
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Torna l’estate e, come ogni anno, fino al prossimo settembre, oltre 200 volontarie e volontari dello Spi Cgil parteciperanno ai <strong>campi della legalità di Libera e Arci</strong> e altre associazioni del terzo settore all’interno di ville e beni confiscati alle mafie e restituiti alle comunità attraverso le attività di cooperative e associazioni. Più di 2000 i ragazzi che i pensionati della Cgil incontreranno nei campi di impegno e formazione.&nbsp;&nbsp;</p><p>I campi sono un’esperienza ideata da Libera e Arci nel 2005 con gli obiettivi di valorizzare e promuovere il riutilizzo sociale dei beni confiscati e di formare sui temi dell’antimafia sociale. Per lo Spi Cgil una grande occasione anche per dare forma e concretezza a un dialogo tra generazioni reale e fuori da ogni retorica.</p><p>Il nostro sindacato partecipa attivamente sin dal 2011, collaborando anche con la Flai Cgil, come pure con le Camere del Lavoro del territorio, e con la Rete degli Studenti medi e l’Unione degli Universitari. In particolare, in quest’edizione con studenti e studentesse sono stati organizzati dei momenti formativi sul disagio giovanile a partire dalla ricerca “Chiedimi come sto” – realizzata lo scorso anno proprio da Rete e Udu insieme allo Spi Cgil - i cui contenuti hanno tra l’altro portato a una proposta di legge consegnata recentemente in Parlamento.</p><p>Sarà un’estate di grande impegno, da Sud a Nord, in tutta la penisola: infatti, se nel 2022 dei campi i nostri attivisti avevano partecipato a quasi <strong>80 settimane della legalità</strong>, quest’anno le settimane sono diventate <strong>120</strong>.</p><p>Dal supporto logistico e organizzativo all’aiuto in cucina, ai momenti formativi e agli incontri con i ragazzi, le volontarie e i volontari dello Spi daranno un contributo fondamentale alle attività dei campi.</p><p>“Il nostro percorso comune con Libera e con l’Arci si è andato qualificando sempre di più – spiega la segretaria nazionale <strong>Claudia Carlino</strong> - Le nostre volontarie e i nostri volontari offrono un sostegno importante alle iniziative che si tengono nei campi, mentre il nostro ruolo è diventato più manifesto anche nella formazione dei giovani che vengono coinvolti. Penso, ad esempio, a pubblicazioni della casa editrice Liberetà come <em>Terre e Libertà, </em>racconto della lotta dei tanti sindacalisti che hanno sfidato le mafie, e <em>Nelle nostre mani</em>, guida per il riuso sociale dei beni confiscati, che sono tra gli strumenti formativi messi a disposizione di chi partecipa ai campi. Per lo Spi Cgil, d’altro canto, quello della legalità è un elemento fondamentale anche nella contrattazione sociale con le amministrazioni locali di quei territori dove si trovano proprietà appartenute a mafiosi e ora confiscate che vanno restituite il prima possibile alla cittadinanza”.</p><p>Per questo i campi sono un tassello di un impegno più ampio sul fronte della legalità che vede impegnato lo Spi Cgil tutto l’anno, in un dialogo costante con le associazioni del terzo settore, le cooperative e tutti gli attori che operano sul territorio.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 2uqZ6n7D3z0z6mQu

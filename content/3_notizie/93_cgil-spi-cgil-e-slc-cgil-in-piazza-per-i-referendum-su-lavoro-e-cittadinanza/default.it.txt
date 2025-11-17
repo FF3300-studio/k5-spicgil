@@ -1,0 +1,117 @@
+Title: CGIL, SPI CGIL e SLC CGIL in piazza per i referendum su lavoro e cittadinanza
+
+----
+
+Descrizione: Ad aprile e maggio, nei primi tre giorni di ogni mese, CGIL, SPI CGIL e SLC CGIL organizzeranno volantinaggi davanti agli uffici postali
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://cGUH852qY6aguPNE
+
+----
+
+Thumbnail: - file://cGUH852qY6aguPNE
+
+----
+
+Child-category-selector: Dipartimento Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2025-03-24
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, referendum
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Ad aprile e maggio, nei primi tre giorni di ogni mese, <strong>CGIL, SPI CGIL e SLC CGIL</strong> organizzeranno volantinaggi davanti agli uffici postali per sensibilizzare sui prossimi <strong>referendum su lavoro e cittadinanza</strong>. L'obiettivo è chiaro: <strong>restituire dignità e diritti al lavoro e alle persone</strong> e spingere il governo a intervenire su questioni fondamentali.</p><p><strong>Rischio spopolamento e abbandono dei territori</strong></p><p>Il sindacato sottolinea che il <strong>60% del territorio italiano</strong> è a rischio abbandono e spopolamento. Si tratta del <strong>48% dei comuni</strong>, dove vive solo il <strong>13,6% della popolazione</strong>, per lo più anziani.</p><p>• La mancanza di lavoro, i servizi insufficienti e le difficoltà nel raggiungerli spingono molti giovani a trasferirsi nelle grandi città.</p><p>• È essenziale mantenere <strong>presidi come gli uffici postali</strong> per garantire servizi e diritti di cittadinanza, soprattutto per gli anziani.</p><p>• Le aree interne e le periferie sono vitali per la <strong>tenuta democratica</strong> del nostro Paese.</p><p><strong>Difendere il potere d'acquisto dei pensionati</strong></p><p>Le pensionate e i pensionati <strong>non possono essere il bancomat del Governo</strong>. Il potere d'acquisto delle pensioni va difeso dall'inflazione con una rivalutazione corretta.</p><p><strong>Nel biennio 2023-2024</strong> sono stati sottratti <strong>oltre 7 miliardi di euro</strong> dalle pensioni, una cifra destinata a salire a <strong>54 miliardi entro il 2032</strong>.</p><p>Questi soldi, guadagnati dopo una vita di lavoro, <strong>non verranno mai recuperati</strong>.</p><p><strong>Le richieste del sindacato</strong></p><p>CGIL, SPI CGIL e SLC CGIL chiedono:<br>- Una <strong>riforma della previdenza</strong> che guardi anche ai giovani.<br>- Una <strong>tassazione più equa</strong>.<br>- L’aumento degli <strong>aventi diritto</strong> e dell’importo della <strong>14ª mensilità</strong>.<br>- La tutela reale del potere d’acquisto delle pensioni.</p><p>È il momento di agire per un Paese più giusto e per dare dignità al lavoro e alle persone.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: 3CezAdUvLF4FdBob

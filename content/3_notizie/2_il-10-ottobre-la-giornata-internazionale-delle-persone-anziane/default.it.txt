@@ -1,0 +1,117 @@
+Title: Il 1° ottobre la giornata internazionale delle persone anziane
+
+----
+
+Descrizione: Oltre il 20% della popolazione europea ha oggi 65 anni o più. Eppure questa popolazione è particolarmente discriminata dalla società.
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://1AzRJzLwGihBthTL
+
+----
+
+Thumbnail: - file://1AzRJzLwGihBthTL
+
+----
+
+Child-category-selector: Dipartimento Diritti e Benessere
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2022-09-30
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: rivalutazione, pensioni, pensionati, governo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://1AzRJzLwGihBthTL"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","min_height":"unset","min_width":"unset","max_height":"unset","max_width":"unset"},"id":"232afd5c-8183-4e68-beeb-d566a1a238c9","isHidden":false,"type":"image"}],"id":"73803f4f-3711-48a3-b454-fb983812ea94","width":"1/1"}],"id":"11fe502d-1d2f-43fb-ae25-baf9112b3056"},{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Oltre <strong>il 20% della popolazione europea ha oggi 65 anni o più</strong>. Eppure questa popolazione è particolarmente discriminata dalla società. Le persone anziane sono spesso percepite in modo errato, rifiutate, isolate e persino maltrattate e sono vittime di molti stereotipi negativi derivanti da pregiudizi basati sull’età&nbsp; e il sessismo: \"gli anziani sono costosi\", sentiamo dire troppo spesso, come se questo fosse ovvio e reale.</p><p>La pandemia, che ha colpito il mondo, ha peggiorato la loro situazione, in particolare la loro \"esclusione\". Sono diventati \"invisibili\". Centinaia di migliaia di anziani non hanno avuto contatti con la famiglia o con il mondo esterno durante questo periodo. Eppure l'importanza dei legami sociali è vitale per loro e per la società nel suo complesso.</p><p>Questo è il motivo per cui la FERPA (Federazione Europea dei Pensionati e degli Anziani) e le organizzazioni che ne fanno parte sostengono l’importanza del 1° ottobre, che le Nazioni Unite hanno dichiarato dal 1990 come Giornata internazionale delle persone anziane. Ma per la FERPA, più che una celebrazione o il ricordo di un giorno, o anche una forma di \"buona coscienza\", è necessario che la giornata sia di lotta e di mobilitazione per i diritti delle persone anziane.</p><p>La FERPA sostiene il tema scelto quest'anno dall'ONU che è quello di &nbsp;\"<strong>ricordare l'importante ruolo che le donne anziane ricoprono affrontando sfide globali e contribuire alla loro soluzione con resilienza e coraggio</strong>\". Troppo spesso ignorate, discriminate, anche durante la loro vita lavorativa, le donne anziane rivestono un ruolo essenziale per la FERPA.</p><p>Questo riconoscimento deve accompagnarsi all’attuazione dei diritti fondamentali , così come la FERPA rivendica nel suo Manifesto per donne e uomini anziani.</p><p>La prima priorità della FERPA è la lotta alla povertà, che colpisce in particolare le persone anziane e soprattutto le donne. A questo fine è indispensabile riconoscere a tutte e tutti i pensionati d'Europa una pensione minima superiore alla soglia di povertà, insieme al diritto ad una pensione adeguata e indicizzata, che consenta di vivere in modo dignitoso.</p><p>È parimenti importante riconoscere il diritto e l'accesso, geograficamente e finanziariamente, all'assistenza sanitaria e a lungo termine di qualità per tutte e tutti, fornendo mezzi sufficienti a tutti i livelli a ogni livello.</p><p>Così come è fondamentale garantire il diritto all’energia e ai servizi essenziali, soprattutto in questo momento e adottando concretamente le misure necessarie.</p><p>È importante inoltre il diritto a un alloggio di qualità che tenga conto delle esigenze di anziane e anziani.</p><p>Occorre garantire l'inclusione delle donne anziane in tutte le politiche, garantendo la parità di genere e il loro coinvolgimento in tutte le decisioni che le riguardano. Ciò richiede anche lo sviluppo della solidarietà intergenerazionale per evitare contrasti tra le generazioni.</p><p>La FERPA rifiuta ogni forma di assistenzialismo, ma richiede diritti reali, che riconoscano che le persone anziane sono in grado di prendere le proprie decisioni e hanno pieni diritti sociali e di cittadinanza.</p><p>La FERPA e le organizzazioni che ne fanno parte si mobilitano quindi il 1° ottobre, con le modalità più appropriate e pertinenti in ogni Paese, al fine di far conoscere queste richieste e trasmetterle ai responsabili politici a tutti i livelli. Da parte sua, la FERPA le trasmetterà all'ONU, alle istituzioni europee e alle organizzazioni sindacali che fanno parte della CES.</p><p>SÌ ai diritti per le anziane e gli anziani, NO all'esclusione di pensionate e pensionati.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Diritti e Benessere
+
+----
+
+Deadline: 
+
+----
+
+Uuid: BxrJyrhqICVw3O6G

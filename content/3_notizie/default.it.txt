@@ -1,0 +1,226 @@
+Title: Notizie
+
+----
+
+Immagine: 
+
+----
+
+Thumbnail: 
+
+----
+
+Descrizione: 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager:
+
+- 
+  nome: Organizzazione
+  colore_categoria: '#000000'
+  descrizione: ""
+  gruppo: dipartimenti
+  marker: [ ]
+- 
+  nome: Socio-sanitario
+  colore_categoria: '#190084'
+  descrizione: ""
+  gruppo: dipartimenti
+  marker: [ ]
+- 
+  nome: Previdenza e Fisco
+  colore_categoria: '#ff2e17'
+  descrizione: ""
+  gruppo: dipartimenti
+  marker: [ ]
+- 
+  nome: Diritti e Benessere
+  colore_categoria: '#29aa1d'
+  descrizione: ""
+  gruppo: dipartimenti
+  marker: [ ]
+- 
+  nome: Contrattazione Sociale
+  colore_categoria: '#ffc518'
+  descrizione: ""
+  gruppo: dipartimenti
+  marker: [ ]
+- 
+  nome: Politiche giovanili di Genere e Legalita
+  colore_categoria: '#990033'
+  descrizione: ""
+  gruppo: dipartimenti
+  marker: [ ]
+- 
+  nome: Internazionale
+  colore_categoria: '#ff8528'
+  descrizione: ""
+  gruppo: dipartimenti
+  marker: [ ]
+- 
+  nome: Pensioni
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+- 
+  nome: Sanità
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+- 
+  nome: Casa e consumi
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+- 
+  nome: Tasse e tariffe
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+- 
+  nome: Truffe
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+- 
+  nome: Donne
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+- 
+  nome: Estero
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+- 
+  nome: Donne
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+- 
+  nome: Benessere
+  colore_categoria: ""
+  descrizione: ""
+  gruppo: temi
+  marker: [ ]
+
+----
+
+Appuntamenti: 
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: 
+
+----
+
+Map-key: 
+
+----
+
+Collection-pagination-prev: precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: successivi
+
+----
+
+Keywords: 
+
+----
+
+Contenuto: 
+
+----
+
+Collection-toggle: true
+
+----
+
+Collection-options: blog
+
+----
+
+Collection-categories-manager-toggle: true
+
+----
+
+Collection-pagination: true
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Dipartimenti: 
+
+----
+
+Tooltip: false
+
+----
+
+In-primo-piano: 
+
+----
+
+Uuid: SMGfqL6uelhMCqEj

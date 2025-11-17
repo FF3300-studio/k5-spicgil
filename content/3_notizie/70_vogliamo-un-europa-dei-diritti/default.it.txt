@@ -1,0 +1,117 @@
+Title: Vogliamo un'Europa dei diritti
+
+----
+
+Descrizione: Lo Spi Cgil si unisce alla Ferpa nel ribadire ai candidati e alle candidate alle prossime europee che c'è bisogno di un'Europa più coesa e inclusiva
+
+----
+
+Dove: 
+
+----
+
+Immagine: - file://GZUcI8r4IpC9NxnJ
+
+----
+
+Thumbnail: - file://GZUcI8r4IpC9NxnJ
+
+----
+
+Child-category-selector: Dipartimento Internazionale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Data-di-pubblicazione: 2024-05-08
+
+----
+
+Correlati: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, europa
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>La Federazione Europea dei Pensionati e degli Anziani (FERPA), alla quale aderisce anche lo Spi Cgil, ha inviato una lettera aperta ai candidati e alle candidate alle prossime elezioni europee.</p><p>In Europa, infatti, <strong>anziani e pensionati sono oltre 100 milioni</strong>, eppure le loro istanze vengono ampiamente ignorate.</p><p>\"I vari piani di austerità e i tagli di bilancio attuati negli ultimi anni all'interno dell'Unione Europea - denuncia la FERPA - hanno avuto un drammatico impatto negativo sulle risorse degli anziani e dei pensionati (di cui circa il 30% è povero)\".</p><p>La federazione sottolinea come \"ancora più allarmante sia la condizione delle donne in pensione\", le cui pensioni sono in media del 25% più basse \"perché spesso hanno dovuto interrompere la loro carriera lavorativa per allevare i figli o, oggi, per assistere i parenti malati, e anche perché hanno sempre avuto stipendi più bassi degli uomini a parità di competenze e di lavoro\".</p><p>Assieme alla questione del reddito, la Ferpa segnala altri temi cruciali: la perdita di autonomia e l’assistenza sanitaria e di accompagnamento che essa comporta e il fatto che \"l'assistenza ai pensionati non più autosufficienti, a domicilio o in una struttura, richiede</p><p>personale sanitario in quantità sufficiente, adeguatamente retribuito e ben preparato\".</p><p>In sintesi, le rivendicazioni della Ferpa sono contenute in un Manifesto e riguardano quattro diritti prioritari: il diritto a pensioni dignitose indicizzate sulla base del costo della vita, compresa l'introduzione di una pensione minima</p><p>europea; il diritto a un'assistenza sanitaria di qualità e a lungo</p><p>termine; il diritto a un alloggio dignitoso, la lotta contro la povertà energetica e il diritto all'inclusione sociale.</p><p><strong>Lo Spi Cgil si unisce alla Ferpa nel ribadire ai candidati e alle candidate alle prossime europee che c'è bisogno di un'Europa più coesa e inclusiva</strong>, capace di garantire la dignità di tutte le cittadine e tutti i cittadini, indipendentemente dalla loro età.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Deadline: 
+
+----
+
+Uuid: H5RbZ3o8lsZ8pwGr
