@@ -35,11 +35,11 @@ Appuntamenti:
 
 ----
 
-Deadline: 2025-11-18
+Deadline: 
 
 ----
 
-Num-max: 10
+Num-max: 
 
 ----
 
