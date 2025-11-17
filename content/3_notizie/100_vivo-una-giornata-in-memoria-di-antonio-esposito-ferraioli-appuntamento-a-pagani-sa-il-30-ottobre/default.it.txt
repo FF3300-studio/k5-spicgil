@@ -2,14 +2,6 @@ Title: VIVO! Una giornata in memoria di Antonio Esposito Ferraioli Appuntamento 
 
 ----
 
-Descrizione: A quarantasette anni dall’assassinio di Antonio Esposito Ferraioli, cuoco, scout e sindacalista della CGIL ucciso dalla camorra il 30 agosto 1978 a soli 27 anni, la città di Pagani torna a stringersi attorno al suo nome.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://BDa70haPqlWYo8K0
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://BDa70haPqlWYo8K0
 
 ----
 
-Child-category-selector: 
+Descrizione: A quarantasette anni dall’assassinio di Antonio Esposito Ferraioli, cuoco, scout e sindacalista della CGIL ucciso dalla camorra il 30 agosto 1978 a soli 27 anni, la città di Pagani torna a stringersi attorno al suo nome.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Politiche giovanili di Genere e Legalita
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2024-10-18
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -74,7 +82,7 @@ Collection-pagination-next: altri contenuti
 
 ----
 
-Keywords: pensionati, cgil, spi, spi cgil, pensioni, legalità, antimafia
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, antimafia
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2024-10-18
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

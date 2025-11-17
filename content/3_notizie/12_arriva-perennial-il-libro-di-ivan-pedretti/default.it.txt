@@ -2,14 +2,6 @@ Title: Arriva Perennial, il libro di Ivan Pedretti
 
 ----
 
-Descrizione: “Persone in grado di adattarsi alle novità e ai cambiamenti, a prescindere dall’età anagrafica”, sono i Perennial.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://wMdTLHIUyXZqn36k
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://wMdTLHIUyXZqn36k
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Descrizione: “Persone in grado di adattarsi alle novità e ai cambiamenti, a prescindere dall’età anagrafica”, sono i Perennial.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Pensioni
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2022-11-16
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2022-11-16
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Organizzazione
-
-----
-
-Deadline: 
 
 ----
 

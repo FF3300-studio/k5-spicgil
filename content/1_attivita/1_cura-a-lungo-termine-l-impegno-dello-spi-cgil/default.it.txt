@@ -1,12 +1,4 @@
-Title: Cura a lungo termine. L'impegno dello Spi Cgil
-
-----
-
-Descrizione: Tre ricerche per indagare su anziani e luoghi di cura mettendo al centro qualità del lavoro e condizioni di vita.
-
-----
-
-Dove: Roma - Centro Congressi Frentani
+Title: Cura a lungo termine: l'impegno dello Spi Cgil
 
 ----
 
@@ -18,7 +10,15 @@ Thumbnail: - file://NxNYoA8RcdNhYO43
 
 ----
 
-Child-category-selector: Dipartimento Socio-sanitario
+Descrizione: Tre ricerche per indagare su anziani e luoghi di cura mettendo al centro qualità del lavoro e condizioni di vita.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Diritti e Benessere, Socio-sanitario
 
 ----
 
@@ -31,14 +31,23 @@ Appuntamenti:
 - 
   giorno: 2025-02-28
   orario_inizio: 09:30:00
+  orario_fine: ""
 
 ----
 
-Data-di-pubblicazione: 
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -106,15 +115,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
 Data-pubblicazione-toggle: false
 
 ----
 
 Dipartimenti: 
-
-----
-
-Deadline: 
 
 ----
 

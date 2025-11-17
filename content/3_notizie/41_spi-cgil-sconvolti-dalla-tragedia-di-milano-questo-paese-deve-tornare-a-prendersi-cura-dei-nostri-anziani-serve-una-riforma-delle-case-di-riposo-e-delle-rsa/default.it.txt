@@ -2,14 +2,6 @@ Title: Spi Cgil: Sconvolti dalla tragedia di Milano. Questo Paese deve tornare a
 
 ----
 
-Descrizione: L'incendio è costato la vita a sei persone provocando altri 81 feriti nella Residenza per anziani “Casa dei Coniugi”.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://qxkYMYyw2lyIfYbM
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://qxkYMYyw2lyIfYbM
 
 ----
 
-Child-category-selector: Dipartimento Socio-sanitario
+Descrizione: L'incendio è costato la vita a sei persone provocando altri 81 feriti nella Residenza per anziani “Casa dei Coniugi”.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Diritti e Benessere, Socio-sanitario
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-07-07
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-07-07
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

@@ -2,14 +2,6 @@ Title: L’immigrazione che cambia: demografia, lavoro e bisogni sociali
 
 ----
 
-Descrizione: I processi migratori e il cambiamento demografico sono fenomeni che non possono essere affrontati distintamente
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://iRmvHuVHR2OdLzti
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://iRmvHuVHR2OdLzti
 
 ----
 
-Child-category-selector: Dipartimento Diritti e Benessere, Dipartimento Contrattazione Sociale
+Descrizione: I processi migratori e il cambiamento demografico sono fenomeni che non possono essere affrontati distintamente
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Giovani Genere e Legalità
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-05-05
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-05-05
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

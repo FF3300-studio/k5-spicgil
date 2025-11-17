@@ -2,14 +2,6 @@ Title: Sociotechlab: Ricerca e Innovazione nei Servizi Socio-Sanitari per Anzian
 
 ----
 
-Descrizione: L'incontro rappresenta un'importante occasione di confronto tra istituzioni, ricerca e mondo del lavoro, con l'obiettivo di promuovere l'innovazione e garantire un'assistenza di qualità per gli anziani. 
-
-----
-
-Dove: Pisa - Scuola superiore Sant'Anna
-
-----
-
 Immagine: - file://yHEutVkxRYiAgSqf
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://yHEutVkxRYiAgSqf
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione, Dipartimento Socio-sanitario
+Descrizione: L'incontro rappresenta un'importante occasione di confronto tra istituzioni, ricerca e mondo del lavoro, con l'obiettivo di promuovere l'innovazione e garantire un'assistenza di qualità per gli anziani. 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione, Socio-sanitario
 
 ----
 
@@ -31,14 +31,23 @@ Appuntamenti:
 - 
   giorno: 2025-06-05
   orario_inizio: 09:30:00
+  orario_fine: ""
 
 ----
 
-Data-di-pubblicazione: 
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -106,15 +115,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
 Data-pubblicazione-toggle: false
 
 ----
 
 Dipartimenti: 
-
-----
-
-Deadline: 
 
 ----
 

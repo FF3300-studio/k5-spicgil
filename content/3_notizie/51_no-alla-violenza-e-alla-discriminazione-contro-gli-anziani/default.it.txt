@@ -2,14 +2,6 @@ Title: No alla violenza e alla discriminazione contro gli anziani!
 
 ----
 
-Descrizione: Il 1 ottobre è la Giornata internazionale delle persone anziane, dedicata quest’anno dalle Nazioni Unite al contrasto alla violenza contro gli anziani e, in particolare, alla violenza di genere.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://HUbvpPRBu5tclc4w
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://HUbvpPRBu5tclc4w
 
 ----
 
-Child-category-selector: Dipartimento Diritti e Benessere
+Descrizione: Il 1 ottobre è la Giornata internazionale delle persone anziane, dedicata quest’anno dalle Nazioni Unite al contrasto alla violenza contro gli anziani e, in particolare, alla violenza di genere.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Politiche giovanili di Genere e Legalita
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-09-29
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-09-29
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

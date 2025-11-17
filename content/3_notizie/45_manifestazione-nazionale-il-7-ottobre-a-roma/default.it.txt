@@ -2,14 +2,6 @@ Title: Manifestazione nazionale il 7 ottobre a Roma
 
 ----
 
-Descrizione: Da piazza San Giovanni faremo sentire ancora la nostra voce. Abbiamo bisogno anche delle vostre. Manifestiamo Insieme per la Costituzione.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://WPPPDSrJLIMVsrUC
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://WPPPDSrJLIMVsrUC
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Descrizione: Da piazza San Giovanni faremo sentire ancora la nostra voce. Abbiamo bisogno anche delle vostre. Manifestiamo Insieme per la Costituzione.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione, Pensioni
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-08-24
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-08-24
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

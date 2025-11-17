@@ -2,6 +2,14 @@ Title: Anziani, approvare in tempi rapidi legge su non autosufficienza
 
 ----
 
+Immagine: - file://GUq83JWnFcDizBB4
+
+----
+
+Thumbnail: - file://GUq83JWnFcDizBB4
+
+----
+
 Descrizione:
 
 Comincia in questi giorni con le assemblee di base il nostro XXI Congresso, che si concluderà a Verona dal 21 al 24 febbraio.
@@ -14,15 +22,7 @@ Dove:
 
 ----
 
-Immagine: - file://GUq83JWnFcDizBB4
-
-----
-
-Thumbnail: - file://GUq83JWnFcDizBB4
-
-----
-
-Child-category-selector: Dipartimento Socio-sanitario
+Child-category-selector: Socio-sanitario, Diritti e Benessere
 
 ----
 
@@ -34,11 +34,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2022-10-04
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -106,15 +114,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2022-10-04
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Socio-sanitario
-
-----
-
-Deadline: 
 
 ----
 

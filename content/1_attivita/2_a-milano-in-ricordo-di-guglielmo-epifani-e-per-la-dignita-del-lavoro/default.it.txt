@@ -2,14 +2,6 @@ Title: A Milano in ricordo di Guglielmo Epifani e per la dignità del lavoro
 
 ----
 
-Descrizione: A un mese dal voto referendario che intende restituire alla cittadinanza diritti che le sono stati sottratti nel tempo, lo Spi Cgil organizza a Milano un’iniziativa che mette al centro “La dignità del lavoro”, tema essenziale in quattro dei cinque quesiti sui quali saremo chiamati alle urne l’8 e il 9 giugno.
-
-----
-
-Dove: Milano - Camera del Lavoro
-
-----
-
 Immagine: - file://SV8IVsxnsSsWnmaH
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://SV8IVsxnsSsWnmaH
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Descrizione: A un mese dal voto referendario che intende restituire alla cittadinanza diritti che le sono stati sottratti nel tempo, lo Spi Cgil organizza a Milano un’iniziativa che mette al centro “La dignità del lavoro”, tema essenziale in quattro dei cinque quesiti sui quali saremo chiamati alle urne l’8 e il 9 giugno.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Contrattazione Sociale
 
 ----
 
@@ -31,14 +31,23 @@ Appuntamenti:
 - 
   giorno: 2025-05-08
   orario_inizio: 09:30:00
+  orario_fine: ""
 
 ----
 
-Data-di-pubblicazione: 
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -106,15 +115,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
 Data-pubblicazione-toggle: false
 
 ----
 
 Dipartimenti: 
-
-----
-
-Deadline: 
 
 ----
 

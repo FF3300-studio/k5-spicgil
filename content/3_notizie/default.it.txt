@@ -55,7 +55,7 @@ Parent-category-manager:
   gruppo: dipartimenti
   marker: [ ]
 - 
-  nome: Politiche giovanili di Genere e Legalita
+  nome: Giovani Genere e Legalità
   colore_categoria: '#990033'
   descrizione: ""
   gruppo: dipartimenti

@@ -2,14 +2,6 @@ Title: In piazza per la pace
 
 ----
 
-Descrizione: Il 24 febbraio lo Spi Cgil aderisce all’iniziativa promossa dalle associazioni Europe for Peace, Rete Italiana Pace e Disarmo e Assisi Pace Giusta per fermare “la criminale follia di tutte le guerre, la corsa al riarmo, la distruzione del Pianeta.”
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://VpTcoeUG5Ig1XCtY
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://VpTcoeUG5Ig1XCtY
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione, Dipartimento Internazionale
+Descrizione: Il 24 febbraio lo Spi Cgil aderisce all’iniziativa promossa dalle associazioni Europe for Peace, Rete Italiana Pace e Disarmo e Assisi Pace Giusta per fermare “la criminale follia di tutte le guerre, la corsa al riarmo, la distruzione del Pianeta.”
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Politiche giovanili di Genere e Legalita
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2024-02-22
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2024-02-22
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

@@ -2,14 +2,6 @@ Title: Legge di Bilancio: blocco della rivalutazione per i pensionati all'estero
 
 ----
 
-Descrizione: Il governo discrimina e penalizza ulteriormente le pensionate e i pensionati residenti all’estero.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://h50FaBvL3Fwfvz4Y
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://h50FaBvL3Fwfvz4Y
 
 ----
 
-Child-category-selector: Dipartimento Previdenza e Fisco
+Descrizione: Il governo discrimina e penalizza ulteriormente le pensionate e i pensionati residenti all’estero.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Internazionale
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2025-03-11
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2025-03-11
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

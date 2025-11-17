@@ -2,14 +2,6 @@ Title: Speciale Legge delega 33/2023 per la non autosufficienza
 
 ----
 
-Descrizione: È possibile consultare i documenti con le proposte
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://bs4UU40DYwzq57R0
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://bs4UU40DYwzq57R0
 
 ----
 
-Child-category-selector: Dipartimento Socio-sanitario
+Descrizione: È possibile consultare i documenti con le proposte
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Socio-sanitario, Diritti e Benessere
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-07-12
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-07-12
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

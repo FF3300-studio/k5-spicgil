@@ -2,14 +2,6 @@ Title: Pnrr, Sindacati pensionati: preoccupa governo su sanità e welfare
 
 ----
 
-Descrizione: Bisogna riaffermare le scelte condivise riguardanti la tutela delle persone più fragili e per realizzare una reale medicina di prossimità. 
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://Z7nabhVas5T0lzQV
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://Z7nabhVas5T0lzQV
 
 ----
 
-Child-category-selector: Dipartimento Socio-sanitario
+Descrizione: Bisogna riaffermare le scelte condivise riguardanti la tutela delle persone più fragili e per realizzare una reale medicina di prossimità. 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Socio-sanitario
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2022-11-04
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2022-11-04
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Socio-sanitario
-
-----
-
-Deadline: 
 
 ----
 

@@ -2,14 +2,6 @@ Title: Il 24 giugno tutte e tutti in piazza per la Sanità pubblica
 
 ----
 
-Descrizione: Il corteo partirà da Piazza della Repubblica alle 10:00
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://9tMkd1Au7CZLQHLs
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://9tMkd1Au7CZLQHLs
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione, Dipartimento Socio-sanitario
+Descrizione: Il corteo partirà da Piazza della Repubblica alle 10:00
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione, Pensioni
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-06-19
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-06-19
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

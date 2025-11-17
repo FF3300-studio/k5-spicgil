@@ -2,14 +2,6 @@ Title: Inps, operazione di potere ai danni di milioni di persone
 
 ----
 
-Descrizione: Un atto d'imperio a discapito di milioni di persone che avrebbero invece bisogno di un’amministrazione solida
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://Wk8zAfRDpO3VoIbJ
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://Wk8zAfRDpO3VoIbJ
 
 ----
 
-Child-category-selector: Dipartimento Previdenza e Fisco
+Descrizione: Un atto d'imperio a discapito di milioni di persone che avrebbero invece bisogno di un’amministrazione solida
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Pensioni
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-05-02
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-05-02
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

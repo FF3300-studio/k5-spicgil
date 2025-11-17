@@ -2,14 +2,6 @@ Title: Alluvione in Emilia Romagna: la solidarietà dei pensionati Cgil
 
 ----
 
-Descrizione: Esprimiamo cordoglio per chi ha perso la vita e tutta la nostra vicinanza alla popolazione
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://OdpebMVlZ3fOFio8
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://OdpebMVlZ3fOFio8
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Descrizione: Esprimiamo cordoglio per chi ha perso la vita e tutta la nostra vicinanza alla popolazione
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-05-05
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-05-05
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

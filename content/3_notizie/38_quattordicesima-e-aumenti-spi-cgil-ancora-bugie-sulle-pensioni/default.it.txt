@@ -2,14 +2,6 @@ Title: Quattordicesima e aumenti: Spi Cgil, ancora bugie sulle pensioni
 
 ----
 
-Descrizione: I pensionati italiani hanno bisogno di sostegno concreto al loro reddito, non delle ennesime bugie
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://qu360ycSXf5D3nRB
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://qu360ycSXf5D3nRB
 
 ----
 
-Child-category-selector: Dipartimento Previdenza e Fisco
+Descrizione: I pensionati italiani hanno bisogno di sostegno concreto al loro reddito, non delle ennesime bugie
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Pensioni, Contrattazione Sociale
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-06-29
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-06-29
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

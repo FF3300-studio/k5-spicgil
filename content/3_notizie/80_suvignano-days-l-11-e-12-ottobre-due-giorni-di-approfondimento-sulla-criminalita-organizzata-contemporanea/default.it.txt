@@ -2,14 +2,6 @@ Title: “Suvignano Days”: l’11 e 12 ottobre due giorni di approfondimento s
 
 ----
 
-Descrizione: L’11 e 12 ottobre lo SPI CGIL nazionale organizza insieme allo SPI Toscana una due giorni nazionale di approfondimento sulla criminalità organizzata contemporanea
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://sN9DpzU8txG97qtl
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://sN9DpzU8txG97qtl
 
 ----
 
-Child-category-selector: 
+Descrizione: L’11 e 12 ottobre lo SPI CGIL nazionale organizza insieme allo SPI Toscana una due giorni nazionale di approfondimento sulla criminalità organizzata contemporanea
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Politiche giovanili di Genere e Legalita
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2024-10-11
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2024-10-11
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

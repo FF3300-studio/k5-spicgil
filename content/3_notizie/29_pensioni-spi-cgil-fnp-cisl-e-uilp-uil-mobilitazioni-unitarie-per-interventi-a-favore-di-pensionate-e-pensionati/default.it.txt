@@ -2,14 +2,6 @@ Title: Pensioni: Spi Cgil, Fnp Cisl e Uilp Uil, mobilitazioni unitarie per inter
 
 ----
 
-Descrizione: È ora che i diritti delle pensionate e dei pensionati entrino nell’agenda di Governo e Parlamento
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://tbF214jje4m3vDfS
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://tbF214jje4m3vDfS
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione, Dipartimento Previdenza e Fisco
+Descrizione: È ora che i diritti delle pensionate e dei pensionati entrino nell’agenda di Governo e Parlamento
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione, Pensioni
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-05-02
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-05-02
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

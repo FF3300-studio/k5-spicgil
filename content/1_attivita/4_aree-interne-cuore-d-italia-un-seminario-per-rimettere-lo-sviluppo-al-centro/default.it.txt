@@ -2,14 +2,6 @@ Title: Aree interne. Cuore d’Italia. Un seminario per rimettere lo sviluppo al
 
 ----
 
-Descrizione: È il titolo scelto per la due giorni seminariale, organizzata dal sindacato dei pensionati della Cgil a Castelnovo ne’ Monti, in provincia di Reggio Emilia.
-
-----
-
-Dove: Castelnovo ne' Monti
-
-----
-
 Immagine: - file://VpA8wwiPsuHbnQIV
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://VpA8wwiPsuHbnQIV
 
 ----
 
-Child-category-selector: Dipartimento Contrattazione Sociale
+Descrizione: È il titolo scelto per la due giorni seminariale, organizzata dal sindacato dei pensionati della Cgil a Castelnovo ne’ Monti, in provincia di Reggio Emilia.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Contrattazione Sociale
 
 ----
 
@@ -31,14 +31,23 @@ Appuntamenti:
 - 
   giorno: 2025-06-20
   orario_inizio: 09:30:00
+  orario_fine: ""
 
 ----
 
-Data-di-pubblicazione: 
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -106,15 +115,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
 Data-pubblicazione-toggle: false
 
 ----
 
 Dipartimenti: 
-
-----
-
-Deadline: 
 
 ----
 

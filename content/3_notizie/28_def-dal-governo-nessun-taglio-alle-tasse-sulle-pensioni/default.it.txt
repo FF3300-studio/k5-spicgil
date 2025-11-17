@@ -2,14 +2,6 @@ Title: Def: Dal Governo nessun taglio alle tasse sulle pensioni
 
 ----
 
-Descrizione: Nessuna risposta ai pensionati e alle pensionate, nonostante le tante promesse elettorali.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://oNXAQasd5QaNxOqq
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://oNXAQasd5QaNxOqq
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Descrizione: Nessuna risposta ai pensionati e alle pensionate, nonostante le tante promesse elettorali.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Pensioni, Contrattazione Sociale
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-05-02
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-05-02
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

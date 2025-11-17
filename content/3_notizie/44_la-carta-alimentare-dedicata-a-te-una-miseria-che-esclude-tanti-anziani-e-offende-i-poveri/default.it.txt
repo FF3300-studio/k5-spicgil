@@ -2,14 +2,6 @@ Title: La carta alimentare “Dedicata a te”: una miseria, che esclude tanti a
 
 ----
 
-Descrizione: La cifra è una miseria (in un anno poco più di 1 euro al giorno) e si fonda su un pregiudizio offensivo
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://QQD0TINCVjfOVerL
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://QQD0TINCVjfOVerL
 
 ----
 
-Child-category-selector: Dipartimento Contrattazione Sociale, Dipartimento Previdenza e Fisco
+Descrizione: La cifra è una miseria (in un anno poco più di 1 euro al giorno) e si fonda su un pregiudizio offensivo
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Previdenza e Fisco
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-07-24
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-07-24
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

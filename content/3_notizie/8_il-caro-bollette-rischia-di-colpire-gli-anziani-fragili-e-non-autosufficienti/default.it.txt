@@ -2,14 +2,6 @@ Title: Il caro-bollette rischia di colpire gli anziani fragili e non autosuffici
 
 ----
 
-Descrizione: Il caro-bollette rischia di colpire pesantemente gli anziani fragili e non autosufficienti e portare a un aumento esponenziale del costo delle rette delle strutture residenziali.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://hDgIVBfELXLBzCai
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://hDgIVBfELXLBzCai
 
 ----
 
-Child-category-selector: Dipartimento Socio-sanitario, Dipartimento Contrattazione Sociale
+Descrizione: Il caro-bollette rischia di colpire pesantemente gli anziani fragili e non autosufficienti e portare a un aumento esponenziale del costo delle rette delle strutture residenziali.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Previdenza e Fisco
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2022-10-11
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2022-10-11
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Socio-sanitario, Dipartimento Contrattazione Sociale
-
-----
-
-Deadline: 
 
 ----
 

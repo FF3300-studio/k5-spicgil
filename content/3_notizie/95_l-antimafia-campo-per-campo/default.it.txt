@@ -2,14 +2,6 @@ Title: L’antimafia campo per campo
 
 ----
 
-Descrizione: Anche quest’anno, le volontarie e i volontari del sindacato pensionati della Cgil saranno impegnati per tutta l’estate nei campi della legalità organizzati all’interno di beni confiscati alla criminalità
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://0G9iTwkAPRVCuDY1
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://0G9iTwkAPRVCuDY1
 
 ----
 
-Child-category-selector: 
+Descrizione: Anche quest’anno, le volontarie e i volontari del sindacato pensionati della Cgil saranno impegnati per tutta l’estate nei campi della legalità organizzati all’interno di beni confiscati alla criminalità
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Politiche giovanili di Genere e Legalita
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2025-06-17
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2025-06-17
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

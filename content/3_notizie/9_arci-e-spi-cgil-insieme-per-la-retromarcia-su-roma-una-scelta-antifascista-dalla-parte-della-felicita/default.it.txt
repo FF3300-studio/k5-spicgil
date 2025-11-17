@@ -2,14 +2,6 @@ Title: Arci e Spi-Cgil insieme per La Retromarcia su Roma: una scelta antifascis
 
 ----
 
-Descrizione: 100 anni dopo la marcia su Roma si svolgerà la controstoria di un anniversario: La Retromarcia su Roma, per portare nei luoghi di quella tragica e farsesca pagina della storia l’”invece” che non c’è stato. I colori della fantasia e della bellezza che sono stati imbrattati di nero e violenza.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://ZKoEnfmvYVJ9E2SO
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://ZKoEnfmvYVJ9E2SO
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Descrizione: 100 anni dopo la marcia su Roma si svolgerà la controstoria di un anniversario: La Retromarcia su Roma, per portare nei luoghi di quella tragica e farsesca pagina della storia l’”invece” che non c’è stato. I colori della fantasia e della bellezza che sono stati imbrattati di nero e violenza.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2022-09-28
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2022-09-28
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Organizzazione
-
-----
-
-Deadline: 
 
 ----
 

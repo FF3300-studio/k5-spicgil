@@ -2,14 +2,6 @@ Title: Tegola sui pensionati, dovranno restituire la rivalutazione
 
 ----
 
-Descrizione: Una tegola rischia di abbattersi sui pensionati italiani che da febbraio potrebbero essere costretti a restituire allo Stato parte della rivalutazione degli assegni risalente all'anno 2015.
-
-----
-
-Dove: 
-
-----
-
 Immagine: 
 
 ----
@@ -18,7 +10,15 @@ Thumbnail:
 
 ----
 
-Child-category-selector: Dipartimento Previdenza e Fisco
+Descrizione: Una tegola rischia di abbattersi sui pensionati italiani che da febbraio potrebbero essere costretti a restituire allo Stato parte della rivalutazione degli assegni risalente all'anno 2015.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Giovani Genere e Legalità
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2017-01-02
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2017-01-02
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

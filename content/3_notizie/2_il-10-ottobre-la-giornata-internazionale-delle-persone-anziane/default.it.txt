@@ -2,14 +2,6 @@ Title: Il 1° ottobre la giornata internazionale delle persone anziane
 
 ----
 
-Descrizione: Oltre il 20% della popolazione europea ha oggi 65 anni o più. Eppure questa popolazione è particolarmente discriminata dalla società.
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://1AzRJzLwGihBthTL
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://1AzRJzLwGihBthTL
 
 ----
 
-Child-category-selector: Dipartimento Diritti e Benessere
+Descrizione: Oltre il 20% della popolazione europea ha oggi 65 anni o più. Eppure questa popolazione è particolarmente discriminata dalla società.
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Contrattazione Sociale, Organizzazione
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2022-09-30
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2022-09-30
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Diritti e Benessere
-
-----
-
-Deadline: 
 
 ----
 

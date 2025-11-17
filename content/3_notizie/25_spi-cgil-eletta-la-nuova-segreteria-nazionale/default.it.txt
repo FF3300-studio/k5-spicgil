@@ -2,14 +2,6 @@ Title: Spi-Cgil, eletta la nuova segreteria nazionale
 
 ----
 
-Descrizione: Entrano Carlino, Cecconi, Mastrantonio e Scacchetti
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://KvpZIearBVeTqiRz
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://KvpZIearBVeTqiRz
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Descrizione: Entrano Carlino, Cecconi, Mastrantonio e Scacchetti
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-04-14
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-04-14
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

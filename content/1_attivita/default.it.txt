@@ -2,14 +2,6 @@ Title: Attività
 
 ----
 
-Descrizione: 
-
-----
-
-Dove: 
-
-----
-
 Immagine: 
 
 ----
@@ -18,48 +10,58 @@ Thumbnail:
 
 ----
 
+Descrizione: 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: 
+
+----
+
 Parent-category-manager:
 
 - 
-  nome: Dipartimento Organizzazione
+  nome: Organizzazione
   colore_categoria: ""
   descrizione: ""
   gruppo: ""
   marker: [ ]
 - 
-  nome: Dipartimento Socio-sanitario
+  nome: Socio-sanitario
   colore_categoria: ""
   descrizione: ""
   gruppo: ""
   marker: [ ]
 - 
-  nome: Dipartimento Previdenza e Fisco
+  nome: Previdenza e Fisco
   colore_categoria: ""
   descrizione: ""
   gruppo: ""
   marker: [ ]
 - 
-  nome: Dipartimento Diritti e Benessere
+  nome: Diritti e Benessere
   colore_categoria: ""
   descrizione: ""
   gruppo: ""
   marker: [ ]
 - 
-  nome: Dipartimento Contrattazione Sociale
+  nome: Contrattazione Sociale
   colore_categoria: ""
   descrizione: ""
   gruppo: ""
   marker: [ ]
 - 
-  nome: >
-    Dipartimento Politiche giovanili, di
-    genere e Legalità
+  nome: Giovani Genere e Legalità
   colore_categoria: ""
   descrizione: ""
   gruppo: ""
   marker: [ ]
 - 
-  nome: Dipartimento Internazionale
+  nome: Internazionale
   colore_categoria: ""
   descrizione: ""
   gruppo: ""
@@ -71,11 +73,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -135,23 +145,19 @@ Collection-categories-manager-toggle: true
 
 ----
 
+Collection-pagination: true
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
 Data-pubblicazione-toggle: false
 
 ----
 
 Dipartimenti: 
-
-----
-
-Deadline: 
-
-----
-
-Team: 
-
-----
-
-Collection-pagination: true
 
 ----
 

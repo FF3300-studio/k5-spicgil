@@ -2,14 +2,6 @@ Title: Criminalità organizzata e legalità digitale: tornano i “Suvignano Day
 
 ----
 
-Descrizione: Il 17 e 18 ottobre nel senese presso la Tenuta di Suvignano e a Buonconvento, nel senese, la 2^edizione della due giorni nazionale organizzata promossa dallo SPI CGIL
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://W0O4FDjDFqUhDFDq
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://W0O4FDjDFqUhDFDq
 
 ----
 
-Child-category-selector: 
+Descrizione: Il 17 e 18 ottobre nel senese presso la Tenuta di Suvignano e a Buonconvento, nel senese, la 2^edizione della due giorni nazionale organizzata promossa dallo SPI CGIL
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Politiche giovanili di Genere e Legalita
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2024-10-16
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2024-10-16
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

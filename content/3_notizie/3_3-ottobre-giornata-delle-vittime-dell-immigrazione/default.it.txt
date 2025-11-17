@@ -18,7 +18,7 @@ Dove:
 
 ----
 
-Child-category-selector: Dipartimento Diritti e Benessere
+Child-category-selector: Giovani Genere e Legalità
 
 ----
 

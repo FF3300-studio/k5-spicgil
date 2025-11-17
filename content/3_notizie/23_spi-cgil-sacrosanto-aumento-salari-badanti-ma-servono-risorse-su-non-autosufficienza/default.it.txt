@@ -2,14 +2,6 @@ Title: Spi-Cgil, sacrosanto aumento salari badanti ma servono risorse su non aut
 
 ----
 
-Descrizione: Valorizzare e retribuire in modo adeguato chi svolge lavori di cura è essenziale
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://YTpmC35hPVcNW3lL
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://YTpmC35hPVcNW3lL
 
 ----
 
-Child-category-selector: Dipartimento Socio-sanitario
+Descrizione: Valorizzare e retribuire in modo adeguato chi svolge lavori di cura è essenziale
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Socio-sanitario, Diritti e Benessere
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-03-02
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-03-02
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Socio-sanitario
-
-----
-
-Deadline: 
 
 ----
 

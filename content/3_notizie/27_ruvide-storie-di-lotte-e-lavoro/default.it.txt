@@ -2,14 +2,6 @@ Title: Ruvide. Storie di lotte e lavoro
 
 ----
 
-Descrizione: è online Ruvide, storie di lotta e lavoro, l’archivio audiovisivo sulla storia del movimento operaio italiano
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://UbZhpwJQolPC4dVy
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://UbZhpwJQolPC4dVy
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Descrizione: è online Ruvide, storie di lotta e lavoro, l’archivio audiovisivo sulla storia del movimento operaio italiano
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione, Giovani Genere e Legalità
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-04-27
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-04-27
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

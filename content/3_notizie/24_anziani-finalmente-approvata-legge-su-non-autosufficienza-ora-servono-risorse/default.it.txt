@@ -2,14 +2,6 @@ Title: Anziani, finalmente approvata legge su non autosufficienza. Ora servono r
 
 ----
 
-Descrizione: Dichiarazioni del Segretario generale dello Spi-Cgil Ivan Pedretti
-
-----
-
-Dove: 
-
-----
-
 Immagine: - file://e384J6iYrp6GA7OO
 
 ----
@@ -18,7 +10,15 @@ Thumbnail: - file://e384J6iYrp6GA7OO
 
 ----
 
-Child-category-selector: Dipartimento Socio-sanitario
+Descrizione: Dichiarazioni del Segretario generale dello Spi-Cgil Ivan Pedretti
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Socio-sanitario, Diritti e Benessere
 
 ----
 
@@ -30,11 +30,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-03-21
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +110,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-03-21
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Socio-sanitario
-
-----
-
-Deadline: 
 
 ----
 
