@@ -14,6 +14,18 @@ Thumbnail:
 
 ----
 
+Date: 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: 
+
+----
+
 Parent-category-manager: 
 
 ----
@@ -22,7 +34,19 @@ Appuntamenti:
 
 ----
 
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -62,7 +86,11 @@ Collection-pagination-next:
 
 ----
 
-Contenuto: 
+Keywords: 
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"max-width: 1080px;\nmargin: 0 auto;\npadding: 0;\ntext-align: center;","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"level":"h1","text":"😱 <strong>Qualcosa è andato storto...</strong>"},"id":"a7fb3e6e-8c51-4b4e-aa48-c767ec649af3","isHidden":false,"type":"heading"}],"id":"6ae5de1d-dcfd-446c-99c9-f589b5f3dac7","width":"1/1"}],"id":"fc1fafc3-e65a-412b-aa9c-662935a8ba7c"},{"attrs":{"custom_css":"max-width: 1080px;\nmargin: 0 auto;\npadding: 0;\nmargin-bottom: 60px;","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Sembra che ci sia stato un errore. <br>Non preoccuparti, siamo qui per aiutarti!</p><p><strong>Ecco alcune cose che puoi fare:</strong></p>"},"id":"616923da-3374-45b8-a793-332cff25487c","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Ricaricare la pagina</strong>:<br>A volte, basta aggiornare la pagina per risolvere il problema.</li><li><strong>Tornare alla home</strong>:<br>Puoi tornare alla nostra pagina principale e riprovare da lì.</li><li><strong>Controllare l'indirizzo</strong>:<br>Assicurati di aver digitato correttamente l'URL.</li></ul>"},"id":"e0ea1678-82af-4622-94b0-d42d4f00e8ae","isHidden":false,"type":"list"}],"id":"e419f43a-4bc9-4afb-8090-9f4daeaf54e2","width":"1/2"},{"blocks":[{"content":{"text":"<p><strong>Ancora bisogno di assistenza?</strong></p><p>Se continui a riscontrare problemi, il nostro team di supporto è pronto ad aiutarti, contattaci tramite uno dei seguenti metodi:</p>"},"id":"d2ad74b2-13e8-4968-9fb8-03325b406ad8","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Telefono</strong>:<br>06 444 811</li><li><strong>Email</strong>:<br>nazionale@spi.cgil.it</li></ul>"},"id":"3adc4cce-f932-4599-ae47-4803556e228c","isHidden":false,"type":"list"}],"id":"6468262f-5d8b-4a5a-98d4-a34a6194da09","width":"1/2"}],"id":"3e9a4eee-612f-415e-9677-831dc85c1f12"}]
 
 ----
 

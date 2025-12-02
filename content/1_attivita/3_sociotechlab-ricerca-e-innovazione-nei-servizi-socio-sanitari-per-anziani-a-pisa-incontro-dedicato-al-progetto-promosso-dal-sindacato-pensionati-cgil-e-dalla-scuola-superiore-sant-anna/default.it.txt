@@ -2,6 +2,10 @@ Title: Sociotechlab: Ricerca e Innovazione nei Servizi Socio-Sanitari per Anzian
 
 ----
 
+Descrizione: L'incontro rappresenta un'importante occasione di confronto tra istituzioni, ricerca e mondo del lavoro, con l'obiettivo di promuovere l'innovazione e garantire un'assistenza di qualità per gli anziani. 
+
+----
+
 Immagine: - file://yHEutVkxRYiAgSqf
 
 ----
@@ -10,11 +14,11 @@ Thumbnail: - file://yHEutVkxRYiAgSqf
 
 ----
 
-Descrizione: L'incontro rappresenta un'importante occasione di confronto tra istituzioni, ricerca e mondo del lavoro, con l'obiettivo di promuovere l'innovazione e garantire un'assistenza di qualità per gli anziani. 
+Date: 
 
 ----
 
-Dove: 
+Dove: Pisa
 
 ----
 
