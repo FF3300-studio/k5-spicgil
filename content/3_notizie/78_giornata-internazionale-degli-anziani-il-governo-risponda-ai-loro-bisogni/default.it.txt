@@ -18,7 +18,7 @@ Thumbnail: - file://nOzsTzX6LY21rxcm
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione, Dipartimento Internazionale
+Child-category-selector: Organizzazione, Internazionale
 
 ----
 

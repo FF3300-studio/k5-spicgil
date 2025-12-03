@@ -18,7 +18,7 @@ Thumbnail: - file://rQgllKD4lD8z0ks8
 
 ----
 
-Child-category-selector: Dipartimento Organizzazione
+Child-category-selector: Organizzazione
 
 ----
 

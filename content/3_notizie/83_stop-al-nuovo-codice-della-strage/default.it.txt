@@ -18,7 +18,7 @@ Thumbnail: - file://8d1cQcywe7XwmTht
 
 ----
 
-Child-category-selector: Dipartimento Contrattazione Sociale
+Child-category-selector: Contrattazione Sociale
 
 ----
 

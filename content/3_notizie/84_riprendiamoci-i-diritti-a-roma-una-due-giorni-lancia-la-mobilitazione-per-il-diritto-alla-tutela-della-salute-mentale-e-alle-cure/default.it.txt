@@ -18,7 +18,7 @@ Thumbnail: - file://NpyLXOx12OHrjs7I
 
 ----
 
-Child-category-selector: Dipartimento Socio-sanitario
+Child-category-selector: Socio-sanitario
 
 ----
 

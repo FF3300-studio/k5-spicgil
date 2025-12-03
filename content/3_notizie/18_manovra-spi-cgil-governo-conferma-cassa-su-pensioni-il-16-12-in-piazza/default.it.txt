@@ -18,7 +18,7 @@ Thumbnail: - file://QucaDP3tow8xcNCP
 
 ----
 
-Child-category-selector: Pensioni, Dipartimento Organizzazione
+Child-category-selector: Pensioni, Organizzazione
 
 ----
 

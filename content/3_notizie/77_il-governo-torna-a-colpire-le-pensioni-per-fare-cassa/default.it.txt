@@ -18,7 +18,7 @@ Thumbnail: - file://olgrwGdjUFvg2CrF
 
 ----
 
-Child-category-selector: Dipartimento Previdenza e Fisco, Dipartimento Organizzazione
+Child-category-selector: Previdenza e Fisco, Organizzazione
 
 ----
 

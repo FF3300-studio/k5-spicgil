@@ -18,7 +18,7 @@ Thumbnail: - file://eUOMAFeb4otks9l2
 
 ----
 
-Child-category-selector: Dipartimento Internazionale
+Child-category-selector: Internazionale
 
 ----
 

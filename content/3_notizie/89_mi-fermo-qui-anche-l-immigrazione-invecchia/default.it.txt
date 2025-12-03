@@ -18,7 +18,7 @@ Thumbnail: - file://Ccg4hraG9hRgQMh3
 
 ----
 
-Child-category-selector: Dipartimento Diritti e Benessere
+Child-category-selector: Diritti e Benessere
 
 ----
 
