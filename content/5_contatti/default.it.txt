@@ -1,0 +1,117 @@
+Title: Contatti
+
+----
+
+Descrizione: 
+
+----
+
+Immagine: 
+
+----
+
+Thumbnail: 
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: 
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: 
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"max-width: 1080px;\nmargin: 0 auto!important;\ntext-align: center;\npadding: 0!important;","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"CONTATTI","alignment":""},"id":"54f51be7-2f7d-4329-8d6e-070dd54cfdc6","isHidden":false,"type":"page_title"}],"id":"bfad6d07-87b8-4cbb-b318-8e71501a5bcc","width":"1/1"}],"id":"09d1d91c-2a4e-4ff0-8cf3-20041b8b2766"},{"attrs":{"custom_css":"max-width: 1080px;\nmargin: 15px auto;\ntext-align: center;\nmargin-top: 30px;","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[],"id":"1fe2e526-d408-4bca-8311-8342b722371e","width":"1/6"},{"blocks":[{"content":{"text":"<p>Scrivici per richiedere informazioni o toglierti un dubbio, <br>ma anche per fissare un appuntamento nella sede più vicina.  <br><strong>Avremo cura di te.<br><br></strong>↓</p>"},"id":"a097d1ca-49ad-463a-a662-0ae41299e73a","isHidden":false,"type":"text"}],"id":"ea6081c8-5d64-47f3-9bc8-b3d6f9d21502","width":"2/3"},{"blocks":[],"id":"331459fe-932a-43f5-993f-5b11ea1ce2d9","width":"1/6"}],"id":"244b7903-3434-4c47-80ab-4f11ba195635"},{"attrs":{"custom_css":"max-width: 1080px;\nmargin: 0 auto;\nmargin-bottom: 15px;","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"formid":"60684dd4-f34e-4d13-b866-31137749f40b","mailview":null,"formfields":"[{\"content\":{\"label\":\"Nome e cognome\",\"slug\":\"name\",\"autofill\":\"name\",\"required\":\"true\",\"required_fail\":\"\",\"inputtype\":\"text\",\"placeholder\":\"\",\"default\":\"\",\"validate\":[]},\"id\":\"52841b06-fc65-4a45-9874-290f95b14dfe\",\"isHidden\":false,\"type\":\"formfields_01_input\"},{\"content\":{\"label\":\"Email\",\"slug\":\"email\",\"autofill\":\"email\",\"required\":\"true\",\"required_fail\":\"\",\"inputtype\":\"email\",\"placeholder\":\"\",\"default\":\"\",\"validate\":[{\"validate\":\"email\",\"match\":\"\",\"minlength\":\"\",\"maxlength\":\"\",\"min\":\"\",\"max\":\"\",\"msg\":\"\"}]},\"id\":\"bb8f4d97-e1aa-4f24-8e9a-7dd2b9ff3091\",\"isHidden\":false,\"type\":\"formfields_01_input\"},{\"content\":{\"label\":\"Oggetto\",\"slug\":\"oggetto\",\"autofill\":\"\",\"required\":\"true\",\"required_fail\":\"\",\"inputtype\":\"text\",\"placeholder\":\"\",\"default\":\"\",\"validate\":[]},\"id\":\"5c0c68a5-a4d3-4cb6-bcb7-9a0e3ea2fd58\",\"isHidden\":false,\"type\":\"formfields_01_input\"},{\"content\":{\"label\":\"Messaggio\",\"slug\":\"messaggio\",\"autofill\":\"\",\"required\":\"true\",\"required_fail\":\"\",\"placeholder\":\"\",\"row\":5,\"man\":255},\"id\":\"a3db5c7a-fb0f-48bc-8008-c4ad3232d17e\",\"isHidden\":false,\"type\":\"formfields_02_textarea\"},{\"content\":{\"label\":\"Privacy policy\",\"slug\":\"privacy-checkbox\",\"autofill\":\"\",\"required\":\"false\",\"required_fail\":\"\",\"options\":[{\"label\":\"Dichiaro di aver preso visione dell'<a href=\\\"/privacy-policy\\\" title=\\\"privacy policy\\\">informativa sulla privacy</a> e acconsento al trattamento dei dati.\",\"slug\":\"acconsento\",\"selected\":\"false\"}]},\"id\":\"f4a0b034-6d7d-4fb7-a3e0-3be0d7942d15\",\"isHidden\":false,\"type\":\"formfields_03_checkbox\"}]","display":"{{name}} ({{email}})","name":"Contatti","enable_notify":"true","notify_email":"","notify_subject":"","notify_body":"","enable_confirm":"true","confirm_email":"","confirm_subject":"","confirm_body":"","redirect":"false","success_message":"<p>Grazie </p>","success_url":[],"0":"C","1":"o","2":"n","3":"t","4":"a","5":"t","6":"t","7":"i"},"id":"60684dd4-f34e-4d13-b866-31137749f40b","isHidden":false,"type":"form"}],"id":"6c90bfac-321a-43cb-9aec-b9e70d0adc95","width":"1/1"}],"id":"97990ac1-8f83-42a4-b2d2-ffea12ca6b36"},{"attrs":{"custom_css":"max-width: 1080px;\nmargin: 0 auto;\nmargin-bottom: 90px;","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"level":"h4","text":"↓ Segreteria generale"},"id":"6f8f5584-4d4c-415b-99ae-e30ae3314190","isHidden":false,"type":"heading"},{"content":[],"id":"45b73ade-8b27-4d50-a4ec-9e21c0263776","isHidden":false,"type":"line"},{"content":{"text":"<p><strong>MANUELA CAMPANELLI </strong><br>Segreteria generale<br>06 44 48 11<br><a href=\"mailto:segreteriagenerale@spi.cgil.it\">segreteriagenerale@spi.cgil.it</a></p>"},"id":"00db72b0-18de-4817-b751-3ba3a452f445","isHidden":false,"type":"text"}],"id":"315c0078-e4cc-40d1-a167-856b362d748a","width":"1/2"},{"blocks":[{"content":{"level":"h4","text":"↓ Ufficio Stampa"},"id":"1f375696-08ce-4a51-b0f7-27493366df53","isHidden":false,"type":"heading"},{"content":[],"id":"7ca7299d-7751-4d89-a660-7b5d6f3f0b94","isHidden":false,"type":"line"},{"content":{"text":"<p><strong>MARTINA TOTI<br></strong>Responsabile comunicazione e ufficio stampa<br>06 44 48 13 66<br><a href=\"mailto:martina.toti@spi.cgil.it\">martina.toti@spi.cgil.it</a></p>"},"id":"2706d420-7c70-4c43-b548-cdc125cc0197","isHidden":false,"type":"text"},{"content":[],"id":"fd5b8179-13ba-4712-8be2-899e9fe6e448","isHidden":false,"type":"line"},{"content":{"text":"<p><strong>FULVIO VENANZETTI<br></strong>Comunicazione e ufficio stampa<br>06 44481299<br><a href=\"mailto:fulvio.venanzetti@spi.cgil.it\">fulvio.venanzetti@spi.cgil.it</a></p>"},"id":"65ebca1c-12c7-4c4c-8136-a783c22f0704","isHidden":false,"type":"text"}],"id":"622e220d-7269-46a7-acc0-64982ffd2475","width":"1/2"}],"id":"950500c8-4ab9-4ea5-831a-95378f80edb7"}]
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Date: 
+
+----
+
+Uuid: uGqv4C0jrEX7dr1q

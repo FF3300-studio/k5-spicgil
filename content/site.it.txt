@@ -69,7 +69,7 @@ Menu:
 - 
   ismobile: 'false'
   isexternal: 'false'
-  linktitle: Contattaci
+  linktitle: Contatti
   pagelink:
     - page://uGqv4C0jrEX7dr1q
   externallink: ""
