@@ -14,7 +14,7 @@ Thumbnail:
 
 ----
 
-Date: 
+Data-di-pubblicazione: 
 
 ----
 
@@ -133,7 +133,7 @@ Keywords:
 
 ----
 
-Contenuto: [{"attrs":{"custom_css":"max-width: 1080px;\nmargin: 0 auto;\ntext-align: center;","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<h2 style=\"font-size: 60px; width: 100%; text-align: center;\"><span style=\"font-family: 'black'; font-variation-settings: 'wght' 900, 'opsz' 100, 'wdth' 120, 'GRAD' -0.5,    'slnt' 0, 'XTRA' 468.6, 'XOPQ' 96.56, 'YOPQ' 78.9, 'YTLC' 514.56,    'YTUC' 711.28, 'YTAS' 749.45, 'YTDE' -203.57, 'YTFI' 737.84!important;\">ATTIVITÀ</span></h2>"},"id":"c84654cf-99c6-4f65-be43-07b2148bcc56","isHidden":false,"type":"markdown"},{"content":{"level":"h1","text":"Ogni anno organizziamo e promuoviamo centinaia di attività su tutto il territorio nazionale.  Si tratta di attività molto diverse tra loro per tipologia e tematiche."},"id":"06b1b8cc-4ad3-496f-9e99-e004f9c33f70","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"<p>Qui ne raccogliamo alcune delle principali svolte di recente.</p>"},"id":"8c4d649d-3693-4691-9740-6dbc73a78bca","isHidden":false,"type":"heading"}],"id":"6ee98e8f-e989-4150-8642-a4df5598bed6","width":"1/1"}],"id":"4616eb8f-6468-4308-a0b1-4d0edf43bc09"}]
+Contenuto: [{"attrs":{"custom_css":"max-width: 1080px;\nmargin: 0 auto;\ntext-align: center!important;","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<h2 style=\"font-size: 60px; width: 100%; text-align: center;\"><span style=\"font-family: 'black'; font-variation-settings: 'wght' 900, 'opsz' 100, 'wdth' 120, 'GRAD' -0.5,    'slnt' 0, 'XTRA' 468.6, 'XOPQ' 96.56, 'YOPQ' 78.9, 'YTLC' 514.56,    'YTUC' 711.28, 'YTAS' 749.45, 'YTDE' -203.57, 'YTFI' 737.84!important;\">ATTIVITÀ</span></h2>"},"id":"c84654cf-99c6-4f65-be43-07b2148bcc56","isHidden":false,"type":"markdown"},{"content":{"level":"h1","text":"Ogni anno organizziamo e promuoviamo centinaia di attività su tutto il territorio nazionale.  Si tratta di attività molto diverse tra loro per tipologia e tematiche."},"id":"06b1b8cc-4ad3-496f-9e99-e004f9c33f70","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"<p>Qui ne raccogliamo alcune delle principali svolte di recente.</p>"},"id":"8c4d649d-3693-4691-9740-6dbc73a78bca","isHidden":false,"type":"heading"}],"id":"6ee98e8f-e989-4150-8642-a4df5598bed6","width":"1/1"}],"id":"4616eb8f-6468-4308-a0b1-4d0edf43bc09"}]
 
 ----
 
@@ -153,7 +153,7 @@ Collection-pagination: true
 
 ----
 
-Data-di-pubblicazione: 
+Date: 
 
 ----
 

@@ -6,15 +6,15 @@ Descrizione: Il coordinamento donne dello Spi Cgil torna a riunirsi a Roma per C
 
 ----
 
-Immagine: - file://7kumvid4ihtqpxjt
+Immagine: - file://ajnn51zak6b7iqpn
 
 ----
 
-Thumbnail: - file://7kumvid4ihtqpxjt
+Thumbnail: - file://ajnn51zak6b7iqpn
 
 ----
 
-Date: 
+Data-di-pubblicazione: 
 
 ----
 
@@ -123,7 +123,7 @@ Collection-pagination: false
 
 ----
 
-Data-di-pubblicazione: 
+Date: 
 
 ----
 
